@@ -4,6 +4,9 @@ Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robert-cronin&show_icons=true&theme=radical)
 
+[![Robbie Cronin StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=7644072&layout=compact&theme=dark)](https://stackoverflow.com/users/7644072/robbie-cronin)
+
+
 ## 🛠️ Technologies & Tools
 
 ### Languages
@@ -22,7 +25,7 @@ Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines
 [![Other Skills](https://skillicons.dev/icons?i=vscode,git,docker,postgres,jest,cypress,nix)](https://skillicons.dev)
 
 
-## 🚀 Projects
+## 🚀 Hobby Projects
 
 - [**KubeLiteDB**](https://github.com/fortytwoapps/KubeLiteDB)
   - Kubernetes CRD for managing SQLite instances.
