@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi there, I'm Robbie! 👋
 
-<!--
-**robert-cronin/robert-cronin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines.medium.com/be-an-engineer-not-a-frameworker-c58fe28d0c88).
 
-Here are some ideas to get you started:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robert-cronin&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+
+### Languages
+[![Languages Skills](https://skillicons.dev/icons?i=go,typescript,python,bash)](https://skillicons.dev)
+
+### Cloud
+[![Cloud Skills](https://skillicons.dev/icons?i=kubernetes,aws,linux,terraform,githubactions,jenkins)](https://skillicons.dev)
+
+### Frontend
+[![Frontend Skills](https://skillicons.dev/icons?i=mui,react,redux,figma,styledcomponents)](https://skillicons.dev)
+
+### Backend
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,fastapi,express,postgres)](https://skillicons.dev)
+
+### Other
+[![Other Skills](https://skillicons.dev/icons?i=vscode,git,docker,postgres,jest,cypress,nix)](https://skillicons.dev)
+
+
+## 🚀 Projects
+
+- [**KubeLiteDB**](https://github.com/fortytwoapps/KubeLiteDB)
+  - Kubernetes CRD for managing SQLite instances.
+- [**MindScript-Go**](https://github.com/robert-cronin/mindscript-go)
+  - Building a compiler from scratch for a fictional programming language.
+- [**KStitch**](https://github.com/fortytwoapps/kstitch)
+  - (Old) An object oriented toolkit for MongoDB Stitch in KotlinJS.
+
+## 🔭 Currently Working On
+
+- Building a Raspberry Pi microk8s cluster.
+- Helping out with the Kubernetes website.
+- Learning about compilers.
+
+## 📫 Get in Touch
+
+- [Email](mailto:robert.cronin@uqconnect.edu.au)
+
+## 🌟 Fun Facts
+
+- I love reading:
+  - The Culture series by Iain M. Banks
+  - Fire Upon the Deep by Vernor Vinge
+  - Dune by Frank Herbert
+- I can speak Mandarin Chinese and have professional experience using the language. 你好 👋
+
