@@ -1,0 +1,51 @@
+# Copyright 2024 Robert Cronin
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#     https://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
+name: Update Latest PRs
+
+on:
+  schedule:
+    - cron: "0 0 */2 * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Update README with latest PRs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python .github/scripts/update_prs.py
+
+      # - name: Commit and push if changed
+      #   run: |
+      #     git config --global user.email "action@github.com"
+      #     git config --global user.name "GitHub Action"
+      #     git add README.md
+      #     git diff --quiet && git diff --staged --quiet || (git commit -m "Update latest PRs in README" && git push)
+      - name: cat out the README
+        run: cat README.md

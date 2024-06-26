@@ -40,6 +40,10 @@ Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines
 - Helping out with the Kubernetes website.
 - Learning about compilers.
 
+## 🔄 Latest Pull Requests
+<!-- START_SECTION:prs -->
+<!-- END_SECTION:prs -->
+
 ## 📫 Get in Touch
 
 - [Email](mailto:robert.cronin@uqconnect.edu.au)
