@@ -5,7 +5,6 @@ Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robert-cronin&show_icons=true&theme=radical)
 
 <!-- START_SECTION:prs -->
-
 ## 🔄 Latest Pull Requests
 
 🟢 Open | 🟣 Merged
@@ -15,11 +14,9 @@ Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines
 🟣 [Handle multiple CVEs per issue in official CVE feed](https://github.com/kubernetes/sig-security/pull/117) - 2024-06-29<br>
 🟣 [Add clarification on the usage of etcdutl vs etcdctl](https://github.com/kubernetes/website/pull/46778) - 2024-06-12<br>
 🟢 [Remove rewrite annotation from minikube ingress example](https://github.com/kubernetes/website/pull/46603) - 2024-06-11<br>
-
 <!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
-
 ## 📜 Latest Gists
 
 📜 [reflect_secret.sh](https://gist.github.com/robert-cronin/c4df6777ba61bacd45a4bd67b5ea5b34) - 2024-06-24<br>
@@ -27,7 +24,6 @@ Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines
 📜 [debug-pod.sh](https://gist.github.com/robert-cronin/0a76a112fe444bccd50cb7ac56e8b1b5) - 2024-06-12<br>
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
-
 <!-- END_SECTION:gists -->
 
 ## 🔭 Currently Working On
