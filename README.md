@@ -4,45 +4,78 @@ Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robert-cronin&show_icons=true&theme=radical)
 
-[![Robbie Cronin StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=7644072&layout=compact&theme=dark)](https://stackoverflow.com/users/7644072/robbie-cronin)
+<!-- START_SECTION:prs -->
 
+## 🔄 Latest Pull Requests
 
-## 🛠️ Technologies & Tools
+🟢 Open | 🟣 Merged
 
-### Languages
-[![Languages Skills](https://skillicons.dev/icons?i=go,typescript,python,bash)](https://skillicons.dev)
+🟢 [Add ut coverage for capabilities.Setup](https://github.com/kubernetes/kubernetes/pull/125395) - 2024-07-01<br>
+🟢 [Add ut coverage for auth.authorizer.abac](https://github.com/kubernetes/kubernetes/pull/125726) - 2024-06-29<br>
+🟣 [Handle multiple CVEs per issue in official CVE feed](https://github.com/kubernetes/sig-security/pull/117) - 2024-06-29<br>
+🟣 [Add clarification on the usage of etcdutl vs etcdctl](https://github.com/kubernetes/website/pull/46778) - 2024-06-12<br>
+🟢 [Remove rewrite annotation from minikube ingress example](https://github.com/kubernetes/website/pull/46603) - 2024-06-11<br>
 
-### Cloud
-[![Cloud Skills](https://skillicons.dev/icons?i=kubernetes,aws,linux,terraform,githubactions,jenkins)](https://skillicons.dev)
+<!-- END_SECTION:prs -->
 
-### Frontend
-[![Frontend Skills](https://skillicons.dev/icons?i=mui,react,redux,figma,styledcomponents)](https://skillicons.dev)
+<!-- START_SECTION:gists -->
 
-### Backend
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,fastapi,express,postgres)](https://skillicons.dev)
+## 📜 Latest Gists
 
-### Other
-[![Other Skills](https://skillicons.dev/icons?i=vscode,git,docker,postgres,jest,cypress,nix)](https://skillicons.dev)
+📜 [reflect_secret.sh](https://gist.github.com/robert-cronin/c4df6777ba61bacd45a4bd67b5ea5b34) - 2024-06-24<br>
+📜 [concatenate_repo.sh](https://gist.github.com/robert-cronin/02215e61893d6616fc0d269e829b50ed) - 2024-06-18<br>
+📜 [debug-pod.sh](https://gist.github.com/robert-cronin/0a76a112fe444bccd50cb7ac56e8b1b5) - 2024-06-12<br>
+📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
+📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-
-## 🚀 Hobby Projects
-
-- [**KubeLiteDB**](https://github.com/fortytwoapps/KubeLiteDB)
-  - Kubernetes CRD for managing SQLite instances.
-- [**MindScript-Go**](https://github.com/robert-cronin/mindscript-go)
-  - Building a compiler from scratch for a fictional programming language.
-- [**KStitch**](https://github.com/fortytwoapps/kstitch)
-  - (Old) An object oriented toolkit for MongoDB Stitch in KotlinJS.
+<!-- END_SECTION:gists -->
 
 ## 🔭 Currently Working On
 
 - Building a Raspberry Pi microk8s cluster.
-- Helping out with the Kubernetes website.
+- Helping out with the Kubernetes documentation and testing.
 - Learning about compilers.
 
-## 🔄 Latest Pull Requests
-<!-- START_SECTION:prs -->
-<!-- END_SECTION:prs -->
+## 🚀 Hobby Projects
+
+- [**JueJu**](https://github.com/robert-cronin/jueju)
+  - An AI-powered Chinese poetry platform to explore new patterns and best practices in GenAI, Go and Kubernetes.
+- [**MindScript-Go**](https://github.com/robert-cronin/mindscript-go)
+  - Building a compiler from scratch for a fictional programming language, written in Go.
+- [**Homelab**](https://github.com/robert-cronin/homelab)
+  - GitOps for my home Kubernetes cluster. Built on Rasberry Pi 4 nodes, it houses all my personal projects.
+- [**KubeLiteDB**](https://github.com/robert-cronin/KubeLiteDB)
+  - Kubernetes CRD for managing SQLite instances.
+
+## 🛠️ Technologies & Tools
+
+### Languages
+
+[![Languages Skills](https://skillicons.dev/icons?i=go,typescript,python,bash)](https://skillicons.dev)
+
+### Cloud
+
+[![Cloud Skills](https://skillicons.dev/icons?i=kubernetes,aws,linux,terraform,githubactions,jenkins)](https://skillicons.dev)
+
+### Frontend
+
+[![Frontend Skills](https://skillicons.dev/icons?i=mui,react,redux,figma,styledcomponents,nextjs,vite,css,html,ts)](https://skillicons.dev)
+
+### Backend
+
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,fastapi,express,postgres,python)](https://skillicons.dev)
+
+### Databases & Messaging
+
+[![Database Skills](https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,rabbitmq,kafka)](https://skillicons.dev)
+
+### Machine Learning
+
+[![ML Skills](https://skillicons.dev/icons?i=tensorflow,elasticsearch,pytorch,opencv)](https://skillicons.dev)
+
+### Other Tools
+
+[![Other Skills](https://skillicons.dev/icons?i=vscode,git,docker,jest,cypress,grafana,prometheus,bash)](https://skillicons.dev)
 
 ## 📫 Get in Touch
 
@@ -55,4 +88,3 @@ Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines
   - Fire Upon the Deep by Vernor Vinge
   - Dune by Frank Herbert
 - I can speak Mandarin Chinese and have professional experience using the language. 你好 👋
-

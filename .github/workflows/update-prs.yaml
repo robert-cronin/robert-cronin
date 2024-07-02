@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-name: Update Latest PRs
+name: Update Latest PRs and Gists
 
 on:
   schedule:
@@ -35,17 +35,22 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Update README with latest PRs
+      - name: Update README with latest PRs and Gists
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           python .github/scripts/update_prs.py
 
-      # - name: Commit and push if changed
-      #   run: |
-      #     git config --global user.email "action@github.com"
-      #     git config --global user.name "GitHub Action"
-      #     git add README.md
-      #     git diff --quiet && git diff --staged --quiet || (git commit -m "Update latest PRs in README" && git push)
-      - name: cat out the README
-        run: cat README.md
+      - name: Check for changes
+        id: git-check
+        run: |
+          git diff --exit-code || echo "changes=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push if changed
+        if: steps.git-check.outputs.changes == 'true'
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update latest PRs and Gists in README"
+          git push
