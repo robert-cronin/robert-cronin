@@ -32,67 +32,10 @@ def format_pr(pr):
     else:
         return None  # Skip closed but unmerged PRs
 
-    return f"{status_emoji} [{pr['title']}]({pr['html_url']}) - {formatted_date}<br>"
-
-
-def update_recent_prs(prs):
-    pr_section = "## 🔄 Latest Pull Requests\n\n"
-    pr_section += "🟢 Open | 🟣 Merged\n\n"
-    for pr in prs:
-        formatted_pr = format_pr(pr)
-        if formatted_pr:
-            pr_section += formatted_pr + "\n"
-
-    with open('README.md', 'r') as file:
-        content = file.read()
-
-    new_content = re.sub(
-        r'(<!-- START_SECTION:prs -->).*?(<!-- END_SECTION:prs -->)',
-        f'\\1\n{pr_section}\\2',
-        content,
-        flags=re.DOTALL
-    )
-
-    with open('README.md', 'w') as file:
-        file.write(new_content)
-
-
-def get_latest_prs(username):
-    headers = {
-        'Accept': 'application/vnd.github.v3+json',
+    return {
+        'formatted': f"{status_emoji} [{pr['title']}]({pr['html_url']}) - {formatted_date}<br>",
+        'updated_at': updated_at
     }
-    url = f'https://api.github.com/search/issues?q=author:{
-        username}+is:pr+is:public+sort:updated-desc'
-    response = requests.get(url, headers=headers)
-    response.raise_for_status()
-    all_prs = response.json()['items']
-
-    # Filter to include only open and merged PRs
-    filtered_prs = [pr for pr in all_prs if pr['state'] ==
-                    'open' or pr.get('pull_request', {}).get('merged_at')]
-    return filtered_prs[:5]
-
-
-def get_latest_gists(username):
-    headers = {
-        'Accept': 'application/vnd.github.v3+json',
-    }
-    url = f'https://api.github.com/users/{username}/gists'
-    response = requests.get(url, headers=headers)
-    response.raise_for_status()
-    return response.json()[:5]
-
-
-def format_gist(gist):
-    created_at = datetime.strptime(
-        gist['created_at'], "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
-    formatted_date = created_at.strftime("%Y-%m-%d")
-
-    # Get the first file name as the gist title
-    first_file = next(iter(gist['files'].values()))
-    gist_title = first_file['filename']
-
-    return f"📜 [{gist_title}]({gist['html_url']}) - {formatted_date}<br>"
 
 
 def update_readme(prs, gists):
@@ -100,9 +43,7 @@ def update_readme(prs, gists):
     pr_section = "## 🔄 Latest Pull Requests\n\n"
     pr_section += "🟢 Open | 🟣 Merged\n\n"
     for pr in prs:
-        formatted_pr = format_pr(pr)
-        if formatted_pr:
-            pr_section += formatted_pr + "\n"
+        pr_section += pr['formatted'] + "\n"
 
     # Create gists section
     gist_section = "## 📜 Latest Gists\n\n"
@@ -132,6 +73,53 @@ def update_readme(prs, gists):
 
     with open('README.md', 'w') as file:
         file.write(content)
+
+
+def get_latest_prs(username):
+    headers = {
+        'Accept': 'application/vnd.github.v3+json',
+    }
+    
+    # Get open PRs
+    open_url = f'https://api.github.com/search/issues?q=author:{username}+is:pr+is:public+is:open+sort:updated-desc&per_page=5'
+    open_response = requests.get(open_url, headers=headers)
+    open_response.raise_for_status()
+    open_prs = open_response.json()['items']
+
+    # Get merged PRs
+    merged_url = f'https://api.github.com/search/issues?q=author:{username}+is:pr+is:public+is:merged+sort:updated-desc&per_page=5'
+    merged_response = requests.get(merged_url, headers=headers)
+    merged_response.raise_for_status()
+    merged_prs = merged_response.json()['items']
+
+    # Combine, format, and sort PRs
+    all_prs = open_prs + merged_prs
+    formatted_prs = [format_pr(pr) for pr in all_prs if format_pr(pr)]
+    sorted_prs = sorted(formatted_prs, key=lambda x: x['updated_at'], reverse=True)
+    
+    return sorted_prs[:10]
+
+
+def get_latest_gists(username):
+    headers = {
+        'Accept': 'application/vnd.github.v3+json',
+    }
+    url = f'https://api.github.com/users/{username}/gists'
+    response = requests.get(url, headers=headers)
+    response.raise_for_status()
+    return response.json()[:5]
+
+
+def format_gist(gist):
+    created_at = datetime.strptime(
+        gist['created_at'], "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
+    formatted_date = created_at.strftime("%Y-%m-%d")
+
+    # Get the first file name as the gist title
+    first_file = next(iter(gist['files'].values()))
+    gist_title = first_file['filename']
+
+    return f"📜 [{gist_title}]({gist['html_url']}) - {formatted_date}<br>"
 
 
 if __name__ == "__main__":
