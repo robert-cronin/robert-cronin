@@ -89,3 +89,4 @@ Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines
   - Fire Upon the Deep by Vernor Vinge
   - Dune by Frank Herbert
 - I can speak Mandarin Chinese and have professional experience using the language. 你好 👋
+- I ran the Ironman Triathlon in 2017 and have been hooked on endurance sports ever since!
