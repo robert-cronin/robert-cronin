@@ -82,11 +82,13 @@ Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines
 
 - [Email](mailto:robert.cronin@uqconnect.edu.au)
 
+## 📚 Books I've Read Recently
+- The Culture series by Iain M. Banks
+- Fire Upon the Deep by Vernor Vinge
+- Dune by Frank Herbert
+- 三体 by 刘慈欣
+
 ## 🌟 Fun Facts
 
-- I love reading:
-  - The Culture series by Iain M. Banks
-  - Fire Upon the Deep by Vernor Vinge
-  - Dune by Frank Herbert
 - I can speak Mandarin Chinese and have professional experience using the language. 你好 👋
 - I ran the Ironman Triathlon in 2017 and have been hooked on endurance sports ever since!
