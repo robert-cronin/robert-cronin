@@ -42,12 +42,14 @@ Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines
 
 - [**JueJu**](https://github.com/robert-cronin/jueju)
   - An AI-powered Chinese poetry platform to explore new patterns and best practices in GenAI, Go and Kubernetes.
+- [**KubeMedic**](https://github.com/robert-cronin/kubemedic)
+  - An intelligent Kubernetes diagnostics tool leveraging OpenAI's API for advanced troubleshooting and best practices.
+- [**KubeLiteDB**](https://github.com/robert-cronin/KubeLiteDB)
+  - Kubernetes CRD for managing SQLite instances.
 - [**MindScript-Go**](https://github.com/robert-cronin/mindscript-go)
   - Building a compiler from scratch for a fictional programming language, written in Go.
 - [**Homelab**](https://github.com/robert-cronin/homelab)
   - GitOps for my home Kubernetes cluster. Built on Rasberry Pi 4 nodes, it houses all my personal projects.
-- [**KubeLiteDB**](https://github.com/robert-cronin/KubeLiteDB)
-  - Kubernetes CRD for managing SQLite instances.
 
 ## 🛠️ Technologies & Tools
 
