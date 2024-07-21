@@ -36,6 +36,7 @@ Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines
 - Building a Raspberry Pi microk8s cluster.
 - Helping out with the Kubernetes documentation and testing.
 - Learning about compilers.
+- Working towards some certifications: CKA & SAA-C03
 
 ## 🚀 Hobby Projects
 
