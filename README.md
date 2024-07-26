@@ -33,6 +33,7 @@ Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines
 
 ## 🔭 Currently Working On
 
+- Using GenAI to improve our participants' return-to-work journey @ leapforward.ai 🚀 
 - Building a Raspberry Pi microk8s cluster.
 - Helping out with the Kubernetes documentation and testing.
 - Learning about compilers.
