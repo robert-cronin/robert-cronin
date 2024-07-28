@@ -2,6 +2,9 @@
 
 Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines.medium.com/be-an-engineer-not-a-frameworker-c58fe28d0c88).
 
+> "The greatest teacher, failure is."
+-*Yoda*
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robert-cronin&show_icons=true&theme=radical)
 
 <!-- START_SECTION:prs -->
