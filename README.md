@@ -48,6 +48,8 @@ Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines
   - An AI-powered Chinese poetry platform to explore new patterns and best practices in GenAI, Go and Kubernetes.
 - [**KubeMedic**](https://github.com/robert-cronin/kubemedic)
   - An intelligent Kubernetes diagnostics tool leveraging OpenAI's API for advanced troubleshooting and best practices.
+- [**K8s Practice Assistant (kpa)**](https://github.com/robert-cronin/kpa)
+  - A simple tool that uses GPT4o mini and a local MiniKube cluster to help users sharpen their Kubernetes skills with mock scenarios and intelligent feedback.
 - [**KubeLiteDB**](https://github.com/robert-cronin/KubeLiteDB)
   - Kubernetes CRD for managing SQLite instances.
 - [**MindScript-Go**](https://github.com/robert-cronin/mindscript-go)
