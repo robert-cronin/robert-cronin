@@ -37,10 +37,9 @@ Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines
 ## 🔭 Currently Working On
 
 - Using GenAI to improve our participants' return-to-work journey @ leapforward.ai 🚀 
-- Building a Raspberry Pi microk8s cluster.
+- Building a docker clone & learning about low-level programming in Rust.
 - Helping out with the Kubernetes documentation and testing.
-- Learning about compilers.
-- Working towards some certifications: CKA & SAA-C03
+- Working towards some certifications: CKA (50%) & SAA-C03 (80%)
 
 ## 🚀 Hobby Projects
 
@@ -56,6 +55,8 @@ Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines
   - Building a compiler from scratch for a fictional programming language, written in Go.
 - [**Homelab**](https://github.com/robert-cronin/homelab)
   - GitOps for my home Kubernetes cluster. Built on Rasberry Pi 4 nodes, it houses all my personal projects.
+- [**RustBox**](https://github.com/robert-cronin/rust-box)
+  - A rusty docker clone built in Rust to learn about Rust and low-level linux features like cgroups/namespaces
 
 ## 🛠️ Technologies & Tools
 
