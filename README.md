@@ -38,8 +38,8 @@ Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines
 
 - Using GenAI to improve our participants' return-to-work journey @ leapforward.ai 🚀 
 - Building a docker clone & learning about low-level programming in Rust.
-- Helping out with the Kubernetes documentation and testing.
-- Working towards some certifications: CKA (50%) & SAA-C03 (80%)
+- Preparing for a big transition 📈
+- Working towards some certifications: CKA (60%) & SAA-C03 (90%)
 
 ## 🚀 Hobby Projects
 
