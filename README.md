@@ -1,4 +1,4 @@
-# Hi there, I'm Robbie! 👋
+# Hi there, I'm Robbie (or 徐睿杰)! 👋
 
 Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines.medium.com/be-an-engineer-not-a-frameworker-c58fe28d0c88).
 
