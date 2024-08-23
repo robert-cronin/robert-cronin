@@ -34,12 +34,12 @@ Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 <!-- END_SECTION:gists -->
 
-## 🔭 Currently Working On
+## 🔭 Current Priorities
 
 - Using GenAI to improve our participants' return-to-work journey @ leapforward.ai 🚀 
 - Building a docker clone & learning about low-level programming in Rust.
 - Preparing for a big transition 📈
-- Working towards some certifications: CKA (80%) & SAA-C03 (90% - on hold)
+- Working towards some certifications: CKA (90%) & SAA-C03 (90% - on hold)
 
 ## 🚀 Hobby Projects
 
