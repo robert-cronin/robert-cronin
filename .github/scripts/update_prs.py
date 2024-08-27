@@ -34,8 +34,14 @@ def format_pr(pr):
 
     return {
         'formatted': f"{status_emoji} [{pr['title']}]({pr['html_url']}) - {formatted_date}<br>",
-        'updated_at': updated_at
+        'updated_at': updated_at,
+        'state': pr['state']
     }
+
+
+def add_updated_timestamp():
+    now = datetime.now(timezone.utc)
+    return f"*Last updated: {now.strftime('%Y-%m-%d %H:%M')} UTC*"
 
 
 def update_readme(prs, gists):
@@ -52,13 +58,16 @@ def update_readme(prs, gists):
         if formatted_gist:
             gist_section += formatted_gist + "\n"
 
+    # Add updated timestamp
+    updated_timestamp = add_updated_timestamp()
+
     with open('README.md', 'r') as file:
         content = file.read()
 
     # Update PRs
     content = re.sub(
         r'(<!-- START_SECTION:prs -->).*?(<!-- END_SECTION:prs -->)',
-        f'\\1\n{pr_section}\\2',
+        f'\\1\n{pr_section}\n{updated_timestamp}\\2',
         content,
         flags=re.DOTALL
     )
@@ -66,7 +75,7 @@ def update_readme(prs, gists):
     # Update Gists
     content = re.sub(
         r'(<!-- START_SECTION:gists -->).*?(<!-- END_SECTION:gists -->)',
-        f'\\1\n{gist_section}\\2',
+        f'\\1\n{gist_section}\n{updated_timestamp}\\2',
         content,
         flags=re.DOTALL
     )
@@ -79,15 +88,17 @@ def get_latest_prs(username):
     headers = {
         'Accept': 'application/vnd.github.v3+json',
     }
-    
+
     # Get open PRs
-    open_url = f'https://api.github.com/search/issues?q=author:{username}+is:pr+is:public+is:open+sort:updated-desc&per_page=5'
+    open_url = f'https://api.github.com/search/issues?q=author:{
+        username}+is:pr+is:public+is:open+sort:updated-desc&per_page=5'
     open_response = requests.get(open_url, headers=headers)
     open_response.raise_for_status()
     open_prs = open_response.json()['items']
 
     # Get merged PRs
-    merged_url = f'https://api.github.com/search/issues?q=author:{username}+is:pr+is:public+is:merged+sort:updated-desc&per_page=5'
+    merged_url = f'https://api.github.com/search/issues?q=author:{
+        username}+is:pr+is:public+is:merged+sort:updated-desc&per_page=10'
     merged_response = requests.get(merged_url, headers=headers)
     merged_response.raise_for_status()
     merged_prs = merged_response.json()['items']
@@ -95,9 +106,15 @@ def get_latest_prs(username):
     # Combine, format, and sort PRs
     all_prs = open_prs + merged_prs
     formatted_prs = [format_pr(pr) for pr in all_prs if format_pr(pr)]
-    sorted_prs = sorted(formatted_prs, key=lambda x: x['updated_at'], reverse=True)
-    
-    return sorted_prs[:10]
+    sorted_prs = sorted(
+        formatted_prs, key=lambda x: x['updated_at'], reverse=True)
+
+    # Ensure we have at most 5 open PRs and fill the rest with merged PRs
+    open_prs = [pr for pr in sorted_prs if pr['state'] == 'open'][:5]
+    merged_prs = [pr for pr in sorted_prs if pr['state'] != 'open']
+
+    final_prs = open_prs + merged_prs[:10-len(open_prs)]
+    return sorted(final_prs, key=lambda x: x['updated_at'], reverse=True)
 
 
 def get_latest_gists(username):

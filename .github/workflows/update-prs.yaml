@@ -16,7 +16,7 @@ name: Update Latest PRs and Gists
 
 on:
   schedule:
-    - cron: "0 0 */2 * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -51,9 +51,14 @@ jobs:
 
       - name: Commit and push if changed
         if: steps.git-check.outputs.changes == 'true'
+        env:
+          GIT_NAME: "Robert Cronin"
+          GIT_EMAIL: "robert.cronin@uqconnect.edu.au"
         run: |
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git config --global user.name "github-actions[bot]"
+          git config --global user.name "$GIT_NAME"
+          git config --global user.email "$GIT_EMAIL"
           git add README.md
-          git commit -m "Update latest PRs and Gists in README"
+          git commit -m "Update latest PRs, Gists, and timestamp in README
+
+          Co-authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
           git push
