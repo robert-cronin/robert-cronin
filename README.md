@@ -17,7 +17,6 @@ Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines
 🟣 [Improve handling of OpenAPI descriptions](https://github.com/kubernetes-sigs/reference-docs/pull/365) - 2024-07-16<br>
 🟢 [Remove html tag escaping in chapter-single-definition.tmpl](https://github.com/kubernetes/website/pull/47089) - 2024-07-16<br>
 🟣 [community: update import in chatbot tutorial to use InMemoryChatMessageHistory](https://github.com/langchain-ai/langchain/pull/23903) - 2024-07-05<br>
-🟢 [Add ut coverage for auth.authorizer.abac](https://github.com/kubernetes/kubernetes/pull/125726) - 2024-06-29<br>
 🟣 [Handle multiple CVEs per issue in official CVE feed](https://github.com/kubernetes/sig-security/pull/117) - 2024-06-29<br>
 🟣 [Add clarification on the usage of etcdutl vs etcdctl](https://github.com/kubernetes/website/pull/46778) - 2024-06-12<br>
 🟢 [Remove rewrite annotation from minikube ingress example](https://github.com/kubernetes/website/pull/46603) - 2024-06-11<br>
