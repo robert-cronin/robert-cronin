@@ -21,7 +21,9 @@ Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines
 🟣 [Add clarification on the usage of etcdutl vs etcdctl](https://github.com/kubernetes/website/pull/46778) - 2024-06-12<br>
 🟢 [Remove rewrite annotation from minikube ingress example](https://github.com/kubernetes/website/pull/46603) - 2024-06-11<br>
 🟢 [client-go: increase ut coverage for rest:warnings](https://github.com/kubernetes/kubernetes/pull/125273) - 2024-06-04<br>
-<!-- END_SECTION:prs -->
+🟣 [Update node-hello image to Google's newer image](https://github.com/kubernetes/website/pull/46645) - 2024-06-04<br>
+
+*Last updated: 2024-08-27 10:53 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,7 +33,8 @@ Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines
 📜 [debug-pod.sh](https://gist.github.com/robert-cronin/0a76a112fe444bccd50cb7ac56e8b1b5) - 2024-06-12<br>
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
-<!-- END_SECTION:gists -->
+
+*Last updated: 2024-08-27 10:53 UTC*<!-- END_SECTION:gists -->
 
 ## 🔭 Current Priorities
 
