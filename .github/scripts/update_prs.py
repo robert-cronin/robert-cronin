@@ -15,7 +15,31 @@
 import os
 import re
 import requests
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
+
+
+def get_latest_starred_repos(username):
+    headers = {
+        'Accept': 'application/vnd.github.v3+json',
+    }
+    url = f'https://api.github.com/users/{
+        username}/starred?sort=created&direction=desc&per_page=10'
+    response = requests.get(url, headers=headers)
+    response.raise_for_status()
+    return response.json()
+
+
+def format_starred_repo(repo):
+    starred_at = datetime.strptime(
+        repo['updated_at'], "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
+    formatted_date = starred_at.strftime("%Y-%m-%d")
+    days_ago = (datetime.now(timezone.utc) - starred_at).days
+    days_ago_str = f"{days_ago} day{'s' if days_ago != 1 else ''} ago"
+
+    return {
+        'formatted': f"⭐ [{repo['full_name']}]({repo['html_url']}) - {formatted_date} ({days_ago_str})<br>\n",
+        'starred_at': starred_at
+    }
 
 
 def format_pr(pr):
@@ -44,7 +68,7 @@ def add_updated_timestamp():
     return f"*Last updated: {now.strftime('%Y-%m-%d %H:%M')} UTC*"
 
 
-def update_readme(prs, gists):
+def update_readme(prs, gists, starred_repos):
     # Update PRs section
     pr_section = "## 🔄 Latest Pull Requests\n\n"
     pr_section += "🟢 Open | 🟣 Merged\n\n"
@@ -57,6 +81,14 @@ def update_readme(prs, gists):
         formatted_gist = format_gist(gist)
         if formatted_gist:
             gist_section += formatted_gist + "\n"
+
+    # Create starred repos section
+    starred_section = "## ✨ Recently Starred Repositories\n\n"
+    formatted_repos = [format_starred_repo(repo) for repo in starred_repos]
+    sorted_repos = sorted(
+        formatted_repos, key=lambda x: x['starred_at'], reverse=True)
+    for repo in sorted_repos:
+        starred_section += repo['formatted']
 
     # Add updated timestamp
     updated_timestamp = add_updated_timestamp()
@@ -76,6 +108,14 @@ def update_readme(prs, gists):
     content = re.sub(
         r'(<!-- START_SECTION:gists -->).*?(<!-- END_SECTION:gists -->)',
         f'\\1\n{gist_section}\n{updated_timestamp}\\2',
+        content,
+        flags=re.DOTALL
+    )
+
+    # Update Starred Repos
+    content = re.sub(
+        r'(<!-- START_SECTION:starred -->).*?(<!-- END_SECTION:starred -->)',
+        f'\\1\n{starred_section}\n{updated_timestamp}\\2',
         content,
         flags=re.DOTALL
     )
@@ -143,4 +183,5 @@ if __name__ == "__main__":
     username = 'robert-cronin'
     latest_prs = get_latest_prs(username)
     latest_gists = get_latest_gists(username)
-    update_readme(latest_prs, latest_gists)
+    latest_starred_repos = get_latest_starred_repos(username)
+    update_readme(latest_prs, latest_gists, latest_starred_repos)

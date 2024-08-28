@@ -2,8 +2,7 @@
 
 Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines.medium.com/be-an-engineer-not-a-frameworker-c58fe28d0c88).
 
-> "The greatest teacher, failure is."
--*Yoda*
+> "The greatest teacher, failure is." -_Yoda_
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robert-cronin&show_icons=true&theme=radical)
 
@@ -12,6 +11,7 @@ Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines
 
 🟢 Open | 🟣 Merged
 
+🟣 [Feature: add ODR monitoring module](https://github.com/Open-Model-Initiative/OMI-Data-Pipeline/pull/34) - 2024-08-28<br>
 🟣 [Clarify cluster diagram as one possible reference architecture](https://github.com/kubernetes/website/pull/47164) - 2024-08-24<br>
 🟢 [Add ut coverage for capabilities.Setup](https://github.com/kubernetes/kubernetes/pull/125395) - 2024-08-16<br>
 🟣 [Improve handling of OpenAPI descriptions](https://github.com/kubernetes-sigs/reference-docs/pull/365) - 2024-07-16<br>
@@ -21,9 +21,8 @@ Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines
 🟣 [Add clarification on the usage of etcdutl vs etcdctl](https://github.com/kubernetes/website/pull/46778) - 2024-06-12<br>
 🟢 [Remove rewrite annotation from minikube ingress example](https://github.com/kubernetes/website/pull/46603) - 2024-06-11<br>
 🟢 [client-go: increase ut coverage for rest:warnings](https://github.com/kubernetes/kubernetes/pull/125273) - 2024-06-04<br>
-🟣 [Update node-hello image to Google's newer image](https://github.com/kubernetes/website/pull/46645) - 2024-06-04<br>
 
-*Last updated: 2024-08-28 01:36 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2024-08-28 10:23 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -34,11 +33,27 @@ Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2024-08-28 01:36 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2024-08-28 10:23 UTC*<!-- END_SECTION:gists -->
+
+<!-- START_SECTION:starred -->
+## ✨ Recently Starred Repositories
+
+⭐ [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - 2024-08-28 (0 days ago)<br>
+⭐ [HeyPuter/puter](https://github.com/HeyPuter/puter) - 2024-08-28 (0 days ago)<br>
+⭐ [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - 2024-08-28 (0 days ago)<br>
+⭐ [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - 2024-08-28 (0 days ago)<br>
+⭐ [exo-explore/exo](https://github.com/exo-explore/exo) - 2024-08-28 (0 days ago)<br>
+⭐ [openai/openai-python](https://github.com/openai/openai-python) - 2024-08-28 (0 days ago)<br>
+⭐ [dgkanatsios/CKAD-exercises](https://github.com/dgkanatsios/CKAD-exercises) - 2024-08-28 (0 days ago)<br>
+⭐ [google/cadvisor](https://github.com/google/cadvisor) - 2024-08-28 (0 days ago)<br>
+⭐ [kubernetes/apimachinery](https://github.com/kubernetes/apimachinery) - 2024-08-28 (0 days ago)<br>
+⭐ [feiskyer/kubernetes-handbook](https://github.com/feiskyer/kubernetes-handbook) - 2024-08-27 (1 day ago)<br>
+
+*Last updated: 2024-08-28 10:23 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
-- Using GenAI to improve our participants' return-to-work journey @ leapforward.ai 🚀 
+- Using GenAI to improve our participants' return-to-work journey @ leapforward.ai 🚀
 - Building a docker clone & learning about low-level programming in Rust.
 - Preparing for a big transition 📈
 - Working towards some certifications, course completion rate: CKS (20%) & CKA (95%) & SAA-C03 (90% - on hold)
@@ -95,6 +110,7 @@ Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines
 - [Email](mailto:robert.cronin@uqconnect.edu.au)
 
 ## 📚 Books I've Read Recently
+
 - The Culture series by Iain M. Banks
 - Fire Upon the Deep by Vernor Vinge
 - Dune by Frank Herbert
