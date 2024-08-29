@@ -22,7 +22,7 @@ Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines
 🟢 [Remove rewrite annotation from minikube ingress example](https://github.com/kubernetes/website/pull/46603) - 2024-06-11<br>
 🟢 [client-go: increase ut coverage for rest:warnings](https://github.com/kubernetes/kubernetes/pull/125273) - 2024-06-04<br>
 
-*Last updated: 2024-08-28 10:23 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2024-08-29 01:37 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -33,23 +33,23 @@ Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2024-08-28 10:23 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2024-08-29 01:37 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - 2024-08-28 (0 days ago)<br>
-⭐ [HeyPuter/puter](https://github.com/HeyPuter/puter) - 2024-08-28 (0 days ago)<br>
-⭐ [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - 2024-08-28 (0 days ago)<br>
-⭐ [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - 2024-08-28 (0 days ago)<br>
-⭐ [exo-explore/exo](https://github.com/exo-explore/exo) - 2024-08-28 (0 days ago)<br>
-⭐ [openai/openai-python](https://github.com/openai/openai-python) - 2024-08-28 (0 days ago)<br>
+⭐ [feiskyer/kubernetes-handbook](https://github.com/feiskyer/kubernetes-handbook) - 2024-08-29 (0 days ago)<br>
+⭐ [kubernetes-sigs/karpenter](https://github.com/kubernetes-sigs/karpenter) - 2024-08-29 (0 days ago)<br>
+⭐ [kubernetes-sigs/lwkd](https://github.com/kubernetes-sigs/lwkd) - 2024-08-28 (0 days ago)<br>
+⭐ [kubernetes-sigs/llm-instance-gateway](https://github.com/kubernetes-sigs/llm-instance-gateway) - 2024-08-28 (0 days ago)<br>
+⭐ [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) - 2024-08-28 (0 days ago)<br>
+⭐ [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - 2024-08-28 (0 days ago)<br>
 ⭐ [dgkanatsios/CKAD-exercises](https://github.com/dgkanatsios/CKAD-exercises) - 2024-08-28 (0 days ago)<br>
-⭐ [google/cadvisor](https://github.com/google/cadvisor) - 2024-08-28 (0 days ago)<br>
-⭐ [kubernetes/apimachinery](https://github.com/kubernetes/apimachinery) - 2024-08-28 (0 days ago)<br>
-⭐ [feiskyer/kubernetes-handbook](https://github.com/feiskyer/kubernetes-handbook) - 2024-08-27 (1 day ago)<br>
+⭐ [HeyPuter/puter](https://github.com/HeyPuter/puter) - 2024-08-28 (0 days ago)<br>
+⭐ [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - 2024-08-28 (0 days ago)<br>
+⭐ [kubernetes/apimachinery](https://github.com/kubernetes/apimachinery) - 2024-08-28 (1 day ago)<br>
 
-*Last updated: 2024-08-28 10:23 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2024-08-29 01:37 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
