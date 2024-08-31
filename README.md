@@ -22,7 +22,7 @@ Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines
 🟣 [Handle multiple CVEs per issue in official CVE feed](https://github.com/kubernetes/sig-security/pull/117) - 2024-06-29<br>
 🟢 [Remove rewrite annotation from minikube ingress example](https://github.com/kubernetes/website/pull/46603) - 2024-06-11<br>
 
-*Last updated: 2024-08-31 01:37 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2024-08-31 03:34 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -33,23 +33,23 @@ Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2024-08-31 01:37 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2024-08-31 03:34 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - 2024-08-31 (0 days ago)<br>
+⭐ [InftyAI/llmaz](https://github.com/InftyAI/llmaz) - 2024-08-31 (0 days ago)<br>
+⭐ [kubernetes-sigs/jobset](https://github.com/kubernetes-sigs/jobset) - 2024-08-31 (0 days ago)<br>
+⭐ [vllm-project/vllm](https://github.com/vllm-project/vllm) - 2024-08-31 (0 days ago)<br>
 ⭐ [predibase/lorax](https://github.com/predibase/lorax) - 2024-08-30 (0 days ago)<br>
 ⭐ [kubernetes-sigs/lws](https://github.com/kubernetes-sigs/lws) - 2024-08-30 (0 days ago)<br>
 ⭐ [kubernetes-sigs/wg-serving](https://github.com/kubernetes-sigs/wg-serving) - 2024-08-30 (0 days ago)<br>
 ⭐ [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) - 2024-08-30 (0 days ago)<br>
 ⭐ [kubernetes-sigs/llm-instance-gateway](https://github.com/kubernetes-sigs/llm-instance-gateway) - 2024-08-30 (0 days ago)<br>
-⭐ [kubernetes/apimachinery](https://github.com/kubernetes/apimachinery) - 2024-08-30 (0 days ago)<br>
 ⭐ [kubernetes-sigs/karpenter](https://github.com/kubernetes-sigs/karpenter) - 2024-08-29 (1 day ago)<br>
-⭐ [feiskyer/kubernetes-handbook](https://github.com/feiskyer/kubernetes-handbook) - 2024-08-29 (2 days ago)<br>
 ⭐ [kubernetes-sigs/lwkd](https://github.com/kubernetes-sigs/lwkd) - 2024-08-28 (2 days ago)<br>
 
-*Last updated: 2024-08-31 01:37 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2024-08-31 03:34 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
