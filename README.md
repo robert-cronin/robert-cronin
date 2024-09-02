@@ -11,18 +11,18 @@ Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines
 
 🟢 Open | 🟣 Merged
 
-🟢 [Implement and verify data model](https://github.com/Open-Model-Initiative/OMI-Data-Pipeline/pull/35) - 2024-08-31<br>
-🟢 [Add passwordless login to pgadmin and odr database](https://github.com/Open-Model-Initiative/OMI-Data-Pipeline/pull/37) - 2024-08-30<br>
+🟣 [Add passwordless login to pgadmin and odr database](https://github.com/Open-Model-Initiative/OMI-Data-Pipeline/pull/37) - 2024-09-01<br>
+🟢 [Implement and verify data model](https://github.com/Open-Model-Initiative/OMI-Data-Pipeline/pull/35) - 2024-09-01<br>
 🟣 [Feature: add ODR monitoring module](https://github.com/Open-Model-Initiative/OMI-Data-Pipeline/pull/34) - 2024-08-28<br>
 🟣 [Clarify cluster diagram as one possible reference architecture](https://github.com/kubernetes/website/pull/47164) - 2024-08-24<br>
 🟢 [Add ut coverage for capabilities.Setup](https://github.com/kubernetes/kubernetes/pull/125395) - 2024-08-16<br>
 🟣 [Improve handling of OpenAPI descriptions](https://github.com/kubernetes-sigs/reference-docs/pull/365) - 2024-07-16<br>
 🟢 [Remove html tag escaping in chapter-single-definition.tmpl](https://github.com/kubernetes/website/pull/47089) - 2024-07-16<br>
 🟣 [community: update import in chatbot tutorial to use InMemoryChatMessageHistory](https://github.com/langchain-ai/langchain/pull/23903) - 2024-07-05<br>
-🟣 [Handle multiple CVEs per issue in official CVE feed](https://github.com/kubernetes/sig-security/pull/117) - 2024-06-29<br>
 🟢 [Remove rewrite annotation from minikube ingress example](https://github.com/kubernetes/website/pull/46603) - 2024-06-11<br>
+🟢 [client-go: increase ut coverage for rest:warnings](https://github.com/kubernetes/kubernetes/pull/125273) - 2024-06-04<br>
 
-*Last updated: 2024-09-01 01:51 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2024-09-02 01:39 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -33,23 +33,23 @@ Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2024-09-01 01:51 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2024-09-02 01:39 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [vllm-project/vllm](https://github.com/vllm-project/vllm) - 2024-09-01 (0 days ago)<br>
+⭐ [vllm-project/vllm](https://github.com/vllm-project/vllm) - 2024-09-02 (0 days ago)<br>
+⭐ [codefresh-contrib/gitops-certification-examples](https://github.com/codefresh-contrib/gitops-certification-examples) - 2024-09-02 (0 days ago)<br>
+⭐ [InftyAI/llmaz](https://github.com/InftyAI/llmaz) - 2024-09-01 (0 days ago)<br>
 ⭐ [predibase/lorax](https://github.com/predibase/lorax) - 2024-09-01 (0 days ago)<br>
-⭐ [kubernetes-sigs/jobset](https://github.com/kubernetes-sigs/jobset) - 2024-08-31 (0 days ago)<br>
-⭐ [kubernetes-sigs/lws](https://github.com/kubernetes-sigs/lws) - 2024-08-31 (0 days ago)<br>
-⭐ [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) - 2024-08-31 (0 days ago)<br>
-⭐ [InftyAI/llmaz](https://github.com/InftyAI/llmaz) - 2024-08-31 (0 days ago)<br>
-⭐ [kubernetes-sigs/wg-serving](https://github.com/kubernetes-sigs/wg-serving) - 2024-08-30 (1 day ago)<br>
-⭐ [kubernetes-sigs/llm-instance-gateway](https://github.com/kubernetes-sigs/llm-instance-gateway) - 2024-08-30 (1 day ago)<br>
-⭐ [kubernetes-sigs/karpenter](https://github.com/kubernetes-sigs/karpenter) - 2024-08-29 (2 days ago)<br>
-⭐ [kubernetes-sigs/lwkd](https://github.com/kubernetes-sigs/lwkd) - 2024-08-28 (3 days ago)<br>
+⭐ [kubernetes-sigs/llm-instance-gateway](https://github.com/kubernetes-sigs/llm-instance-gateway) - 2024-09-01 (0 days ago)<br>
+⭐ [kubernetes-sigs/jobset](https://github.com/kubernetes-sigs/jobset) - 2024-08-31 (1 day ago)<br>
+⭐ [kubernetes-sigs/lws](https://github.com/kubernetes-sigs/lws) - 2024-08-31 (1 day ago)<br>
+⭐ [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) - 2024-08-31 (1 day ago)<br>
+⭐ [kubernetes-sigs/wg-serving](https://github.com/kubernetes-sigs/wg-serving) - 2024-08-30 (2 days ago)<br>
+⭐ [kubernetes-sigs/lwkd](https://github.com/kubernetes-sigs/lwkd) - 2024-08-28 (4 days ago)<br>
 
-*Last updated: 2024-09-01 01:51 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2024-09-02 01:39 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
