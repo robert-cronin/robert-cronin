@@ -54,8 +54,8 @@ Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines
 ## 🔭 Current Priorities
 
 - Using GenAI to improve our participants' return-to-work journey @ leapforward.ai 🚀
-- Building a docker clone & learning about low-level programming in Rust.
-- Preparing for a big transition 📈
+- Contributing to the Open Model Initiative
+- Trying to upgrade my understanding of the Kubernetes source code and components
 - Working towards some certifications, course completion rate: CKS (20%) & CKA (95%) & SAA-C03 (90% - on hold)
 
 ## 🚀 Hobby Projects
