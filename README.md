@@ -22,7 +22,7 @@ Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines
 🟣 [community: update import in chatbot tutorial to use InMemoryChatMessageHistory](https://github.com/langchain-ai/langchain/pull/23903) - 2024-07-05<br>
 🟢 [Remove rewrite annotation from minikube ingress example](https://github.com/kubernetes/website/pull/46603) - 2024-06-11<br>
 
-*Last updated: 2024-09-03 01:37 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2024-09-04 01:38 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -33,23 +33,23 @@ Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2024-09-03 01:37 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2024-09-04 01:38 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [aws-solutions/video-on-demand-on-aws-foundation](https://github.com/aws-solutions/video-on-demand-on-aws-foundation) - 2024-09-03 (0 days ago)<br>
-⭐ [vllm-project/vllm](https://github.com/vllm-project/vllm) - 2024-09-03 (0 days ago)<br>
-⭐ [kubernetes-sigs/jobset](https://github.com/kubernetes-sigs/jobset) - 2024-09-03 (0 days ago)<br>
+⭐ [vllm-project/vllm](https://github.com/vllm-project/vllm) - 2024-09-04 (0 days ago)<br>
+⭐ [restic/restic](https://github.com/restic/restic) - 2024-09-04 (0 days ago)<br>
+⭐ [kubernetes-sigs/lws](https://github.com/kubernetes-sigs/lws) - 2024-09-03 (0 days ago)<br>
 ⭐ [predibase/lorax](https://github.com/predibase/lorax) - 2024-09-03 (0 days ago)<br>
-⭐ [OpenXiangShan/XiangShan](https://github.com/OpenXiangShan/XiangShan) - 2024-09-02 (0 days ago)<br>
-⭐ [kubernetes-sigs/lws](https://github.com/kubernetes-sigs/lws) - 2024-09-02 (0 days ago)<br>
-⭐ [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - 2024-09-02 (0 days ago)<br>
-⭐ [InftyAI/llmaz](https://github.com/InftyAI/llmaz) - 2024-09-02 (0 days ago)<br>
-⭐ [codefresh-contrib/gitops-certification-examples](https://github.com/codefresh-contrib/gitops-certification-examples) - 2024-09-02 (1 day ago)<br>
-⭐ [kubernetes-sigs/wg-serving](https://github.com/kubernetes-sigs/wg-serving) - 2024-08-30 (3 days ago)<br>
+⭐ [OpenXiangShan/XiangShan](https://github.com/OpenXiangShan/XiangShan) - 2024-09-03 (0 days ago)<br>
+⭐ [kubernetes-sigs/jobset](https://github.com/kubernetes-sigs/jobset) - 2024-09-03 (0 days ago)<br>
+⭐ [aws-solutions/video-on-demand-on-aws-foundation](https://github.com/aws-solutions/video-on-demand-on-aws-foundation) - 2024-09-03 (1 day ago)<br>
+⭐ [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - 2024-09-02 (1 day ago)<br>
+⭐ [InftyAI/llmaz](https://github.com/InftyAI/llmaz) - 2024-09-02 (1 day ago)<br>
+⭐ [codefresh-contrib/gitops-certification-examples](https://github.com/codefresh-contrib/gitops-certification-examples) - 2024-09-02 (2 days ago)<br>
 
-*Last updated: 2024-09-03 01:37 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2024-09-04 01:38 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
