@@ -11,18 +11,18 @@ Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines
 
 🟢 Open | 🟣 Merged
 
-🟢 [Fix traffic distribution comment to reflect graduated status in v1.31](https://github.com/kubernetes/kubernetes/pull/127117) - 2024-09-04<br>
+🟢 [Implement and verify data model](https://github.com/Open-Model-Initiative/OMI-Data-Pipeline/pull/35) - 2024-09-05<br>
+🟣 [Fix traffic distribution comment to reflect graduated status in v1.31](https://github.com/kubernetes/kubernetes/pull/127117) - 2024-09-04<br>
 🟢 [Remove html tag escaping in chapter-single-definition.tmpl](https://github.com/kubernetes/website/pull/47089) - 2024-09-04<br>
 🟢 [client-go: increase ut coverage for rest:warnings](https://github.com/kubernetes/kubernetes/pull/125273) - 2024-09-02<br>
 🟣 [Add passwordless login to pgadmin and odr database](https://github.com/Open-Model-Initiative/OMI-Data-Pipeline/pull/37) - 2024-09-01<br>
-🟢 [Implement and verify data model](https://github.com/Open-Model-Initiative/OMI-Data-Pipeline/pull/35) - 2024-09-01<br>
 🟣 [Feature: add ODR monitoring module](https://github.com/Open-Model-Initiative/OMI-Data-Pipeline/pull/34) - 2024-08-28<br>
 🟣 [Clarify cluster diagram as one possible reference architecture](https://github.com/kubernetes/website/pull/47164) - 2024-08-24<br>
 🟢 [Add ut coverage for capabilities.Setup](https://github.com/kubernetes/kubernetes/pull/125395) - 2024-08-16<br>
 🟣 [Improve handling of OpenAPI descriptions](https://github.com/kubernetes-sigs/reference-docs/pull/365) - 2024-07-16<br>
 🟣 [community: update import in chatbot tutorial to use InMemoryChatMessageHistory](https://github.com/langchain-ai/langchain/pull/23903) - 2024-07-05<br>
 
-*Last updated: 2024-09-04 12:22 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2024-09-05 10:57 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -33,23 +33,23 @@ Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2024-09-04 12:22 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2024-09-05 10:57 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [restic/restic](https://github.com/restic/restic) - 2024-09-04 (0 days ago)<br>
-⭐ [vllm-project/vllm](https://github.com/vllm-project/vllm) - 2024-09-04 (0 days ago)<br>
-⭐ [InftyAI/llmaz](https://github.com/InftyAI/llmaz) - 2024-09-04 (0 days ago)<br>
-⭐ [OpenXiangShan/XiangShan](https://github.com/OpenXiangShan/XiangShan) - 2024-09-04 (0 days ago)<br>
+⭐ [vllm-project/vllm](https://github.com/vllm-project/vllm) - 2024-09-05 (0 days ago)<br>
+⭐ [restic/restic](https://github.com/restic/restic) - 2024-09-05 (0 days ago)<br>
+⭐ [OpenXiangShan/XiangShan](https://github.com/OpenXiangShan/XiangShan) - 2024-09-05 (0 days ago)<br>
+⭐ [kubernetes-sigs/secrets-store-sync-controller](https://github.com/kubernetes-sigs/secrets-store-sync-controller) - 2024-09-05 (0 days ago)<br>
 ⭐ [predibase/lorax](https://github.com/predibase/lorax) - 2024-09-04 (0 days ago)<br>
-⭐ [kubernetes-sigs/lws](https://github.com/kubernetes-sigs/lws) - 2024-09-03 (0 days ago)<br>
-⭐ [kubernetes-sigs/jobset](https://github.com/kubernetes-sigs/jobset) - 2024-09-03 (1 day ago)<br>
-⭐ [aws-solutions/video-on-demand-on-aws-foundation](https://github.com/aws-solutions/video-on-demand-on-aws-foundation) - 2024-09-03 (1 day ago)<br>
+⭐ [InftyAI/llmaz](https://github.com/InftyAI/llmaz) - 2024-09-04 (0 days ago)<br>
+⭐ [kubernetes-sigs/jobset](https://github.com/kubernetes-sigs/jobset) - 2024-09-03 (2 days ago)<br>
+⭐ [aws-solutions/video-on-demand-on-aws-foundation](https://github.com/aws-solutions/video-on-demand-on-aws-foundation) - 2024-09-03 (2 days ago)<br>
 ⭐ [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - 2024-09-02 (2 days ago)<br>
-⭐ [codefresh-contrib/gitops-certification-examples](https://github.com/codefresh-contrib/gitops-certification-examples) - 2024-09-02 (2 days ago)<br>
+⭐ [codefresh-contrib/gitops-certification-examples](https://github.com/codefresh-contrib/gitops-certification-examples) - 2024-09-02 (3 days ago)<br>
 
-*Last updated: 2024-09-04 12:22 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2024-09-05 10:57 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
