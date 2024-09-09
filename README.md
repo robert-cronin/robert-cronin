@@ -22,7 +22,7 @@ Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines
 🟣 [Improve handling of OpenAPI descriptions](https://github.com/kubernetes-sigs/reference-docs/pull/365) - 2024-07-16<br>
 🟣 [community: update import in chatbot tutorial to use InMemoryChatMessageHistory](https://github.com/langchain-ai/langchain/pull/23903) - 2024-07-05<br>
 
-*Last updated: 2024-09-08 01:44 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2024-09-09 01:41 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -33,23 +33,23 @@ Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2024-09-08 01:44 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2024-09-09 01:41 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - 2024-09-08 (0 days ago)<br>
+⭐ [iryna-kondr/scikit-llm](https://github.com/iryna-kondr/scikit-llm) - 2024-09-09 (0 days ago)<br>
+⭐ [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - 2024-09-09 (0 days ago)<br>
+⭐ [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - 2024-09-09 (0 days ago)<br>
+⭐ [grpc/grpc](https://github.com/grpc/grpc) - 2024-09-09 (0 days ago)<br>
+⭐ [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - 2024-09-09 (0 days ago)<br>
+⭐ [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - 2024-09-08 (0 days ago)<br>
+⭐ [prometheus/prometheus](https://github.com/prometheus/prometheus) - 2024-09-08 (0 days ago)<br>
 ⭐ [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - 2024-09-08 (0 days ago)<br>
-⭐ [restic/restic](https://github.com/restic/restic) - 2024-09-08 (0 days ago)<br>
-⭐ [OpenXiangShan/XiangShan](https://github.com/OpenXiangShan/XiangShan) - 2024-09-07 (0 days ago)<br>
-⭐ [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - 2024-09-07 (0 days ago)<br>
-⭐ [codefresh-contrib/gitops-certification-examples](https://github.com/codefresh-contrib/gitops-certification-examples) - 2024-09-07 (0 days ago)<br>
-⭐ [InftyAI/llmaz](https://github.com/InftyAI/llmaz) - 2024-09-07 (0 days ago)<br>
-⭐ [coreos/go-systemd](https://github.com/coreos/go-systemd) - 2024-09-06 (1 day ago)<br>
-⭐ [kubernetes-sigs/secrets-store-sync-controller](https://github.com/kubernetes-sigs/secrets-store-sync-controller) - 2024-09-05 (2 days ago)<br>
-⭐ [aws-solutions/video-on-demand-on-aws-foundation](https://github.com/aws-solutions/video-on-demand-on-aws-foundation) - 2024-09-03 (5 days ago)<br>
+⭐ [kubernetes/kops](https://github.com/kubernetes/kops) - 2024-09-08 (0 days ago)<br>
+⭐ [coreos/go-systemd](https://github.com/coreos/go-systemd) - 2024-09-06 (2 days ago)<br>
 
-*Last updated: 2024-09-08 01:44 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2024-09-09 01:41 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
