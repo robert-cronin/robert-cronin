@@ -22,7 +22,7 @@ Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines
 🟣 [Improve handling of OpenAPI descriptions](https://github.com/kubernetes-sigs/reference-docs/pull/365) - 2024-07-16<br>
 🟣 [community: update import in chatbot tutorial to use InMemoryChatMessageHistory](https://github.com/langchain-ai/langchain/pull/23903) - 2024-07-05<br>
 
-*Last updated: 2024-09-09 13:31 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2024-09-10 01:39 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -33,23 +33,23 @@ Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2024-09-09 13:31 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2024-09-10 01:39 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [kubernetes/kops](https://github.com/kubernetes/kops) - 2024-09-09 (0 days ago)<br>
-⭐ [grpc/grpc](https://github.com/grpc/grpc) - 2024-09-09 (0 days ago)<br>
-⭐ [iryna-kondr/scikit-llm](https://github.com/iryna-kondr/scikit-llm) - 2024-09-09 (0 days ago)<br>
-⭐ [prometheus/prometheus](https://github.com/prometheus/prometheus) - 2024-09-09 (0 days ago)<br>
+⭐ [iryna-kondr/scikit-llm](https://github.com/iryna-kondr/scikit-llm) - 2024-09-10 (0 days ago)<br>
+⭐ [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) - 2024-09-10 (0 days ago)<br>
+⭐ [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - 2024-09-10 (0 days ago)<br>
+⭐ [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) - 2024-09-10 (0 days ago)<br>
+⭐ [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - 2024-09-10 (0 days ago)<br>
+⭐ [chatscope/chat-ui-kit-react](https://github.com/chatscope/chat-ui-kit-react) - 2024-09-09 (0 days ago)<br>
+⭐ [NixOS/nix](https://github.com/NixOS/nix) - 2024-09-09 (0 days ago)<br>
 ⭐ [NvChad/NvChad](https://github.com/NvChad/NvChad) - 2024-09-09 (0 days ago)<br>
+⭐ [kubernetes/kops](https://github.com/kubernetes/kops) - 2024-09-09 (0 days ago)<br>
 ⭐ [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - 2024-09-09 (0 days ago)<br>
-⭐ [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - 2024-09-09 (0 days ago)<br>
-⭐ [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) - 2024-09-09 (0 days ago)<br>
-⭐ [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) - 2024-09-09 (0 days ago)<br>
-⭐ [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - 2024-09-09 (0 days ago)<br>
 
-*Last updated: 2024-09-09 13:31 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2024-09-10 01:39 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
