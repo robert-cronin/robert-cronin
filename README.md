@@ -22,7 +22,7 @@ Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines
 🟣 [Improve handling of OpenAPI descriptions](https://github.com/kubernetes-sigs/reference-docs/pull/365) - 2024-07-16<br>
 🟣 [community: update import in chatbot tutorial to use InMemoryChatMessageHistory](https://github.com/langchain-ai/langchain/pull/23903) - 2024-07-05<br>
 
-*Last updated: 2024-09-11 01:38 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2024-09-12 01:38 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -33,23 +33,23 @@ Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2024-09-11 01:38 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2024-09-12 01:38 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [davatorium/rofi](https://github.com/davatorium/rofi) - 2024-09-11 (0 days ago)<br>
-⭐ [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - 2024-09-11 (0 days ago)<br>
-⭐ [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - 2024-09-11 (0 days ago)<br>
-⭐ [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - 2024-09-11 (0 days ago)<br>
-⭐ [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - 2024-09-11 (0 days ago)<br>
-⭐ [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - 2024-09-10 (0 days ago)<br>
-⭐ [NixOS/nix](https://github.com/NixOS/nix) - 2024-09-10 (0 days ago)<br>
-⭐ [chatscope/chat-ui-kit-react](https://github.com/chatscope/chat-ui-kit-react) - 2024-09-10 (0 days ago)<br>
-⭐ [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - 2024-09-10 (0 days ago)<br>
-⭐ [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - 2024-09-10 (0 days ago)<br>
+⭐ [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - 2024-09-12 (0 days ago)<br>
+⭐ [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - 2024-09-12 (0 days ago)<br>
+⭐ [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 2024-09-12 (0 days ago)<br>
+⭐ [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - 2024-09-12 (0 days ago)<br>
+⭐ [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - 2024-09-12 (0 days ago)<br>
+⭐ [github/copilot.vim](https://github.com/github/copilot.vim) - 2024-09-12 (0 days ago)<br>
+⭐ [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - 2024-09-12 (0 days ago)<br>
+⭐ [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - 2024-09-11 (0 days ago)<br>
+⭐ [fatih/vim-go](https://github.com/fatih/vim-go) - 2024-09-11 (0 days ago)<br>
+⭐ [sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim) - 2024-09-11 (0 days ago)<br>
 
-*Last updated: 2024-09-11 01:38 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2024-09-12 01:38 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
