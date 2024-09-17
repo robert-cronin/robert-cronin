@@ -22,7 +22,7 @@ Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines
 🟣 [Improve handling of OpenAPI descriptions](https://github.com/kubernetes-sigs/reference-docs/pull/365) - 2024-07-16<br>
 🟣 [community: update import in chatbot tutorial to use InMemoryChatMessageHistory](https://github.com/langchain-ai/langchain/pull/23903) - 2024-07-05<br>
 
-*Last updated: 2024-09-16 01:45 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2024-09-17 01:17 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -33,23 +33,23 @@ Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2024-09-16 01:45 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2024-09-17 01:17 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [neovim/neovim](https://github.com/neovim/neovim) - 2024-09-16 (0 days ago)<br>
-⭐ [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - 2024-09-16 (0 days ago)<br>
-⭐ [vim/vim](https://github.com/vim/vim) - 2024-09-15 (0 days ago)<br>
-⭐ [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - 2024-09-15 (0 days ago)<br>
-⭐ [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - 2024-09-15 (0 days ago)<br>
-⭐ [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - 2024-09-15 (0 days ago)<br>
-⭐ [numToStr/Comment.nvim](https://github.com/numToStr/Comment.nvim) - 2024-09-15 (0 days ago)<br>
-⭐ [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 2024-09-15 (0 days ago)<br>
-⭐ [tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) - 2024-09-15 (1 day ago)<br>
-⭐ [tmux-plugins/tmux-yank](https://github.com/tmux-plugins/tmux-yank) - 2024-09-15 (1 day ago)<br>
+⭐ [neovim/neovim](https://github.com/neovim/neovim) - 2024-09-17 (0 days ago)<br>
+⭐ [numToStr/Comment.nvim](https://github.com/numToStr/Comment.nvim) - 2024-09-17 (0 days ago)<br>
+⭐ [vim/vim](https://github.com/vim/vim) - 2024-09-16 (0 days ago)<br>
+⭐ [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - 2024-09-16 (0 days ago)<br>
+⭐ [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - 2024-09-16 (0 days ago)<br>
+⭐ [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - 2024-09-16 (0 days ago)<br>
+⭐ [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 2024-09-16 (0 days ago)<br>
+⭐ [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - 2024-09-16 (0 days ago)<br>
+⭐ [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - 2024-09-16 (0 days ago)<br>
+⭐ [tmux-plugins/tmux-yank](https://github.com/tmux-plugins/tmux-yank) - 2024-09-15 (2 days ago)<br>
 
-*Last updated: 2024-09-16 01:45 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2024-09-17 01:17 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
