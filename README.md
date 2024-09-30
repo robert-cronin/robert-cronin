@@ -22,7 +22,7 @@ Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines
 🟣 [Improve handling of OpenAPI descriptions](https://github.com/kubernetes-sigs/reference-docs/pull/365) - 2024-07-16<br>
 🟣 [community: update import in chatbot tutorial to use InMemoryChatMessageHistory](https://github.com/langchain-ai/langchain/pull/23903) - 2024-07-05<br>
 
-*Last updated: 2024-09-29 01:50 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2024-09-30 01:47 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -33,23 +33,23 @@ Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2024-09-29 01:50 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2024-09-30 01:47 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - 2024-09-29 (0 days ago)<br>
+⭐ [kdheepak/lazygit.nvim](https://github.com/kdheepak/lazygit.nvim) - 2024-09-30 (0 days ago)<br>
+⭐ [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - 2024-09-30 (0 days ago)<br>
+⭐ [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - 2024-09-30 (0 days ago)<br>
+⭐ [jake-stewart/multicursor.nvim](https://github.com/jake-stewart/multicursor.nvim) - 2024-09-30 (0 days ago)<br>
+⭐ [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - 2024-09-30 (0 days ago)<br>
+⭐ [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) - 2024-09-30 (0 days ago)<br>
+⭐ [kubernetes/community](https://github.com/kubernetes/community) - 2024-09-29 (0 days ago)<br>
 ⭐ [alacritty/alacritty](https://github.com/alacritty/alacritty) - 2024-09-29 (0 days ago)<br>
-⭐ [jake-stewart/multicursor.nvim](https://github.com/jake-stewart/multicursor.nvim) - 2024-09-29 (0 days ago)<br>
-⭐ [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - 2024-09-28 (0 days ago)<br>
-⭐ [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - 2024-09-28 (0 days ago)<br>
-⭐ [kdheepak/lazygit.nvim](https://github.com/kdheepak/lazygit.nvim) - 2024-09-28 (0 days ago)<br>
-⭐ [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - 2024-09-28 (0 days ago)<br>
-⭐ [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) - 2024-09-28 (0 days ago)<br>
-⭐ [jimeh/tmuxifier](https://github.com/jimeh/tmuxifier) - 2024-09-28 (0 days ago)<br>
-⭐ [kubernetes/community](https://github.com/kubernetes/community) - 2024-09-28 (0 days ago)<br>
+⭐ [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - 2024-09-29 (0 days ago)<br>
+⭐ [jimeh/tmuxifier](https://github.com/jimeh/tmuxifier) - 2024-09-28 (1 day ago)<br>
 
-*Last updated: 2024-09-29 01:50 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2024-09-30 01:47 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
