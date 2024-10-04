@@ -22,7 +22,7 @@ Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines
 🟣 [Clarify cluster diagram as one possible reference architecture](https://github.com/kubernetes/website/pull/47164) - 2024-08-24<br>
 🟣 [Improve handling of OpenAPI descriptions](https://github.com/kubernetes-sigs/reference-docs/pull/365) - 2024-07-16<br>
 
-*Last updated: 2024-10-03 01:43 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2024-10-04 01:43 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -33,23 +33,23 @@ Aspiring to be an [Engineer and not just a Frameworker](https://johndanielraines
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2024-10-03 01:43 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2024-10-04 01:43 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
+⭐ [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - 2024-10-04 (0 days ago)<br>
 ⭐ [kubernetes/community](https://github.com/kubernetes/community) - 2024-10-03 (0 days ago)<br>
-⭐ [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - 2024-10-03 (0 days ago)<br>
-⭐ [package-url/purl-spec](https://github.com/package-url/purl-spec) - 2024-10-02 (0 days ago)<br>
-⭐ [microsoft/Kusto-Query-Language](https://github.com/microsoft/Kusto-Query-Language) - 2024-10-02 (0 days ago)<br>
-⭐ [guacsec/guac-docs](https://github.com/guacsec/guac-docs) - 2024-10-02 (0 days ago)<br>
-⭐ [sozercan/guac-ai-mole](https://github.com/sozercan/guac-ai-mole) - 2024-10-02 (0 days ago)<br>
-⭐ [Azure/container-upstream](https://github.com/Azure/container-upstream) - 2024-10-01 (1 day ago)<br>
-⭐ [khenidak/kubernetes-dev-on-azure](https://github.com/khenidak/kubernetes-dev-on-azure) - 2024-10-01 (1 day ago)<br>
-⭐ [aramase/kubernetes-dev-on-azure](https://github.com/aramase/kubernetes-dev-on-azure) - 2024-10-01 (1 day ago)<br>
-⭐ [jimeh/tmuxifier](https://github.com/jimeh/tmuxifier) - 2024-09-28 (4 days ago)<br>
+⭐ [guacsec/guac-docs](https://github.com/guacsec/guac-docs) - 2024-10-03 (0 days ago)<br>
+⭐ [package-url/purl-spec](https://github.com/package-url/purl-spec) - 2024-10-02 (1 day ago)<br>
+⭐ [microsoft/Kusto-Query-Language](https://github.com/microsoft/Kusto-Query-Language) - 2024-10-02 (1 day ago)<br>
+⭐ [sozercan/guac-ai-mole](https://github.com/sozercan/guac-ai-mole) - 2024-10-02 (1 day ago)<br>
+⭐ [Azure/container-upstream](https://github.com/Azure/container-upstream) - 2024-10-01 (2 days ago)<br>
+⭐ [khenidak/kubernetes-dev-on-azure](https://github.com/khenidak/kubernetes-dev-on-azure) - 2024-10-01 (2 days ago)<br>
+⭐ [aramase/kubernetes-dev-on-azure](https://github.com/aramase/kubernetes-dev-on-azure) - 2024-10-01 (2 days ago)<br>
+⭐ [jimeh/tmuxifier](https://github.com/jimeh/tmuxifier) - 2024-09-28 (5 days ago)<br>
 
-*Last updated: 2024-10-03 01:43 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2024-10-04 01:43 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
