@@ -51,10 +51,10 @@
 
 ## 🔭 Current Priorities
 
-- Using GenAI to improve our participants' return-to-work journey @ leapforward.ai 🚀
-- Contributing to the Open Model Initiative
-- Trying to upgrade my understanding of the Kubernetes source code and components
-- Working towards some certifications, course completion rate: CKS (95%) & CKA (95%) & SAA-C03 (90% - on hold)
+- Starting a new journey @ Microsoft 🚀
+- Contributing to GUAC
+- Trying to upgrade my understanding of Supply Chain Security
+- Working towards some certifications, course completion rate: AZ-900 (5%) CKS (95%) & CKA (95%) & SAA-C03 (90% - on hold)
 
 ## 🚀 Hobby Projects
 
