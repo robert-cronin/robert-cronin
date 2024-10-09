@@ -9,7 +9,8 @@
 
 🟢 Open | 🟣 Merged
 
-🟢 [Add ClearlyDefined to e2e test](https://github.com/guacsec/guac/pull/2168) - 2024-10-07<br>
+🟢 [Add ClearlyDefined to e2e test](https://github.com/guacsec/guac/pull/2168) - 2024-10-09<br>
+🟣 [Fix CD discovered license link in gql generated docs](https://github.com/guacsec/guac/pull/2183) - 2024-10-09<br>
 🟢 [client-go: increase ut coverage for rest:warnings](https://github.com/kubernetes/kubernetes/pull/125273) - 2024-10-02<br>
 🟣 [Clarify verification step on setup-install page](https://github.com/guacsec/guac-docs/pull/152) - 2024-10-02<br>
 🟢 [Add ut coverage for capabilities.Setup](https://github.com/kubernetes/kubernetes/pull/125395) - 2024-09-21<br>
@@ -18,9 +19,8 @@
 🟢 [Remove html tag escaping in chapter-single-definition.tmpl](https://github.com/kubernetes/website/pull/47089) - 2024-09-04<br>
 🟣 [Add passwordless login to pgadmin and odr database](https://github.com/Open-Model-Initiative/OMI-Data-Pipeline/pull/37) - 2024-09-01<br>
 🟣 [Feature: add ODR monitoring module](https://github.com/Open-Model-Initiative/OMI-Data-Pipeline/pull/34) - 2024-08-28<br>
-🟣 [Clarify cluster diagram as one possible reference architecture](https://github.com/kubernetes/website/pull/47164) - 2024-08-24<br>
 
-*Last updated: 2024-10-09 01:43 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2024-10-09 22:44 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2024-10-09 01:43 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2024-10-09 22:44 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [graphql-kit/graphql-voyager](https://github.com/graphql-kit/graphql-voyager) - 2024-10-09 (0 days ago)<br>
-⭐ [pyenv/pyenv](https://github.com/pyenv/pyenv) - 2024-10-09 (0 days ago)<br>
 ⭐ [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - 2024-10-09 (0 days ago)<br>
 ⭐ [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - 2024-10-09 (0 days ago)<br>
-⭐ [ossf/scorecard](https://github.com/ossf/scorecard) - 2024-10-08 (0 days ago)<br>
-⭐ [tikv/tikv](https://github.com/tikv/tikv) - 2024-10-08 (0 days ago)<br>
-⭐ [opencontainers/image-spec](https://github.com/opencontainers/image-spec) - 2024-10-08 (0 days ago)<br>
-⭐ [Azure/dalec](https://github.com/Azure/dalec) - 2024-10-07 (1 day ago)<br>
-⭐ [fengalex43/cssc-flaskapp](https://github.com/fengalex43/cssc-flaskapp) - 2024-10-07 (1 day ago)<br>
-⭐ [package-url/purl-spec](https://github.com/package-url/purl-spec) - 2024-10-04 (4 days ago)<br>
+⭐ [opencontainers/image-spec](https://github.com/opencontainers/image-spec) - 2024-10-09 (0 days ago)<br>
+⭐ [pyenv/pyenv](https://github.com/pyenv/pyenv) - 2024-10-09 (0 days ago)<br>
+⭐ [graphql-kit/graphql-voyager](https://github.com/graphql-kit/graphql-voyager) - 2024-10-09 (0 days ago)<br>
+⭐ [ossf/scorecard](https://github.com/ossf/scorecard) - 2024-10-09 (0 days ago)<br>
+⭐ [tikv/tikv](https://github.com/tikv/tikv) - 2024-10-09 (0 days ago)<br>
+⭐ [Azure/dalec](https://github.com/Azure/dalec) - 2024-10-07 (2 days ago)<br>
+⭐ [fengalex43/cssc-flaskapp](https://github.com/fengalex43/cssc-flaskapp) - 2024-10-07 (2 days ago)<br>
+⭐ [package-url/purl-spec](https://github.com/package-url/purl-spec) - 2024-10-04 (5 days ago)<br>
 
-*Last updated: 2024-10-09 01:43 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2024-10-09 22:44 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
