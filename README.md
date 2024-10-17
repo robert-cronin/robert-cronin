@@ -54,7 +54,7 @@
 - Starting a new journey @ Microsoft 🚀
 - Contributing to GUAC
 - Trying to upgrade my understanding of Supply Chain Security
-- Working towards some certifications, course completion rate: AZ-900 (5%) CKS (95%) & CKA (95%) & SAA-C03 (90% - on hold)
+- Working towards some certifications, course completion rate: AZ-900 (10%) CKS (95%) & CKA (95%) & SAA-C03 (90% - on hold)
 
 ## 🚀 Hobby Projects
 
