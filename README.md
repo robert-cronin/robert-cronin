@@ -20,7 +20,7 @@
 🟣 [Fix traffic distribution comment to reflect graduated status in v1.31](https://github.com/kubernetes/kubernetes/pull/127117) - 2024-09-05<br>
 🟢 [Remove html tag escaping in chapter-single-definition.tmpl](https://github.com/kubernetes/website/pull/47089) - 2024-09-04<br>
 
-*Last updated: 2024-10-16 01:45 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2024-10-17 01:43 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2024-10-16 01:45 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2024-10-17 01:43 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [openai/swarm](https://github.com/openai/swarm) - 2024-10-16 (0 days ago)<br>
-⭐ [wolfi-dev/os](https://github.com/wolfi-dev/os) - 2024-10-16 (0 days ago)<br>
-⭐ [tikv/tikv](https://github.com/tikv/tikv) - 2024-10-16 (0 days ago)<br>
-⭐ [openai/mle-bench](https://github.com/openai/mle-bench) - 2024-10-16 (0 days ago)<br>
+⭐ [openai/swarm](https://github.com/openai/swarm) - 2024-10-17 (0 days ago)<br>
+⭐ [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - 2024-10-17 (0 days ago)<br>
+⭐ [wolfi-dev/os](https://github.com/wolfi-dev/os) - 2024-10-17 (0 days ago)<br>
+⭐ [tikv/tikv](https://github.com/tikv/tikv) - 2024-10-17 (0 days ago)<br>
 ⭐ [pyenv/pyenv](https://github.com/pyenv/pyenv) - 2024-10-16 (0 days ago)<br>
-⭐ [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - 2024-10-15 (0 days ago)<br>
-⭐ [sigstore/cosign](https://github.com/sigstore/cosign) - 2024-10-15 (0 days ago)<br>
-⭐ [regclient/regclient](https://github.com/regclient/regclient) - 2024-10-15 (0 days ago)<br>
-⭐ [google/go-containerregistry](https://github.com/google/go-containerregistry) - 2024-10-15 (0 days ago)<br>
-⭐ [graphql-kit/graphql-voyager](https://github.com/graphql-kit/graphql-voyager) - 2024-10-14 (1 day ago)<br>
+⭐ [openai/mle-bench](https://github.com/openai/mle-bench) - 2024-10-16 (0 days ago)<br>
+⭐ [sigstore/cosign](https://github.com/sigstore/cosign) - 2024-10-16 (0 days ago)<br>
+⭐ [regclient/regclient](https://github.com/regclient/regclient) - 2024-10-16 (0 days ago)<br>
+⭐ [graphql-kit/graphql-voyager](https://github.com/graphql-kit/graphql-voyager) - 2024-10-16 (0 days ago)<br>
+⭐ [google/go-containerregistry](https://github.com/google/go-containerregistry) - 2024-10-15 (1 day ago)<br>
 
-*Last updated: 2024-10-16 01:45 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2024-10-17 01:43 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
