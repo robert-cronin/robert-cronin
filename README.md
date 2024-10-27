@@ -20,7 +20,7 @@
 🟣 [Implement and verify data model](https://github.com/Open-Model-Initiative/OMI-Data-Pipeline/pull/35) - 2024-09-06<br>
 🟢 [Remove html tag escaping in chapter-single-definition.tmpl](https://github.com/kubernetes/website/pull/47089) - 2024-09-04<br>
 
-*Last updated: 2024-10-26 01:41 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2024-10-27 01:50 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2024-10-26 01:41 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2024-10-27 01:50 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [openai/swarm](https://github.com/openai/swarm) - 2024-10-26 (0 days ago)<br>
+⭐ [openai/swarm](https://github.com/openai/swarm) - 2024-10-27 (0 days ago)<br>
+⭐ [openai/mle-bench](https://github.com/openai/mle-bench) - 2024-10-27 (0 days ago)<br>
+⭐ [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - 2024-10-26 (0 days ago)<br>
+⭐ [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - 2024-10-26 (0 days ago)<br>
 ⭐ [wolfi-dev/os](https://github.com/wolfi-dev/os) - 2024-10-26 (0 days ago)<br>
-⭐ [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - 2024-10-25 (0 days ago)<br>
-⭐ [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - 2024-10-25 (0 days ago)<br>
-⭐ [openai/mle-bench](https://github.com/openai/mle-bench) - 2024-10-25 (0 days ago)<br>
-⭐ [sigstore/cosign](https://github.com/sigstore/cosign) - 2024-10-25 (0 days ago)<br>
-⭐ [microsoft/AzureLinuxVulnerabilityData](https://github.com/microsoft/AzureLinuxVulnerabilityData) - 2024-10-25 (0 days ago)<br>
-⭐ [google/go-containerregistry](https://github.com/google/go-containerregistry) - 2024-10-25 (0 days ago)<br>
-⭐ [fermyon/spin](https://github.com/fermyon/spin) - 2024-10-25 (0 days ago)<br>
-⭐ [xeol-io/xeol](https://github.com/xeol-io/xeol) - 2024-10-24 (1 day ago)<br>
+⭐ [fermyon/spin](https://github.com/fermyon/spin) - 2024-10-26 (0 days ago)<br>
+⭐ [microsoft/AzureLinuxVulnerabilityData](https://github.com/microsoft/AzureLinuxVulnerabilityData) - 2024-10-26 (0 days ago)<br>
+⭐ [sigstore/cosign](https://github.com/sigstore/cosign) - 2024-10-25 (1 day ago)<br>
+⭐ [google/go-containerregistry](https://github.com/google/go-containerregistry) - 2024-10-25 (1 day ago)<br>
+⭐ [xeol-io/xeol](https://github.com/xeol-io/xeol) - 2024-10-24 (2 days ago)<br>
 
-*Last updated: 2024-10-26 01:41 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2024-10-27 01:50 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
