@@ -9,18 +9,18 @@
 
 🟢 Open | 🟣 Merged
 
-🟢 [Feat/oci registry collector](https://github.com/guacsec/guac/pull/2185) - 2024-10-28<br>
-🟢 [Feat/endoflife collector](https://github.com/guacsec/guac/pull/2215) - 2024-10-28<br>
+🟢 [Feat/endoflife collector](https://github.com/guacsec/guac/pull/2215) - 2024-10-29<br>
+🟢 [Feat/registry collector cli additions](https://github.com/guacsec/guac/pull/2241) - 2024-10-29<br>
+🟢 [Feat/oci registry collector](https://github.com/guacsec/guac/pull/2185) - 2024-10-29<br>
 🟣 [Add ut coverage for capabilities.Setup](https://github.com/kubernetes/kubernetes/pull/125395) - 2024-10-17<br>
 🟣 [Add ClearlyDefined to e2e test](https://github.com/guacsec/guac/pull/2168) - 2024-10-14<br>
 🟣 [Fix: missing null check in certifyLegal blobstore backend](https://github.com/guacsec/guac/pull/2193) - 2024-10-11<br>
 🟣 [Fix CD discovered license link in gql generated docs](https://github.com/guacsec/guac/pull/2183) - 2024-10-09<br>
 🟢 [client-go: increase ut coverage for rest:warnings](https://github.com/kubernetes/kubernetes/pull/125273) - 2024-10-02<br>
 🟣 [Clarify verification step on setup-install page](https://github.com/guacsec/guac-docs/pull/152) - 2024-10-02<br>
-🟣 [Implement and verify data model](https://github.com/Open-Model-Initiative/OMI-Data-Pipeline/pull/35) - 2024-09-06<br>
 🟢 [Remove html tag escaping in chapter-single-definition.tmpl](https://github.com/kubernetes/website/pull/47089) - 2024-09-04<br>
 
-*Last updated: 2024-10-29 01:46 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2024-10-30 01:45 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2024-10-29 01:46 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2024-10-30 01:45 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [openai/swarm](https://github.com/openai/swarm) - 2024-10-29 (0 days ago)<br>
-⭐ [wolfi-dev/os](https://github.com/wolfi-dev/os) - 2024-10-29 (0 days ago)<br>
-⭐ [openai/mle-bench](https://github.com/openai/mle-bench) - 2024-10-28 (0 days ago)<br>
-⭐ [sigstore/cosign](https://github.com/sigstore/cosign) - 2024-10-28 (0 days ago)<br>
-⭐ [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - 2024-10-28 (0 days ago)<br>
-⭐ [google/go-containerregistry](https://github.com/google/go-containerregistry) - 2024-10-28 (0 days ago)<br>
-⭐ [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - 2024-10-28 (0 days ago)<br>
-⭐ [microsoft/AzureLinuxVulnerabilityData](https://github.com/microsoft/AzureLinuxVulnerabilityData) - 2024-10-28 (0 days ago)<br>
-⭐ [fermyon/spin](https://github.com/fermyon/spin) - 2024-10-27 (1 day ago)<br>
-⭐ [xeol-io/xeol](https://github.com/xeol-io/xeol) - 2024-10-24 (4 days ago)<br>
+⭐ [google/go-containerregistry](https://github.com/google/go-containerregistry) - 2024-10-30 (0 days ago)<br>
+⭐ [openai/swarm](https://github.com/openai/swarm) - 2024-10-30 (0 days ago)<br>
+⭐ [wolfi-dev/os](https://github.com/wolfi-dev/os) - 2024-10-30 (0 days ago)<br>
+⭐ [sigstore/cosign](https://github.com/sigstore/cosign) - 2024-10-29 (0 days ago)<br>
+⭐ [fermyon/spin](https://github.com/fermyon/spin) - 2024-10-29 (0 days ago)<br>
+⭐ [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - 2024-10-29 (0 days ago)<br>
+⭐ [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - 2024-10-29 (0 days ago)<br>
+⭐ [microsoft/AzureLinuxVulnerabilityData](https://github.com/microsoft/AzureLinuxVulnerabilityData) - 2024-10-29 (0 days ago)<br>
+⭐ [ridhoq/cilantro](https://github.com/ridhoq/cilantro) - 2024-10-29 (0 days ago)<br>
+⭐ [xeol-io/xeol](https://github.com/xeol-io/xeol) - 2024-10-24 (5 days ago)<br>
 
-*Last updated: 2024-10-29 01:46 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2024-10-30 01:45 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
