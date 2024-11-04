@@ -20,7 +20,7 @@
 🟣 [Fix CD discovered license link in gql generated docs](https://github.com/guacsec/guac/pull/2183) - 2024-10-09<br>
 🟣 [Clarify verification step on setup-install page](https://github.com/guacsec/guac-docs/pull/152) - 2024-10-02<br>
 
-*Last updated: 2024-11-03 01:50 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2024-11-04 01:46 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2024-11-03 01:50 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2024-11-04 01:46 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [microsoft/BitNet](https://github.com/microsoft/BitNet) - 2024-11-03 (0 days ago)<br>
-⭐ [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - 2024-11-03 (0 days ago)<br>
-⭐ [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - 2024-11-02 (0 days ago)<br>
-⭐ [anchore/syft](https://github.com/anchore/syft) - 2024-11-02 (0 days ago)<br>
-⭐ [hasura/go-graphql-client](https://github.com/hasura/go-graphql-client) - 2024-11-02 (0 days ago)<br>
-⭐ [fermyon/spin](https://github.com/fermyon/spin) - 2024-11-02 (0 days ago)<br>
-⭐ [xeol-io/xeol](https://github.com/xeol-io/xeol) - 2024-11-02 (0 days ago)<br>
-⭐ [microsoft/AzureLinuxVulnerabilityData](https://github.com/microsoft/AzureLinuxVulnerabilityData) - 2024-11-02 (0 days ago)<br>
-⭐ [schednex-ai/schednex](https://github.com/schednex-ai/schednex) - 2024-10-30 (3 days ago)<br>
-⭐ [ridhoq/cilantro](https://github.com/ridhoq/cilantro) - 2024-10-29 (4 days ago)<br>
+⭐ [microsoft/BitNet](https://github.com/microsoft/BitNet) - 2024-11-04 (0 days ago)<br>
+⭐ [anchore/syft](https://github.com/anchore/syft) - 2024-11-04 (0 days ago)<br>
+⭐ [spdx/spdx-examples](https://github.com/spdx/spdx-examples) - 2024-11-04 (0 days ago)<br>
+⭐ [distribution/distribution](https://github.com/distribution/distribution) - 2024-11-04 (0 days ago)<br>
+⭐ [oras-project/oras](https://github.com/oras-project/oras) - 2024-11-04 (0 days ago)<br>
+⭐ [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - 2024-11-04 (0 days ago)<br>
+⭐ [fermyon/spin](https://github.com/fermyon/spin) - 2024-11-03 (0 days ago)<br>
+⭐ [hasura/go-graphql-client](https://github.com/hasura/go-graphql-client) - 2024-11-02 (1 day ago)<br>
+⭐ [schednex-ai/schednex](https://github.com/schednex-ai/schednex) - 2024-10-30 (4 days ago)<br>
+⭐ [ridhoq/cilantro](https://github.com/ridhoq/cilantro) - 2024-10-29 (5 days ago)<br>
 
-*Last updated: 2024-11-03 01:50 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2024-11-04 01:46 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
