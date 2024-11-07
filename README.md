@@ -9,7 +9,7 @@
 
 🟢 Open | 🟣 Merged
 
-🟢 [Add CertifyLegal to query known package](https://github.com/guacsec/guac/pull/2254) - 2024-11-06<br>
+🟣 [Add CertifyLegal to query known package](https://github.com/guacsec/guac/pull/2254) - 2024-11-06<br>
 🟢 [Feat/registry collector cli additions](https://github.com/guacsec/guac/pull/2241) - 2024-11-05<br>
 🟣 [Feat/oci registry collector](https://github.com/guacsec/guac/pull/2185) - 2024-11-04<br>
 🟣 [Feat/endoflife collector](https://github.com/guacsec/guac/pull/2215) - 2024-11-04<br>
@@ -20,7 +20,7 @@
 🟣 [Fix: missing null check in certifyLegal blobstore backend](https://github.com/guacsec/guac/pull/2193) - 2024-10-11<br>
 🟢 [Remove html tag escaping in chapter-single-definition.tmpl](https://github.com/kubernetes/website/pull/47089) - 2024-09-04<br>
 
-*Last updated: 2024-11-06 01:41 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2024-11-07 01:42 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2024-11-06 01:41 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2024-11-07 01:42 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [microsoft/BitNet](https://github.com/microsoft/BitNet) - 2024-11-06 (0 days ago)<br>
-⭐ [fermyon/spin](https://github.com/fermyon/spin) - 2024-11-06 (0 days ago)<br>
-⭐ [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - 2024-11-05 (0 days ago)<br>
-⭐ [anchore/syft](https://github.com/anchore/syft) - 2024-11-05 (0 days ago)<br>
-⭐ [hasura/go-graphql-client](https://github.com/hasura/go-graphql-client) - 2024-11-05 (0 days ago)<br>
-⭐ [oras-project/oras](https://github.com/oras-project/oras) - 2024-11-05 (0 days ago)<br>
-⭐ [distribution/distribution](https://github.com/distribution/distribution) - 2024-11-05 (0 days ago)<br>
-⭐ [schednex-ai/schednex](https://github.com/schednex-ai/schednex) - 2024-11-04 (1 day ago)<br>
-⭐ [spdx/spdx-examples](https://github.com/spdx/spdx-examples) - 2024-11-04 (2 days ago)<br>
-⭐ [ridhoq/cilantro](https://github.com/ridhoq/cilantro) - 2024-10-29 (7 days ago)<br>
+⭐ [anchore/syft](https://github.com/anchore/syft) - 2024-11-07 (0 days ago)<br>
+⭐ [knqyf263/go-deb-version](https://github.com/knqyf263/go-deb-version) - 2024-11-07 (0 days ago)<br>
+⭐ [oras-project/oras](https://github.com/oras-project/oras) - 2024-11-06 (0 days ago)<br>
+⭐ [hasura/go-graphql-client](https://github.com/hasura/go-graphql-client) - 2024-11-06 (0 days ago)<br>
+⭐ [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - 2024-11-06 (0 days ago)<br>
+⭐ [distribution/distribution](https://github.com/distribution/distribution) - 2024-11-06 (0 days ago)<br>
+⭐ [charlypoly/graphql-to-json-schema](https://github.com/charlypoly/graphql-to-json-schema) - 2024-11-06 (0 days ago)<br>
+⭐ [Khan/genqlient](https://github.com/Khan/genqlient) - 2024-11-06 (0 days ago)<br>
+⭐ [schednex-ai/schednex](https://github.com/schednex-ai/schednex) - 2024-11-04 (2 days ago)<br>
+⭐ [spdx/spdx-examples](https://github.com/spdx/spdx-examples) - 2024-11-04 (3 days ago)<br>
 
-*Last updated: 2024-11-06 01:41 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2024-11-07 01:42 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
