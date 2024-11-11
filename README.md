@@ -20,7 +20,7 @@
 🟣 [Add ut coverage for capabilities.Setup](https://github.com/kubernetes/kubernetes/pull/125395) - 2024-10-17<br>
 🟢 [Remove html tag escaping in chapter-single-definition.tmpl](https://github.com/kubernetes/website/pull/47089) - 2024-09-04<br>
 
-*Last updated: 2024-11-10 01:47 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2024-11-11 01:44 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2024-11-10 01:47 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2024-11-11 01:44 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight) - 2024-11-10 (0 days ago)<br>
-⭐ [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 2024-11-09 (0 days ago)<br>
-⭐ [distribution/distribution](https://github.com/distribution/distribution) - 2024-11-09 (0 days ago)<br>
-⭐ [Khan/genqlient](https://github.com/Khan/genqlient) - 2024-11-08 (1 day ago)<br>
-⭐ [charlypoly/graphql-to-json-schema](https://github.com/charlypoly/graphql-to-json-schema) - 2024-11-08 (1 day ago)<br>
-⭐ [cncf/gitdm](https://github.com/cncf/gitdm) - 2024-11-08 (1 day ago)<br>
-⭐ [Azure/AgentBaker](https://github.com/Azure/AgentBaker) - 2024-11-08 (2 days ago)<br>
-⭐ [Open-Model-Initiative/OMI-Site](https://github.com/Open-Model-Initiative/OMI-Site) - 2024-11-07 (2 days ago)<br>
-⭐ [knqyf263/go-deb-version](https://github.com/knqyf263/go-deb-version) - 2024-11-07 (3 days ago)<br>
-⭐ [spdx/spdx-examples](https://github.com/spdx/spdx-examples) - 2024-11-04 (6 days ago)<br>
+⭐ [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight) - 2024-11-11 (0 days ago)<br>
+⭐ [distribution/distribution](https://github.com/distribution/distribution) - 2024-11-10 (0 days ago)<br>
+⭐ [Khan/genqlient](https://github.com/Khan/genqlient) - 2024-11-10 (0 days ago)<br>
+⭐ [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 2024-11-09 (1 day ago)<br>
+⭐ [charlypoly/graphql-to-json-schema](https://github.com/charlypoly/graphql-to-json-schema) - 2024-11-08 (2 days ago)<br>
+⭐ [cncf/gitdm](https://github.com/cncf/gitdm) - 2024-11-08 (2 days ago)<br>
+⭐ [Azure/AgentBaker](https://github.com/Azure/AgentBaker) - 2024-11-08 (3 days ago)<br>
+⭐ [Open-Model-Initiative/OMI-Site](https://github.com/Open-Model-Initiative/OMI-Site) - 2024-11-07 (3 days ago)<br>
+⭐ [knqyf263/go-deb-version](https://github.com/knqyf263/go-deb-version) - 2024-11-07 (4 days ago)<br>
+⭐ [spdx/spdx-examples](https://github.com/spdx/spdx-examples) - 2024-11-04 (7 days ago)<br>
 
-*Last updated: 2024-11-10 01:47 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2024-11-11 01:44 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
