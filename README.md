@@ -9,10 +9,10 @@
 
 🟢 Open | 🟣 Merged
 
-🟢 [Fix/overwrite collector registration](https://github.com/guacsec/guac/pull/2288) - 2024-11-13<br>
+🟢 [Export getGraphqlServer and accept initialized backend](https://github.com/guacsec/guac/pull/2243) - 2024-11-14<br>
+🟢 [Feat/registry collector cli additions](https://github.com/guacsec/guac/pull/2241) - 2024-11-14<br>
+🟢 [Fix/overwrite collector registration](https://github.com/guacsec/guac/pull/2288) - 2024-11-14<br>
 🟣 [Add certifyLegal to known-and-unknown](https://github.com/guacsec/guac-docs/pull/181) - 2024-11-13<br>
-🟢 [Feat/registry collector cli additions](https://github.com/guacsec/guac/pull/2241) - 2024-11-11<br>
-🟢 [Export getGraphqlServer and accept initialized backend](https://github.com/guacsec/guac/pull/2243) - 2024-11-11<br>
 🟣 [Fix: jsonl files are rejected](https://github.com/guacsec/guac/pull/2266) - 2024-11-08<br>
 🟣 [Add @robert-cronin](https://github.com/cncf/gitdm/pull/534) - 2024-11-08<br>
 🟣 [Add CertifyLegal to query known package](https://github.com/guacsec/guac/pull/2254) - 2024-11-06<br>
@@ -20,7 +20,7 @@
 🟢 [Decouple backend specific config from guacgql cmd](https://github.com/guacsec/guac/pull/2247) - 2024-10-31<br>
 🟢 [Remove html tag escaping in chapter-single-definition.tmpl](https://github.com/kubernetes/website/pull/47089) - 2024-09-04<br>
 
-*Last updated: 2024-11-14 01:43 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2024-11-15 01:49 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2024-11-14 01:43 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2024-11-15 01:49 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight) - 2024-11-14 (0 days ago)<br>
+⭐ [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight) - 2024-11-15 (0 days ago)<br>
+⭐ [in-toto/attestation](https://github.com/in-toto/attestation) - 2024-11-14 (0 days ago)<br>
 ⭐ [rs/zerolog](https://github.com/rs/zerolog) - 2024-11-14 (0 days ago)<br>
-⭐ [Azure/AgentBaker](https://github.com/Azure/AgentBaker) - 2024-11-13 (0 days ago)<br>
-⭐ [in-toto/attestation](https://github.com/in-toto/attestation) - 2024-11-13 (0 days ago)<br>
-⭐ [sigstore/sigstore-go](https://github.com/sigstore/sigstore-go) - 2024-11-13 (0 days ago)<br>
-⭐ [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 2024-11-13 (0 days ago)<br>
-⭐ [sigstore/fulcio](https://github.com/sigstore/fulcio) - 2024-11-12 (1 day ago)<br>
-⭐ [spdx/tools-golang](https://github.com/spdx/tools-golang) - 2024-11-11 (2 days ago)<br>
-⭐ [cncf/gitdm](https://github.com/cncf/gitdm) - 2024-11-08 (5 days ago)<br>
-⭐ [Open-Model-Initiative/OMI-Site](https://github.com/Open-Model-Initiative/OMI-Site) - 2024-11-07 (6 days ago)<br>
+⭐ [Azure/AgentBaker](https://github.com/Azure/AgentBaker) - 2024-11-14 (0 days ago)<br>
+⭐ [Azure/arn-sdk](https://github.com/Azure/arn-sdk) - 2024-11-14 (0 days ago)<br>
+⭐ [nicksz/jTime](https://github.com/nicksz/jTime) - 2024-11-14 (0 days ago)<br>
+⭐ [sigstore/sigstore-go](https://github.com/sigstore/sigstore-go) - 2024-11-13 (1 day ago)<br>
+⭐ [sigstore/fulcio](https://github.com/sigstore/fulcio) - 2024-11-12 (2 days ago)<br>
+⭐ [spdx/tools-golang](https://github.com/spdx/tools-golang) - 2024-11-11 (3 days ago)<br>
+⭐ [cncf/gitdm](https://github.com/cncf/gitdm) - 2024-11-08 (6 days ago)<br>
 
-*Last updated: 2024-11-14 01:43 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2024-11-15 01:49 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
