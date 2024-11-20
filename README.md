@@ -20,7 +20,7 @@
 🟣 [Feat/oci registry collector](https://github.com/guacsec/guac/pull/2185) - 2024-11-04<br>
 🟢 [Remove html tag escaping in chapter-single-definition.tmpl](https://github.com/kubernetes/website/pull/47089) - 2024-09-04<br>
 
-*Last updated: 2024-11-19 01:49 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2024-11-20 01:48 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2024-11-19 01:49 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2024-11-20 01:48 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [rs/zerolog](https://github.com/rs/zerolog) - 2024-11-19 (0 days ago)<br>
-⭐ [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight) - 2024-11-19 (0 days ago)<br>
-⭐ [Azure/AgentBaker](https://github.com/Azure/AgentBaker) - 2024-11-19 (0 days ago)<br>
-⭐ [sigstore/fulcio](https://github.com/sigstore/fulcio) - 2024-11-18 (0 days ago)<br>
-⭐ [cncf/gitdm](https://github.com/cncf/gitdm) - 2024-11-18 (0 days ago)<br>
-⭐ [sigstore/sigstore-go](https://github.com/sigstore/sigstore-go) - 2024-11-18 (0 days ago)<br>
-⭐ [in-toto/attestation](https://github.com/in-toto/attestation) - 2024-11-15 (3 days ago)<br>
-⭐ [Azure/arn-sdk](https://github.com/Azure/arn-sdk) - 2024-11-14 (4 days ago)<br>
-⭐ [nicksz/jTime](https://github.com/nicksz/jTime) - 2024-11-14 (4 days ago)<br>
-⭐ [spdx/tools-golang](https://github.com/spdx/tools-golang) - 2024-11-11 (7 days ago)<br>
+⭐ [sigstore/fulcio](https://github.com/sigstore/fulcio) - 2024-11-20 (0 days ago)<br>
+⭐ [rs/zerolog](https://github.com/rs/zerolog) - 2024-11-20 (0 days ago)<br>
+⭐ [openclarity/openclarity](https://github.com/openclarity/openclarity) - 2024-11-19 (0 days ago)<br>
+⭐ [Shopify/kubeaudit](https://github.com/Shopify/kubeaudit) - 2024-11-19 (0 days ago)<br>
+⭐ [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) - 2024-11-19 (0 days ago)<br>
+⭐ [sigstore/sigstore-go](https://github.com/sigstore/sigstore-go) - 2024-11-19 (0 days ago)<br>
+⭐ [kubescape/kubescape](https://github.com/kubescape/kubescape) - 2024-11-19 (0 days ago)<br>
+⭐ [in-toto/attestation](https://github.com/in-toto/attestation) - 2024-11-15 (4 days ago)<br>
+⭐ [Azure/arn-sdk](https://github.com/Azure/arn-sdk) - 2024-11-14 (5 days ago)<br>
+⭐ [nicksz/jTime](https://github.com/nicksz/jTime) - 2024-11-14 (5 days ago)<br>
 
-*Last updated: 2024-11-19 01:49 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2024-11-20 01:48 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
