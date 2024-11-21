@@ -9,18 +9,18 @@
 
 🟢 Open | 🟣 Merged
 
-🟢 [Fix/overwrite collector registration](https://github.com/guacsec/guac/pull/2288) - 2024-11-18<br>
-🟢 [Decouple backend specific config from guacgql cmd](https://github.com/guacsec/guac/pull/2247) - 2024-11-18<br>
-🟢 [Feat/registry collector cli additions](https://github.com/guacsec/guac/pull/2241) - 2024-11-17<br>
+🟢 [Address Flakiness in ClearlyDefined API](https://github.com/guacsec/guac/pull/2306) - 2024-11-20<br>
+🟢 [Decouple backend specific config from guacgql cmd](https://github.com/guacsec/guac/pull/2247) - 2024-11-20<br>
+🟣 [Fix/overwrite collector registration](https://github.com/guacsec/guac/pull/2288) - 2024-11-20<br>
+🟣 [Feat/registry collector cli additions](https://github.com/guacsec/guac/pull/2241) - 2024-11-20<br>
 🟣 [Export getGraphqlServer and accept initialized backend](https://github.com/guacsec/guac/pull/2243) - 2024-11-15<br>
 🟣 [Add certifyLegal to known-and-unknown](https://github.com/guacsec/guac-docs/pull/181) - 2024-11-13<br>
 🟣 [Fix: jsonl files are rejected](https://github.com/guacsec/guac/pull/2266) - 2024-11-08<br>
 🟣 [Add @robert-cronin](https://github.com/cncf/gitdm/pull/534) - 2024-11-08<br>
 🟣 [Add CertifyLegal to query known package](https://github.com/guacsec/guac/pull/2254) - 2024-11-06<br>
-🟣 [Feat/oci registry collector](https://github.com/guacsec/guac/pull/2185) - 2024-11-04<br>
 🟢 [Remove html tag escaping in chapter-single-definition.tmpl](https://github.com/kubernetes/website/pull/47089) - 2024-09-04<br>
 
-*Last updated: 2024-11-20 01:48 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2024-11-21 01:31 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2024-11-20 01:48 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2024-11-21 01:31 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [sigstore/fulcio](https://github.com/sigstore/fulcio) - 2024-11-20 (0 days ago)<br>
+⭐ [kubescape/kubescape](https://github.com/kubescape/kubescape) - 2024-11-20 (0 days ago)<br>
 ⭐ [rs/zerolog](https://github.com/rs/zerolog) - 2024-11-20 (0 days ago)<br>
-⭐ [openclarity/openclarity](https://github.com/openclarity/openclarity) - 2024-11-19 (0 days ago)<br>
-⭐ [Shopify/kubeaudit](https://github.com/Shopify/kubeaudit) - 2024-11-19 (0 days ago)<br>
-⭐ [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) - 2024-11-19 (0 days ago)<br>
-⭐ [sigstore/sigstore-go](https://github.com/sigstore/sigstore-go) - 2024-11-19 (0 days ago)<br>
-⭐ [kubescape/kubescape](https://github.com/kubescape/kubescape) - 2024-11-19 (0 days ago)<br>
-⭐ [in-toto/attestation](https://github.com/in-toto/attestation) - 2024-11-15 (4 days ago)<br>
-⭐ [Azure/arn-sdk](https://github.com/Azure/arn-sdk) - 2024-11-14 (5 days ago)<br>
-⭐ [nicksz/jTime](https://github.com/nicksz/jTime) - 2024-11-14 (5 days ago)<br>
+⭐ [openclarity/openclarity](https://github.com/openclarity/openclarity) - 2024-11-20 (0 days ago)<br>
+⭐ [sigstore/fulcio](https://github.com/sigstore/fulcio) - 2024-11-20 (1 day ago)<br>
+⭐ [Shopify/kubeaudit](https://github.com/Shopify/kubeaudit) - 2024-11-19 (1 day ago)<br>
+⭐ [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) - 2024-11-19 (1 day ago)<br>
+⭐ [sigstore/sigstore-go](https://github.com/sigstore/sigstore-go) - 2024-11-19 (1 day ago)<br>
+⭐ [in-toto/attestation](https://github.com/in-toto/attestation) - 2024-11-15 (5 days ago)<br>
+⭐ [Azure/arn-sdk](https://github.com/Azure/arn-sdk) - 2024-11-14 (6 days ago)<br>
+⭐ [nicksz/jTime](https://github.com/nicksz/jTime) - 2024-11-14 (6 days ago)<br>
 
-*Last updated: 2024-11-20 01:48 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2024-11-21 01:31 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
