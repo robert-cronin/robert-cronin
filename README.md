@@ -20,7 +20,7 @@
 🟣 [Add @robert-cronin](https://github.com/cncf/gitdm/pull/534) - 2024-11-08<br>
 🟢 [Remove html tag escaping in chapter-single-definition.tmpl](https://github.com/kubernetes/website/pull/47089) - 2024-09-04<br>
 
-*Last updated: 2024-11-26 01:50 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2024-11-27 01:52 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2024-11-26 01:50 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2024-11-27 01:52 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [openclarity/openclarity](https://github.com/openclarity/openclarity) - 2024-11-26 (0 days ago)<br>
-⭐ [buildpacks/pack](https://github.com/buildpacks/pack) - 2024-11-25 (0 days ago)<br>
-⭐ [uber-go/mock](https://github.com/uber-go/mock) - 2024-11-25 (0 days ago)<br>
-⭐ [notaryproject/notary](https://github.com/notaryproject/notary) - 2024-11-25 (0 days ago)<br>
-⭐ [gotestyourself/gotestsum](https://github.com/gotestyourself/gotestsum) - 2024-11-23 (2 days ago)<br>
-⭐ [Shopify/kubeaudit](https://github.com/Shopify/kubeaudit) - 2024-11-22 (3 days ago)<br>
-⭐ [EnricoMi/publish-unit-test-result-action](https://github.com/EnricoMi/publish-unit-test-result-action) - 2024-11-22 (3 days ago)<br>
-⭐ [GoTestTools/gotestfmt](https://github.com/GoTestTools/gotestfmt) - 2024-11-22 (3 days ago)<br>
-⭐ [marocchino/sticky-pull-request-comment](https://github.com/marocchino/sticky-pull-request-comment) - 2024-11-22 (4 days ago)<br>
-⭐ [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) - 2024-11-19 (6 days ago)<br>
+⭐ [microsoft/typespec](https://github.com/microsoft/typespec) - 2024-11-26 (0 days ago)<br>
+⭐ [microsoft/component-detection](https://github.com/microsoft/component-detection) - 2024-11-26 (0 days ago)<br>
+⭐ [Azure/obom](https://github.com/Azure/obom) - 2024-11-26 (0 days ago)<br>
+⭐ [buildpacks/pack](https://github.com/buildpacks/pack) - 2024-11-26 (0 days ago)<br>
+⭐ [notaryproject/notary](https://github.com/notaryproject/notary) - 2024-11-26 (0 days ago)<br>
+⭐ [uber-go/mock](https://github.com/uber-go/mock) - 2024-11-26 (0 days ago)<br>
+⭐ [gotestyourself/gotestsum](https://github.com/gotestyourself/gotestsum) - 2024-11-23 (3 days ago)<br>
+⭐ [EnricoMi/publish-unit-test-result-action](https://github.com/EnricoMi/publish-unit-test-result-action) - 2024-11-22 (4 days ago)<br>
+⭐ [GoTestTools/gotestfmt](https://github.com/GoTestTools/gotestfmt) - 2024-11-22 (4 days ago)<br>
+⭐ [marocchino/sticky-pull-request-comment](https://github.com/marocchino/sticky-pull-request-comment) - 2024-11-22 (5 days ago)<br>
 
-*Last updated: 2024-11-26 01:50 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2024-11-27 01:52 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
