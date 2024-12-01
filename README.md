@@ -20,7 +20,7 @@
 🟣 [Add certifyLegal to known-and-unknown](https://github.com/guacsec/guac-docs/pull/181) - 2024-11-13<br>
 🟢 [Remove html tag escaping in chapter-single-definition.tmpl](https://github.com/kubernetes/website/pull/47089) - 2024-09-04<br>
 
-*Last updated: 2024-11-30 01:48 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2024-12-01 02:07 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2024-11-30 01:48 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2024-12-01 02:07 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [slsa-framework/slsa](https://github.com/slsa-framework/slsa) - 2024-11-29 (0 days ago)<br>
-⭐ [kubernetes-sigs/cloud-provider-azure](https://github.com/kubernetes-sigs/cloud-provider-azure) - 2024-11-29 (0 days ago)<br>
-⭐ [npm/node-semver](https://github.com/npm/node-semver) - 2024-11-29 (0 days ago)<br>
-⭐ [woodruffw/zizmor](https://github.com/woodruffw/zizmor) - 2024-11-29 (0 days ago)<br>
-⭐ [in-toto/in-toto](https://github.com/in-toto/in-toto) - 2024-11-29 (0 days ago)<br>
-⭐ [in-toto/community](https://github.com/in-toto/community) - 2024-11-29 (0 days ago)<br>
-⭐ [in-toto/specification](https://github.com/in-toto/specification) - 2024-11-29 (0 days ago)<br>
-⭐ [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang) - 2024-11-29 (0 days ago)<br>
-⭐ [google/capslock](https://github.com/google/capslock) - 2024-11-29 (1 day ago)<br>
-⭐ [github/codeql-action](https://github.com/github/codeql-action) - 2024-11-28 (1 day ago)<br>
+⭐ [npm/node-semver](https://github.com/npm/node-semver) - 2024-11-30 (0 days ago)<br>
+⭐ [kubernetes-sigs/cloud-provider-azure](https://github.com/kubernetes-sigs/cloud-provider-azure) - 2024-11-30 (0 days ago)<br>
+⭐ [woodruffw/zizmor](https://github.com/woodruffw/zizmor) - 2024-11-30 (0 days ago)<br>
+⭐ [github/codeql-action](https://github.com/github/codeql-action) - 2024-11-30 (0 days ago)<br>
+⭐ [slsa-framework/slsa](https://github.com/slsa-framework/slsa) - 2024-11-30 (0 days ago)<br>
+⭐ [in-toto/in-toto](https://github.com/in-toto/in-toto) - 2024-11-29 (1 day ago)<br>
+⭐ [in-toto/community](https://github.com/in-toto/community) - 2024-11-29 (1 day ago)<br>
+⭐ [in-toto/specification](https://github.com/in-toto/specification) - 2024-11-29 (1 day ago)<br>
+⭐ [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang) - 2024-11-29 (1 day ago)<br>
+⭐ [google/capslock](https://github.com/google/capslock) - 2024-11-29 (2 days ago)<br>
 
-*Last updated: 2024-11-30 01:48 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2024-12-01 02:07 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
