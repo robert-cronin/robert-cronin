@@ -20,7 +20,7 @@
 🟣 [Export getGraphqlServer and accept initialized backend](https://github.com/guacsec/guac/pull/2243) - 2024-11-15<br>
 🟣 [Add certifyLegal to known-and-unknown](https://github.com/guacsec/guac-docs/pull/181) - 2024-11-13<br>
 
-*Last updated: 2024-12-04 01:53 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2024-12-05 01:53 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2024-12-04 01:53 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2024-12-05 01:53 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [keycloak/keycloak](https://github.com/keycloak/keycloak) - 2024-12-04 (0 days ago)<br>
-⭐ [google/oss-fuzz](https://github.com/google/oss-fuzz) - 2024-12-04 (0 days ago)<br>
+⭐ [keycloak/keycloak](https://github.com/keycloak/keycloak) - 2024-12-05 (0 days ago)<br>
+⭐ [google/oss-fuzz](https://github.com/google/oss-fuzz) - 2024-12-05 (0 days ago)<br>
+⭐ [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - 2024-12-04 (0 days ago)<br>
+⭐ [google/zx](https://github.com/google/zx) - 2024-12-04 (0 days ago)<br>
+⭐ [google/go-cloud](https://github.com/google/go-cloud) - 2024-12-04 (0 days ago)<br>
 ⭐ [google/oss-fuzz-vulns](https://github.com/google/oss-fuzz-vulns) - 2024-12-04 (0 days ago)<br>
-⭐ [theseus-rs/postgresql-embedded](https://github.com/theseus-rs/postgresql-embedded) - 2024-12-04 (0 days ago)<br>
-⭐ [secure-systems-lab/dsse](https://github.com/secure-systems-lab/dsse) - 2024-12-03 (0 days ago)<br>
-⭐ [anchore/grype](https://github.com/anchore/grype) - 2024-12-03 (0 days ago)<br>
-⭐ [in-toto/in-toto](https://github.com/in-toto/in-toto) - 2024-12-03 (0 days ago)<br>
-⭐ [kubernetes-sigs/cloud-provider-azure](https://github.com/kubernetes-sigs/cloud-provider-azure) - 2024-12-03 (0 days ago)<br>
-⭐ [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - 2024-12-03 (0 days ago)<br>
-⭐ [npm/node-semver](https://github.com/npm/node-semver) - 2024-12-03 (0 days ago)<br>
+⭐ [openai/openai-go](https://github.com/openai/openai-go) - 2024-12-04 (0 days ago)<br>
+⭐ [trustification/trustification](https://github.com/trustification/trustification) - 2024-12-04 (0 days ago)<br>
+⭐ [theseus-rs/postgresql-embedded](https://github.com/theseus-rs/postgresql-embedded) - 2024-12-04 (1 day ago)<br>
+⭐ [secure-systems-lab/dsse](https://github.com/secure-systems-lab/dsse) - 2024-12-03 (1 day ago)<br>
 
-*Last updated: 2024-12-04 01:53 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2024-12-05 01:53 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
