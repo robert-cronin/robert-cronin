@@ -20,7 +20,7 @@
 🟣 [Export getGraphqlServer and accept initialized backend](https://github.com/guacsec/guac/pull/2243) - 2024-11-15<br>
 🟣 [Add certifyLegal to known-and-unknown](https://github.com/guacsec/guac-docs/pull/181) - 2024-11-13<br>
 
-*Last updated: 2024-12-08 02:00 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2024-12-09 01:56 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2024-12-08 02:00 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2024-12-09 01:56 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [keycloak/keycloak](https://github.com/keycloak/keycloak) - 2024-12-08 (0 days ago)<br>
-⭐ [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - 2024-12-07 (0 days ago)<br>
-⭐ [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - 2024-12-07 (0 days ago)<br>
-⭐ [openai/openai-go](https://github.com/openai/openai-go) - 2024-12-07 (0 days ago)<br>
-⭐ [google/zx](https://github.com/google/zx) - 2024-12-07 (0 days ago)<br>
-⭐ [google/oss-fuzz](https://github.com/google/oss-fuzz) - 2024-12-07 (0 days ago)<br>
-⭐ [jonjohnsonjr/dagdotdev](https://github.com/jonjohnsonjr/dagdotdev) - 2024-12-07 (0 days ago)<br>
-⭐ [google/go-cloud](https://github.com/google/go-cloud) - 2024-12-06 (1 day ago)<br>
-⭐ [Azure/AKS](https://github.com/Azure/AKS) - 2024-12-05 (2 days ago)<br>
-⭐ [trustification/trustification](https://github.com/trustification/trustification) - 2024-12-05 (2 days ago)<br>
+⭐ [keycloak/keycloak](https://github.com/keycloak/keycloak) - 2024-12-09 (0 days ago)<br>
+⭐ [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - 2024-12-09 (0 days ago)<br>
+⭐ [google/oss-fuzz](https://github.com/google/oss-fuzz) - 2024-12-08 (0 days ago)<br>
+⭐ [google/zx](https://github.com/google/zx) - 2024-12-08 (0 days ago)<br>
+⭐ [openai/openai-go](https://github.com/openai/openai-go) - 2024-12-08 (0 days ago)<br>
+⭐ [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - 2024-12-08 (0 days ago)<br>
+⭐ [google/go-cloud](https://github.com/google/go-cloud) - 2024-12-08 (0 days ago)<br>
+⭐ [jonjohnsonjr/dagdotdev](https://github.com/jonjohnsonjr/dagdotdev) - 2024-12-07 (1 day ago)<br>
+⭐ [Azure/AKS](https://github.com/Azure/AKS) - 2024-12-05 (3 days ago)<br>
+⭐ [trustification/trustification](https://github.com/trustification/trustification) - 2024-12-05 (3 days ago)<br>
 
-*Last updated: 2024-12-08 02:00 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2024-12-09 01:56 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
