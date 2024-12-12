@@ -20,7 +20,7 @@
 🟣 [Feat/registry collector cli additions](https://github.com/guacsec/guac/pull/2241) - 2024-11-20<br>
 🟣 [Export getGraphqlServer and accept initialized backend](https://github.com/guacsec/guac/pull/2243) - 2024-11-15<br>
 
-*Last updated: 2024-12-11 00:30 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2024-12-12 00:30 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2024-12-11 00:30 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2024-12-12 00:30 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [ratify-project/ratify](https://github.com/ratify-project/ratify) - 2024-12-10 (0 days ago)<br>
-⭐ [Azure/azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs) - 2024-12-10 (0 days ago)<br>
-⭐ [openai/openai-go](https://github.com/openai/openai-go) - 2024-12-10 (0 days ago)<br>
-⭐ [docker/docs](https://github.com/docker/docs) - 2024-12-10 (0 days ago)<br>
-⭐ [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - 2024-12-10 (0 days ago)<br>
-⭐ [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - 2024-12-10 (0 days ago)<br>
-⭐ [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - 2024-12-10 (0 days ago)<br>
-⭐ [DataDog/malicious-software-packages-dataset](https://github.com/DataDog/malicious-software-packages-dataset) - 2024-12-09 (1 day ago)<br>
-⭐ [Azure/AKS](https://github.com/Azure/AKS) - 2024-12-09 (1 day ago)<br>
-⭐ [jonjohnsonjr/dagdotdev](https://github.com/jonjohnsonjr/dagdotdev) - 2024-12-07 (3 days ago)<br>
+⭐ [DataDog/malicious-software-packages-dataset](https://github.com/DataDog/malicious-software-packages-dataset) - 2024-12-12 (0 days ago)<br>
+⭐ [Azure/azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs) - 2024-12-11 (0 days ago)<br>
+⭐ [Azure/AKS](https://github.com/Azure/AKS) - 2024-12-11 (0 days ago)<br>
+⭐ [openai/openai-go](https://github.com/openai/openai-go) - 2024-12-11 (0 days ago)<br>
+⭐ [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - 2024-12-11 (0 days ago)<br>
+⭐ [ratify-project/ratify](https://github.com/ratify-project/ratify) - 2024-12-11 (0 days ago)<br>
+⭐ [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - 2024-12-11 (0 days ago)<br>
+⭐ [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - 2024-12-11 (0 days ago)<br>
+⭐ [docker/docs](https://github.com/docker/docs) - 2024-12-11 (0 days ago)<br>
+⭐ [jonjohnsonjr/dagdotdev](https://github.com/jonjohnsonjr/dagdotdev) - 2024-12-07 (4 days ago)<br>
 
-*Last updated: 2024-12-11 00:30 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2024-12-12 00:30 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
