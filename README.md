@@ -14,13 +14,13 @@
 🟣 [Fix flag defaults not registered in guacrest binary](https://github.com/guacsec/guac/pull/2356) - 2024-12-10<br>
 🟣 [Reduce scorecard workflow permissions scope](https://github.com/guacsec/guac/pull/2326) - 2024-12-05<br>
 🟢 [Remove html tag escaping in chapter-single-definition.tmpl](https://github.com/kubernetes/website/pull/47089) - 2024-12-03<br>
-🟣 [Add dependency updates](https://github.com/kubernetes-sigs/llm-instance-gateway/pull/57) - 2024-12-02<br>
+🟣 [Add dependency updates](https://github.com/kubernetes-sigs/gateway-api-inference-extension/pull/57) - 2024-12-02<br>
 🟣 [Decouple backend specific config from guacgql cmd](https://github.com/guacsec/guac/pull/2247) - 2024-11-25<br>
 🟣 [Improve test output formatting](https://github.com/guacsec/guac/pull/2310) - 2024-11-25<br>
 🟣 [Address Flakiness in ClearlyDefined API](https://github.com/guacsec/guac/pull/2306) - 2024-11-25<br>
 🟣 [Fix/overwrite collector registration](https://github.com/guacsec/guac/pull/2288) - 2024-11-20<br>
 
-*Last updated: 2024-12-17 00:30 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2024-12-18 00:29 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2024-12-17 00:30 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2024-12-18 00:29 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - 2024-12-17 (0 days ago)<br>
-⭐ [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - 2024-12-17 (0 days ago)<br>
-⭐ [Azure/azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs) - 2024-12-16 (0 days ago)<br>
-⭐ [docker/docs](https://github.com/docker/docs) - 2024-12-16 (0 days ago)<br>
-⭐ [ratify-project/ratify](https://github.com/ratify-project/ratify) - 2024-12-16 (0 days ago)<br>
-⭐ [DataDog/malicious-software-packages-dataset](https://github.com/DataDog/malicious-software-packages-dataset) - 2024-12-16 (0 days ago)<br>
-⭐ [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - 2024-12-16 (0 days ago)<br>
-⭐ [microsoft/SymCrypt](https://github.com/microsoft/SymCrypt) - 2024-12-14 (2 days ago)<br>
-⭐ [Azure/AKS](https://github.com/Azure/AKS) - 2024-12-13 (3 days ago)<br>
-⭐ [jonjohnsonjr/dagdotdev](https://github.com/jonjohnsonjr/dagdotdev) - 2024-12-13 (4 days ago)<br>
+⭐ [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - 2024-12-18 (0 days ago)<br>
+⭐ [Azure/azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs) - 2024-12-17 (0 days ago)<br>
+⭐ [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) - 2024-12-17 (0 days ago)<br>
+⭐ [docker/docs](https://github.com/docker/docs) - 2024-12-17 (0 days ago)<br>
+⭐ [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - 2024-12-17 (0 days ago)<br>
+⭐ [ratify-project/ratify](https://github.com/ratify-project/ratify) - 2024-12-17 (0 days ago)<br>
+⭐ [microsoft/SymCrypt](https://github.com/microsoft/SymCrypt) - 2024-12-17 (0 days ago)<br>
+⭐ [DataDog/malicious-software-packages-dataset](https://github.com/DataDog/malicious-software-packages-dataset) - 2024-12-17 (0 days ago)<br>
+⭐ [Azure/AKS](https://github.com/Azure/AKS) - 2024-12-17 (0 days ago)<br>
+⭐ [jonjohnsonjr/dagdotdev](https://github.com/jonjohnsonjr/dagdotdev) - 2024-12-13 (5 days ago)<br>
 
-*Last updated: 2024-12-17 00:30 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2024-12-18 00:29 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
