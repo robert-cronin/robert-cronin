@@ -20,7 +20,7 @@
 🟣 [Improve test output formatting](https://github.com/guacsec/guac/pull/2310) - 2024-11-25<br>
 🟣 [Address Flakiness in ClearlyDefined API](https://github.com/guacsec/guac/pull/2306) - 2024-11-25<br>
 
-*Last updated: 2025-01-04 00:27 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2025-01-05 00:31 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2025-01-04 00:27 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2025-01-05 00:31 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [docker/docs](https://github.com/docker/docs) - 2025-01-03 (0 days ago)<br>
-⭐ [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - 2025-01-03 (0 days ago)<br>
-⭐ [mgechev/revive](https://github.com/mgechev/revive) - 2025-01-03 (0 days ago)<br>
-⭐ [microsoft/azurelinux](https://github.com/microsoft/azurelinux) - 2025-01-03 (0 days ago)<br>
-⭐ [microsoft/SymCrypt](https://github.com/microsoft/SymCrypt) - 2025-01-03 (0 days ago)<br>
-⭐ [Azure/azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs) - 2025-01-03 (0 days ago)<br>
-⭐ [bitbomdev/minefield](https://github.com/bitbomdev/minefield) - 2025-01-02 (1 day ago)<br>
-⭐ [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) - 2025-01-02 (1 day ago)<br>
-⭐ [ratify-project/ratify](https://github.com/ratify-project/ratify) - 2025-01-02 (1 day ago)<br>
-⭐ [containerd/overlaybd](https://github.com/containerd/overlaybd) - 2024-12-30 (4 days ago)<br>
+⭐ [microsoft/SymCrypt](https://github.com/microsoft/SymCrypt) - 2025-01-04 (0 days ago)<br>
+⭐ [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - 2025-01-04 (0 days ago)<br>
+⭐ [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) - 2025-01-04 (0 days ago)<br>
+⭐ [ratify-project/ratify](https://github.com/ratify-project/ratify) - 2025-01-04 (0 days ago)<br>
+⭐ [microsoft/azurelinux](https://github.com/microsoft/azurelinux) - 2025-01-04 (0 days ago)<br>
+⭐ [docker/docs](https://github.com/docker/docs) - 2025-01-03 (1 day ago)<br>
+⭐ [mgechev/revive](https://github.com/mgechev/revive) - 2025-01-03 (1 day ago)<br>
+⭐ [Azure/azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs) - 2025-01-03 (1 day ago)<br>
+⭐ [bitbomdev/minefield](https://github.com/bitbomdev/minefield) - 2025-01-02 (2 days ago)<br>
+⭐ [containerd/overlaybd](https://github.com/containerd/overlaybd) - 2024-12-30 (5 days ago)<br>
 
-*Last updated: 2025-01-04 00:27 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2025-01-05 00:31 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
