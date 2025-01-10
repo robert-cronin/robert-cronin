@@ -9,8 +9,8 @@
 
 🟢 Open | 🟣 Merged
 
-🟢 [Add missing use-csub flag to oci collector](https://github.com/guacsec/guac/pull/2424) - 2025-01-08<br>
-🟢 [Add eol to e2e and fix certifier logic](https://github.com/guacsec/guac/pull/2396) - 2025-01-08<br>
+🟣 [Add missing use-csub flag to oci collector](https://github.com/guacsec/guac/pull/2424) - 2025-01-09<br>
+🟢 [Add eol to e2e and fix certifier logic](https://github.com/guacsec/guac/pull/2396) - 2025-01-09<br>
 🟢 [Add datadog certifier](https://github.com/guacsec/guac/pull/2366) - 2025-01-06<br>
 🟢 [Remove html tag escaping in chapter-single-definition.tmpl](https://github.com/kubernetes/website/pull/47089) - 2025-01-02<br>
 🟣 [Add check for empty CertifyBad nodes in query bad](https://github.com/guacsec/guac/pull/2365) - 2024-12-12<br>
@@ -20,7 +20,7 @@
 🟣 [Decouple backend specific config from guacgql cmd](https://github.com/guacsec/guac/pull/2247) - 2024-11-25<br>
 🟣 [Improve test output formatting](https://github.com/guacsec/guac/pull/2310) - 2024-11-25<br>
 
-*Last updated: 2025-01-09 00:28 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2025-01-10 00:29 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2025-01-09 00:28 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2025-01-10 00:29 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [Azure/azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs) - 2025-01-08 (0 days ago)<br>
-⭐ [docker/docs](https://github.com/docker/docs) - 2025-01-08 (0 days ago)<br>
-⭐ [microsoft/azurelinux](https://github.com/microsoft/azurelinux) - 2025-01-08 (0 days ago)<br>
-⭐ [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - 2025-01-08 (0 days ago)<br>
-⭐ [mgechev/revive](https://github.com/mgechev/revive) - 2025-01-08 (0 days ago)<br>
-⭐ [bitbomdev/minefield](https://github.com/bitbomdev/minefield) - 2025-01-08 (0 days ago)<br>
-⭐ [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) - 2025-01-08 (0 days ago)<br>
-⭐ [ratify-project/ratify](https://github.com/ratify-project/ratify) - 2025-01-06 (2 days ago)<br>
-⭐ [microsoft/SymCrypt](https://github.com/microsoft/SymCrypt) - 2025-01-04 (4 days ago)<br>
-⭐ [containerd/overlaybd](https://github.com/containerd/overlaybd) - 2024-12-30 (9 days ago)<br>
+⭐ [microsoft/azurelinux](https://github.com/microsoft/azurelinux) - 2025-01-09 (0 days ago)<br>
+⭐ [docker/docs](https://github.com/docker/docs) - 2025-01-09 (0 days ago)<br>
+⭐ [mgechev/revive](https://github.com/mgechev/revive) - 2025-01-09 (0 days ago)<br>
+⭐ [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - 2025-01-09 (0 days ago)<br>
+⭐ [Azure/azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs) - 2025-01-09 (0 days ago)<br>
+⭐ [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) - 2025-01-09 (0 days ago)<br>
+⭐ [bitbomdev/minefield](https://github.com/bitbomdev/minefield) - 2025-01-09 (0 days ago)<br>
+⭐ [ratify-project/ratify](https://github.com/ratify-project/ratify) - 2025-01-06 (3 days ago)<br>
+⭐ [microsoft/SymCrypt](https://github.com/microsoft/SymCrypt) - 2025-01-04 (5 days ago)<br>
+⭐ [containerd/overlaybd](https://github.com/containerd/overlaybd) - 2024-12-30 (10 days ago)<br>
 
-*Last updated: 2025-01-09 00:28 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2025-01-10 00:29 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
