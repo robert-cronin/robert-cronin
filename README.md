@@ -9,8 +9,8 @@
 
 🟢 Open | 🟣 Merged
 
-🟢 [Add eol to e2e and fix certifier logic](https://github.com/guacsec/guac/pull/2396) - 2025-01-12<br>
-🟢 [Add datadog certifier](https://github.com/guacsec/guac/pull/2366) - 2025-01-10<br>
+🟢 [Add datadog certifier](https://github.com/guacsec/guac/pull/2366) - 2025-01-13<br>
+🟢 [Add eol to e2e and fix certifier logic](https://github.com/guacsec/guac/pull/2396) - 2025-01-13<br>
 🟢 [Refactor to Golang](https://github.com/sozercan/guac-ai-mole/pull/12) - 2025-01-10<br>
 🟣 [Add missing use-csub flag to oci collector](https://github.com/guacsec/guac/pull/2424) - 2025-01-09<br>
 🟢 [Remove html tag escaping in chapter-single-definition.tmpl](https://github.com/kubernetes/website/pull/47089) - 2025-01-02<br>
@@ -20,7 +20,7 @@
 🟣 [Add dependency updates](https://github.com/kubernetes-sigs/gateway-api-inference-extension/pull/57) - 2024-12-02<br>
 🟣 [Decouple backend specific config from guacgql cmd](https://github.com/guacsec/guac/pull/2247) - 2024-11-25<br>
 
-*Last updated: 2025-01-13 00:30 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2025-01-14 00:27 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2025-01-13 00:30 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2025-01-14 00:27 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [mgechev/revive](https://github.com/mgechev/revive) - 2025-01-12 (0 days ago)<br>
-⭐ [microsoft/azurelinux](https://github.com/microsoft/azurelinux) - 2025-01-12 (0 days ago)<br>
-⭐ [bitbomdev/minefield](https://github.com/bitbomdev/minefield) - 2025-01-12 (0 days ago)<br>
-⭐ [sbilly/awesome-security](https://github.com/sbilly/awesome-security) - 2025-01-12 (0 days ago)<br>
-⭐ [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) - 2025-01-12 (0 days ago)<br>
-⭐ [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom) - 2025-01-11 (1 day ago)<br>
-⭐ [Funkmyster/awesome-supply-chain](https://github.com/Funkmyster/awesome-supply-chain) - 2025-01-11 (1 day ago)<br>
-⭐ [bureado/awesome-software-supply-chain-security](https://github.com/bureado/awesome-software-supply-chain-security) - 2025-01-10 (2 days ago)<br>
-⭐ [microsoft/SymCrypt](https://github.com/microsoft/SymCrypt) - 2025-01-04 (8 days ago)<br>
-⭐ [containerd/overlaybd](https://github.com/containerd/overlaybd) - 2024-12-30 (13 days ago)<br>
+⭐ [sbilly/awesome-security](https://github.com/sbilly/awesome-security) - 2025-01-13 (0 days ago)<br>
+⭐ [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) - 2025-01-13 (0 days ago)<br>
+⭐ [bitbomdev/minefield](https://github.com/bitbomdev/minefield) - 2025-01-13 (0 days ago)<br>
+⭐ [microsoft/azurelinux](https://github.com/microsoft/azurelinux) - 2025-01-13 (0 days ago)<br>
+⭐ [mgechev/revive](https://github.com/mgechev/revive) - 2025-01-12 (1 day ago)<br>
+⭐ [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom) - 2025-01-11 (2 days ago)<br>
+⭐ [Funkmyster/awesome-supply-chain](https://github.com/Funkmyster/awesome-supply-chain) - 2025-01-11 (2 days ago)<br>
+⭐ [bureado/awesome-software-supply-chain-security](https://github.com/bureado/awesome-software-supply-chain-security) - 2025-01-10 (3 days ago)<br>
+⭐ [microsoft/SymCrypt](https://github.com/microsoft/SymCrypt) - 2025-01-04 (9 days ago)<br>
+⭐ [containerd/overlaybd](https://github.com/containerd/overlaybd) - 2024-12-30 (14 days ago)<br>
 
-*Last updated: 2025-01-13 00:30 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2025-01-14 00:27 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
