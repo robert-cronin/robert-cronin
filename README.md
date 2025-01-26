@@ -20,7 +20,7 @@
 🟣 [Decouple backend specific config from guacgql cmd](https://github.com/guacsec/guac/pull/2247) - 2024-11-25<br>
 🟣 [Improve test output formatting](https://github.com/guacsec/guac/pull/2310) - 2024-11-25<br>
 
-*Last updated: 2025-01-25 00:26 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2025-01-26 00:28 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2025-01-25 00:26 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2025-01-26 00:28 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [mgechev/revive](https://github.com/mgechev/revive) - 2025-01-24 (0 days ago)<br>
-⭐ [sbilly/awesome-security](https://github.com/sbilly/awesome-security) - 2025-01-24 (0 days ago)<br>
-⭐ [containerd/overlaybd](https://github.com/containerd/overlaybd) - 2025-01-24 (0 days ago)<br>
-⭐ [microsoft/azurelinux](https://github.com/microsoft/azurelinux) - 2025-01-24 (0 days ago)<br>
-⭐ [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) - 2025-01-23 (1 day ago)<br>
-⭐ [bitbomdev/minefield](https://github.com/bitbomdev/minefield) - 2025-01-22 (2 days ago)<br>
-⭐ [Funkmyster/awesome-supply-chain](https://github.com/Funkmyster/awesome-supply-chain) - 2025-01-22 (2 days ago)<br>
-⭐ [microsoft/SymCrypt](https://github.com/microsoft/SymCrypt) - 2025-01-21 (3 days ago)<br>
-⭐ [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom) - 2025-01-20 (4 days ago)<br>
-⭐ [bureado/awesome-software-supply-chain-security](https://github.com/bureado/awesome-software-supply-chain-security) - 2025-01-17 (7 days ago)<br>
+⭐ [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom) - 2025-01-25 (0 days ago)<br>
+⭐ [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) - 2025-01-25 (0 days ago)<br>
+⭐ [mgechev/revive](https://github.com/mgechev/revive) - 2025-01-25 (0 days ago)<br>
+⭐ [sbilly/awesome-security](https://github.com/sbilly/awesome-security) - 2025-01-25 (0 days ago)<br>
+⭐ [bitbomdev/minefield](https://github.com/bitbomdev/minefield) - 2025-01-25 (0 days ago)<br>
+⭐ [containerd/overlaybd](https://github.com/containerd/overlaybd) - 2025-01-24 (1 day ago)<br>
+⭐ [microsoft/azurelinux](https://github.com/microsoft/azurelinux) - 2025-01-24 (1 day ago)<br>
+⭐ [Funkmyster/awesome-supply-chain](https://github.com/Funkmyster/awesome-supply-chain) - 2025-01-22 (3 days ago)<br>
+⭐ [microsoft/SymCrypt](https://github.com/microsoft/SymCrypt) - 2025-01-21 (4 days ago)<br>
+⭐ [bureado/awesome-software-supply-chain-security](https://github.com/bureado/awesome-software-supply-chain-security) - 2025-01-17 (8 days ago)<br>
 
-*Last updated: 2025-01-25 00:26 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2025-01-26 00:28 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
