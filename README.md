@@ -20,7 +20,7 @@
 🟣 [Add dependency updates](https://github.com/kubernetes-sigs/gateway-api-inference-extension/pull/57) - 2024-12-02<br>
 🟣 [Decouple backend specific config from guacgql cmd](https://github.com/guacsec/guac/pull/2247) - 2024-11-25<br>
 
-*Last updated: 2025-02-23 00:30 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2025-02-24 00:29 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2025-02-23 00:30 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2025-02-24 00:29 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [dzhng/deep-research](https://github.com/dzhng/deep-research) - 2025-02-23 (0 days ago)<br>
-⭐ [Deep-Agent/R1-V](https://github.com/Deep-Agent/R1-V) - 2025-02-22 (0 days ago)<br>
-⭐ [sbilly/awesome-security](https://github.com/sbilly/awesome-security) - 2025-02-22 (0 days ago)<br>
-⭐ [microsoft/azurelinux](https://github.com/microsoft/azurelinux) - 2025-02-22 (0 days ago)<br>
-⭐ [Funkmyster/awesome-supply-chain](https://github.com/Funkmyster/awesome-supply-chain) - 2025-02-22 (0 days ago)<br>
-⭐ [bitbomdev/minefield](https://github.com/bitbomdev/minefield) - 2025-02-21 (1 day ago)<br>
-⭐ [mgechev/revive](https://github.com/mgechev/revive) - 2025-02-21 (1 day ago)<br>
-⭐ [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom) - 2025-02-21 (1 day ago)<br>
-⭐ [containerd/overlaybd](https://github.com/containerd/overlaybd) - 2025-02-21 (1 day ago)<br>
-⭐ [bureado/awesome-software-supply-chain-security](https://github.com/bureado/awesome-software-supply-chain-security) - 2025-02-17 (5 days ago)<br>
+⭐ [dzhng/deep-research](https://github.com/dzhng/deep-research) - 2025-02-24 (0 days ago)<br>
+⭐ [Deep-Agent/R1-V](https://github.com/Deep-Agent/R1-V) - 2025-02-24 (0 days ago)<br>
+⭐ [microsoft/azurelinux](https://github.com/microsoft/azurelinux) - 2025-02-23 (0 days ago)<br>
+⭐ [sbilly/awesome-security](https://github.com/sbilly/awesome-security) - 2025-02-23 (0 days ago)<br>
+⭐ [Funkmyster/awesome-supply-chain](https://github.com/Funkmyster/awesome-supply-chain) - 2025-02-22 (1 day ago)<br>
+⭐ [bitbomdev/minefield](https://github.com/bitbomdev/minefield) - 2025-02-21 (2 days ago)<br>
+⭐ [mgechev/revive](https://github.com/mgechev/revive) - 2025-02-21 (2 days ago)<br>
+⭐ [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom) - 2025-02-21 (2 days ago)<br>
+⭐ [containerd/overlaybd](https://github.com/containerd/overlaybd) - 2025-02-21 (2 days ago)<br>
+⭐ [bureado/awesome-software-supply-chain-security](https://github.com/bureado/awesome-software-supply-chain-security) - 2025-02-17 (6 days ago)<br>
 
-*Last updated: 2025-02-23 00:30 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2025-02-24 00:29 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
