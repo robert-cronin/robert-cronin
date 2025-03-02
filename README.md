@@ -20,7 +20,7 @@
 🟣 [Fix flag defaults not registered in guacrest binary](https://github.com/guacsec/guac/pull/2356) - 2024-12-10<br>
 🟣 [Reduce scorecard workflow permissions scope](https://github.com/guacsec/guac/pull/2326) - 2024-12-05<br>
 
-*Last updated: 2025-03-01 00:31 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2025-03-02 00:31 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2025-03-01 00:31 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2025-03-02 00:31 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [dzhng/deep-research](https://github.com/dzhng/deep-research) - 2025-03-01 (0 days ago)<br>
-⭐ [NVIDIA/NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) - 2025-02-28 (0 days ago)<br>
-⭐ [go-chi/chi](https://github.com/go-chi/chi) - 2025-02-28 (0 days ago)<br>
-⭐ [moby/buildkit](https://github.com/moby/buildkit) - 2025-02-28 (0 days ago)<br>
-⭐ [go-nv/goenv](https://github.com/go-nv/goenv) - 2025-02-28 (0 days ago)<br>
-⭐ [docker/buildx](https://github.com/docker/buildx) - 2025-02-28 (0 days ago)<br>
-⭐ [Trusted-AI/AIF360](https://github.com/Trusted-AI/AIF360) - 2025-02-28 (0 days ago)<br>
-⭐ [moovweb/gvm](https://github.com/moovweb/gvm) - 2025-02-28 (0 days ago)<br>
-⭐ [kaito-project/kaito](https://github.com/kaito-project/kaito) - 2025-02-27 (1 day ago)<br>
-⭐ [sozercan/k8s-distributed-inference](https://github.com/sozercan/k8s-distributed-inference) - 2025-02-24 (4 days ago)<br>
+⭐ [dzhng/deep-research](https://github.com/dzhng/deep-research) - 2025-03-02 (0 days ago)<br>
+⭐ [go-chi/chi](https://github.com/go-chi/chi) - 2025-03-01 (0 days ago)<br>
+⭐ [moovweb/gvm](https://github.com/moovweb/gvm) - 2025-03-01 (0 days ago)<br>
+⭐ [moby/buildkit](https://github.com/moby/buildkit) - 2025-03-01 (0 days ago)<br>
+⭐ [NVIDIA/NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) - 2025-03-01 (0 days ago)<br>
+⭐ [docker/buildx](https://github.com/docker/buildx) - 2025-03-01 (0 days ago)<br>
+⭐ [kaito-project/kaito](https://github.com/kaito-project/kaito) - 2025-03-01 (0 days ago)<br>
+⭐ [go-nv/goenv](https://github.com/go-nv/goenv) - 2025-02-28 (1 day ago)<br>
+⭐ [Trusted-AI/AIF360](https://github.com/Trusted-AI/AIF360) - 2025-02-28 (1 day ago)<br>
+⭐ [sozercan/k8s-distributed-inference](https://github.com/sozercan/k8s-distributed-inference) - 2025-02-24 (5 days ago)<br>
 
-*Last updated: 2025-03-01 00:31 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2025-03-02 00:31 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
