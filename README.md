@@ -9,18 +9,18 @@
 
 🟢 Open | 🟣 Merged
 
+🟢 [fix: warn if output file specified without vuln report](https://github.com/project-copacetic/copacetic/pull/942) - 2025-03-05<br>
+🟢 [fix: openvex report oci id bug](https://github.com/project-copacetic/copacetic/pull/928) - 2025-03-05<br>
 🟢 [Add datadog certifier](https://github.com/guacsec/guac/pull/2366) - 2025-02-28<br>
 🟣 [feat: log for held packages](https://github.com/project-copacetic/copacetic/pull/938) - 2025-02-28<br>
-🟢 [fix: openvex report oci id bug](https://github.com/project-copacetic/copacetic/pull/928) - 2025-02-28<br>
 🟢 [Feat/multiple equivalent images SBOM poc](https://github.com/guacsec/guac/pull/2467) - 2025-02-25<br>
 🟢 [Add eol to e2e and fix certifier logic](https://github.com/guacsec/guac/pull/2396) - 2025-01-29<br>
-🟢 [Refactor to Golang](https://github.com/sozercan/guac-ai-mole/pull/12) - 2025-01-10<br>
 🟣 [Add missing use-csub flag to oci collector](https://github.com/guacsec/guac/pull/2424) - 2025-01-09<br>
 🟣 [Add check for empty CertifyBad nodes in query bad](https://github.com/guacsec/guac/pull/2365) - 2024-12-12<br>
 🟣 [Fix flag defaults not registered in guacrest binary](https://github.com/guacsec/guac/pull/2356) - 2024-12-10<br>
 🟣 [Reduce scorecard workflow permissions scope](https://github.com/guacsec/guac/pull/2326) - 2024-12-05<br>
 
-*Last updated: 2025-03-04 00:29 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2025-03-05 00:29 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2025-03-04 00:29 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2025-03-05 00:29 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk) - 2025-03-03 (0 days ago)<br>
-⭐ [go-chi/chi](https://github.com/go-chi/chi) - 2025-03-03 (0 days ago)<br>
-⭐ [NVIDIA/NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) - 2025-03-03 (0 days ago)<br>
-⭐ [kubernetes-sigs/secrets-store-csi-driver](https://github.com/kubernetes-sigs/secrets-store-csi-driver) - 2025-03-03 (0 days ago)<br>
-⭐ [moovweb/gvm](https://github.com/moovweb/gvm) - 2025-03-03 (0 days ago)<br>
-⭐ [evidentlyai/evidently](https://github.com/evidentlyai/evidently) - 2025-03-03 (0 days ago)<br>
-⭐ [docker/buildx](https://github.com/docker/buildx) - 2025-03-03 (0 days ago)<br>
-⭐ [Trusted-AI/AIF360](https://github.com/Trusted-AI/AIF360) - 2025-03-02 (1 day ago)<br>
-⭐ [go-nv/goenv](https://github.com/go-nv/goenv) - 2025-03-02 (1 day ago)<br>
-⭐ [oam-dev/spec](https://github.com/oam-dev/spec) - 2025-03-02 (1 day ago)<br>
+⭐ [ray-project/llm-applications](https://github.com/ray-project/llm-applications) - 2025-03-05 (0 days ago)<br>
+⭐ [evidentlyai/evidently](https://github.com/evidentlyai/evidently) - 2025-03-05 (0 days ago)<br>
+⭐ [ray-project/ray-llm](https://github.com/ray-project/ray-llm) - 2025-03-05 (0 days ago)<br>
+⭐ [vllm-project/aibrix](https://github.com/vllm-project/aibrix) - 2025-03-05 (0 days ago)<br>
+⭐ [n8n-io/n8n](https://github.com/n8n-io/n8n) - 2025-03-05 (0 days ago)<br>
+⭐ [go-chi/chi](https://github.com/go-chi/chi) - 2025-03-05 (0 days ago)<br>
+⭐ [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - 2025-03-04 (0 days ago)<br>
+⭐ [kubernetes-sigs/secrets-store-csi-driver](https://github.com/kubernetes-sigs/secrets-store-csi-driver) - 2025-03-04 (0 days ago)<br>
+⭐ [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk) - 2025-03-04 (0 days ago)<br>
+⭐ [oam-dev/spec](https://github.com/oam-dev/spec) - 2025-03-02 (2 days ago)<br>
 
-*Last updated: 2025-03-04 00:29 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2025-03-05 00:29 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
