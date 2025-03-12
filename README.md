@@ -9,10 +9,10 @@
 
 🟢 Open | 🟣 Merged
 
-🟢 [feat: mirror tooling images to ghcr - part 2](https://github.com/project-copacetic/copacetic/pull/947) - 2025-03-07<br>
+🟢 [fix: oci media type should be respected](https://github.com/project-copacetic/copacetic/pull/949) - 2025-03-12<br>
+🟢 [feat: mirror tooling images to ghcr - part 2](https://github.com/project-copacetic/copacetic/pull/947) - 2025-03-11<br>
+🟢 [Feat/multiple equivalent images SBOM](https://github.com/guacsec/guac/pull/2467) - 2025-03-11<br>
 🟣 [feat: mirror tooling images to ghcr](https://github.com/project-copacetic/copacetic/pull/946) - 2025-03-07<br>
-🟢 [fix: oci media type should be respected](https://github.com/project-copacetic/copacetic/pull/949) - 2025-03-07<br>
-🟢 [Feat/multiple equivalent images SBOM](https://github.com/guacsec/guac/pull/2467) - 2025-03-06<br>
 🟣 [fix: openvex report oci id bug](https://github.com/project-copacetic/copacetic/pull/928) - 2025-03-05<br>
 🟣 [fix: warn if output file specified without vuln report](https://github.com/project-copacetic/copacetic/pull/942) - 2025-03-05<br>
 🟢 [Add datadog certifier](https://github.com/guacsec/guac/pull/2366) - 2025-02-28<br>
@@ -20,7 +20,7 @@
 🟢 [Add eol to e2e and fix certifier logic](https://github.com/guacsec/guac/pull/2396) - 2025-01-29<br>
 🟣 [Add missing use-csub flag to oci collector](https://github.com/guacsec/guac/pull/2424) - 2025-01-09<br>
 
-*Last updated: 2025-03-11 00:29 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2025-03-12 00:29 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2025-03-11 00:29 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2025-03-12 00:29 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed) - 2025-03-11 (0 days ago)<br>
+⭐ [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed) - 2025-03-12 (0 days ago)<br>
+⭐ [zitadel/zitadel](https://github.com/zitadel/zitadel) - 2025-03-11 (0 days ago)<br>
+⭐ [BoundaryML/baml](https://github.com/BoundaryML/baml) - 2025-03-11 (0 days ago)<br>
+⭐ [ory/kratos](https://github.com/ory/kratos) - 2025-03-11 (0 days ago)<br>
+⭐ [authts/oidc-client-ts](https://github.com/authts/oidc-client-ts) - 2025-03-11 (0 days ago)<br>
 ⭐ [coder/code-server](https://github.com/coder/code-server) - 2025-03-11 (0 days ago)<br>
-⭐ [zitadel/zitadel](https://github.com/zitadel/zitadel) - 2025-03-10 (0 days ago)<br>
-⭐ [ory/kratos](https://github.com/ory/kratos) - 2025-03-10 (0 days ago)<br>
-⭐ [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 2025-03-10 (0 days ago)<br>
-⭐ [surajssd/llm-k8s](https://github.com/surajssd/llm-k8s) - 2025-03-10 (0 days ago)<br>
-⭐ [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) - 2025-03-10 (0 days ago)<br>
-⭐ [dexidp/dex](https://github.com/dexidp/dex) - 2025-03-10 (0 days ago)<br>
-⭐ [BoundaryML/baml](https://github.com/BoundaryML/baml) - 2025-03-10 (0 days ago)<br>
-⭐ [authts/oidc-client-ts](https://github.com/authts/oidc-client-ts) - 2025-03-10 (0 days ago)<br>
+⭐ [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 2025-03-11 (0 days ago)<br>
+⭐ [dexidp/dex](https://github.com/dexidp/dex) - 2025-03-11 (0 days ago)<br>
+⭐ [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) - 2025-03-11 (0 days ago)<br>
+⭐ [surajssd/llm-k8s](https://github.com/surajssd/llm-k8s) - 2025-03-10 (1 day ago)<br>
 
-*Last updated: 2025-03-11 00:29 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2025-03-12 00:29 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
