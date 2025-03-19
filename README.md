@@ -9,7 +9,7 @@
 
 🟢 Open | 🟣 Merged
 
-🟢 [feat: add support for custom suffix tag](https://github.com/project-copacetic/copacetic/pull/961) - 2025-03-17<br>
+🟢 [feat: add support for custom suffix tag](https://github.com/project-copacetic/copacetic/pull/961) - 2025-03-18<br>
 🟢 [fix: oci media type should be respected](https://github.com/project-copacetic/copacetic/pull/949) - 2025-03-17<br>
 🟣 [fix: update docs with mirrored tooling images](https://github.com/project-copacetic/copacetic/pull/955) - 2025-03-14<br>
 🟣 [feat: mirror tooling images to ghcr - part 2](https://github.com/project-copacetic/copacetic/pull/947) - 2025-03-12<br>
@@ -20,7 +20,7 @@
 🟢 [Add datadog certifier](https://github.com/guacsec/guac/pull/2366) - 2025-02-28<br>
 🟢 [Add eol to e2e and fix certifier logic](https://github.com/guacsec/guac/pull/2396) - 2025-01-29<br>
 
-*Last updated: 2025-03-18 00:29 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2025-03-19 00:30 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2025-03-18 00:29 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2025-03-19 00:30 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [simonw/llm](https://github.com/simonw/llm) - 2025-03-18 (0 days ago)<br>
-⭐ [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) - 2025-03-17 (0 days ago)<br>
-⭐ [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - 2025-03-17 (0 days ago)<br>
-⭐ [backube/volsync](https://github.com/backube/volsync) - 2025-03-17 (0 days ago)<br>
-⭐ [a-ghorbani/pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai) - 2025-03-17 (0 days ago)<br>
-⭐ [vmware-tanzu/pinniped](https://github.com/vmware-tanzu/pinniped) - 2025-03-17 (0 days ago)<br>
-⭐ [google/gemma.cpp](https://github.com/google/gemma.cpp) - 2025-03-17 (0 days ago)<br>
-⭐ [Azure/draft](https://github.com/Azure/draft) - 2025-03-17 (0 days ago)<br>
-⭐ [NVIDIA/k8s-device-plugin](https://github.com/NVIDIA/k8s-device-plugin) - 2025-03-17 (0 days ago)<br>
-⭐ [npiv/chatblade](https://github.com/npiv/chatblade) - 2025-03-16 (1 day ago)<br>
+⭐ [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) - 2025-03-18 (0 days ago)<br>
+⭐ [helmfile/helmfile](https://github.com/helmfile/helmfile) - 2025-03-18 (0 days ago)<br>
+⭐ [triton-inference-server/server](https://github.com/triton-inference-server/server) - 2025-03-18 (0 days ago)<br>
+⭐ [openebs/openebs](https://github.com/openebs/openebs) - 2025-03-18 (0 days ago)<br>
+⭐ [a-ghorbani/pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai) - 2025-03-18 (0 days ago)<br>
+⭐ [backube/volsync](https://github.com/backube/volsync) - 2025-03-18 (0 days ago)<br>
+⭐ [goharbor/harbor](https://github.com/goharbor/harbor) - 2025-03-18 (0 days ago)<br>
+⭐ [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) - 2025-03-18 (0 days ago)<br>
+⭐ [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) - 2025-03-18 (0 days ago)<br>
+⭐ [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) - 2025-03-18 (0 days ago)<br>
 
-*Last updated: 2025-03-18 00:29 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2025-03-19 00:30 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
