@@ -9,18 +9,18 @@
 
 🟢 Open | 🟣 Merged
 
-🟢 [feat: add support for custom suffix tag](https://github.com/project-copacetic/copacetic/pull/961) - 2025-03-19<br>
-🟢 [feat: invalidate tdnf cache when patching](https://github.com/project-copacetic/copacetic/pull/973) - 2025-03-19<br>
+🟢 [feat: add support for custom suffix tag](https://github.com/project-copacetic/copacetic/pull/961) - 2025-03-20<br>
+🟢 [feat: invalidate tdnf cache when patching](https://github.com/project-copacetic/copacetic/pull/973) - 2025-03-20<br>
+🟣 [Feat/multiple equivalent images SBOM](https://github.com/guacsec/guac/pull/2467) - 2025-03-20<br>
+🟣 [Add eol to e2e and fix certifier logic](https://github.com/guacsec/guac/pull/2396) - 2025-03-20<br>
 🟣 [fix: dependency update for docker/buildx v0.21.3](https://github.com/project-copacetic/copacetic/pull/972) - 2025-03-19<br>
 🟢 [fix: oci media type should be respected](https://github.com/project-copacetic/copacetic/pull/949) - 2025-03-17<br>
 🟣 [fix: update docs with mirrored tooling images](https://github.com/project-copacetic/copacetic/pull/955) - 2025-03-14<br>
 🟣 [feat: mirror tooling images to ghcr - part 2](https://github.com/project-copacetic/copacetic/pull/947) - 2025-03-12<br>
-🟢 [Feat/multiple equivalent images SBOM](https://github.com/guacsec/guac/pull/2467) - 2025-03-11<br>
-🟣 [feat: mirror tooling images to ghcr](https://github.com/project-copacetic/copacetic/pull/946) - 2025-03-07<br>
-🟣 [fix: openvex report oci id bug](https://github.com/project-copacetic/copacetic/pull/928) - 2025-03-05<br>
 🟢 [Add datadog certifier](https://github.com/guacsec/guac/pull/2366) - 2025-02-28<br>
+🟢 [Refactor to Golang](https://github.com/sozercan/guac-ai-mole/pull/12) - 2025-01-10<br>
 
-*Last updated: 2025-03-20 00:29 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2025-03-21 00:30 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2025-03-20 00:29 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2025-03-21 00:30 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) - 2025-03-20 (0 days ago)<br>
-⭐ [wagoodman/dive](https://github.com/wagoodman/dive) - 2025-03-19 (0 days ago)<br>
-⭐ [helmfile/helmfile](https://github.com/helmfile/helmfile) - 2025-03-19 (0 days ago)<br>
-⭐ [openebs/openebs](https://github.com/openebs/openebs) - 2025-03-19 (0 days ago)<br>
-⭐ [goharbor/harbor](https://github.com/goharbor/harbor) - 2025-03-19 (0 days ago)<br>
-⭐ [Azure/aks-rdma-infiniband](https://github.com/Azure/aks-rdma-infiniband) - 2025-03-19 (0 days ago)<br>
-⭐ [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) - 2025-03-19 (0 days ago)<br>
-⭐ [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) - 2025-03-19 (0 days ago)<br>
-⭐ [triton-inference-server/server](https://github.com/triton-inference-server/server) - 2025-03-19 (0 days ago)<br>
-⭐ [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) - 2025-03-18 (1 day ago)<br>
+⭐ [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) - 2025-03-21 (0 days ago)<br>
+⭐ [goharbor/harbor](https://github.com/goharbor/harbor) - 2025-03-20 (0 days ago)<br>
+⭐ [wagoodman/dive](https://github.com/wagoodman/dive) - 2025-03-20 (0 days ago)<br>
+⭐ [helmfile/helmfile](https://github.com/helmfile/helmfile) - 2025-03-20 (0 days ago)<br>
+⭐ [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) - 2025-03-20 (0 days ago)<br>
+⭐ [triton-inference-server/server](https://github.com/triton-inference-server/server) - 2025-03-20 (0 days ago)<br>
+⭐ [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) - 2025-03-20 (0 days ago)<br>
+⭐ [openebs/openebs](https://github.com/openebs/openebs) - 2025-03-19 (1 day ago)<br>
+⭐ [Azure/aks-rdma-infiniband](https://github.com/Azure/aks-rdma-infiniband) - 2025-03-19 (1 day ago)<br>
+⭐ [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) - 2025-03-19 (1 day ago)<br>
 
-*Last updated: 2025-03-20 00:29 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2025-03-21 00:30 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
