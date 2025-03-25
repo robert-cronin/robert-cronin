@@ -9,18 +9,18 @@
 
 🟢 Open | 🟣 Merged
 
+🟣 [chore: add cbl-mariner/base/core:1.0 to mirrored tooling images](https://github.com/project-copacetic/copacetic/pull/979) - 2025-03-24<br>
+🟢 [fix: rpm fails if mirror tooling image not present](https://github.com/project-copacetic/copacetic/pull/978) - 2025-03-24<br>
 🟢 [feat: invalidate tdnf cache when patching](https://github.com/project-copacetic/copacetic/pull/973) - 2025-03-24<br>
-🟢 [fix: rpm fails if mirror tooling image not present](https://github.com/project-copacetic/copacetic/pull/978) - 2025-03-21<br>
 🟣 [feat: add support for custom suffix tag](https://github.com/project-copacetic/copacetic/pull/961) - 2025-03-21<br>
 🟣 [Feat/multiple equivalent images SBOM](https://github.com/guacsec/guac/pull/2467) - 2025-03-20<br>
 🟣 [Add eol to e2e and fix certifier logic](https://github.com/guacsec/guac/pull/2396) - 2025-03-20<br>
 🟣 [fix: dependency update for docker/buildx v0.21.3](https://github.com/project-copacetic/copacetic/pull/972) - 2025-03-19<br>
 🟢 [fix: oci media type should be respected](https://github.com/project-copacetic/copacetic/pull/949) - 2025-03-17<br>
-🟣 [fix: update docs with mirrored tooling images](https://github.com/project-copacetic/copacetic/pull/955) - 2025-03-14<br>
 🟢 [Add datadog certifier](https://github.com/guacsec/guac/pull/2366) - 2025-02-28<br>
 🟢 [Refactor to Golang](https://github.com/sozercan/guac-ai-mole/pull/12) - 2025-01-10<br>
 
-*Last updated: 2025-03-24 00:31 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2025-03-25 00:30 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2025-03-24 00:31 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2025-03-25 00:30 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [wagoodman/dive](https://github.com/wagoodman/dive) - 2025-03-24 (0 days ago)<br>
-⭐ [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) - 2025-03-23 (0 days ago)<br>
-⭐ [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) - 2025-03-23 (0 days ago)<br>
-⭐ [CloudNativeAI/model-spec](https://github.com/CloudNativeAI/model-spec) - 2025-03-23 (0 days ago)<br>
-⭐ [kitops-ml/kitops](https://github.com/kitops-ml/kitops) - 2025-03-23 (0 days ago)<br>
-⭐ [triton-inference-server/server](https://github.com/triton-inference-server/server) - 2025-03-23 (0 days ago)<br>
-⭐ [helmfile/helmfile](https://github.com/helmfile/helmfile) - 2025-03-23 (0 days ago)<br>
-⭐ [project-copacetic/scanner-plugin-template](https://github.com/project-copacetic/scanner-plugin-template) - 2025-03-21 (2 days ago)<br>
-⭐ [anubhav06/copa-grype](https://github.com/anubhav06/copa-grype) - 2025-03-21 (2 days ago)<br>
-⭐ [Azure/aks-rdma-infiniband](https://github.com/Azure/aks-rdma-infiniband) - 2025-03-19 (4 days ago)<br>
+⭐ [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) - 2025-03-25 (0 days ago)<br>
+⭐ [wagoodman/dive](https://github.com/wagoodman/dive) - 2025-03-25 (0 days ago)<br>
+⭐ [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) - 2025-03-25 (0 days ago)<br>
+⭐ [substratusai/kubeai](https://github.com/substratusai/kubeai) - 2025-03-25 (0 days ago)<br>
+⭐ [Azure/aks-rdma-infiniband](https://github.com/Azure/aks-rdma-infiniband) - 2025-03-24 (0 days ago)<br>
+⭐ [kitops-ml/kitops](https://github.com/kitops-ml/kitops) - 2025-03-24 (0 days ago)<br>
+⭐ [kubernetes-sigs/dra-example-driver](https://github.com/kubernetes-sigs/dra-example-driver) - 2025-03-24 (0 days ago)<br>
+⭐ [CloudNativeAI/model-spec](https://github.com/CloudNativeAI/model-spec) - 2025-03-23 (1 day ago)<br>
+⭐ [project-copacetic/scanner-plugin-template](https://github.com/project-copacetic/scanner-plugin-template) - 2025-03-21 (3 days ago)<br>
+⭐ [anubhav06/copa-grype](https://github.com/anubhav06/copa-grype) - 2025-03-21 (3 days ago)<br>
 
-*Last updated: 2025-03-24 00:31 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2025-03-25 00:30 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
