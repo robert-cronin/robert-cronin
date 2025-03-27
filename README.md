@@ -10,17 +10,17 @@
 🟢 Open | 🟣 Merged
 
 🟢 [feat: add copa install command](https://github.com/project-copacetic/copacetic/pull/987) - 2025-03-26<br>
+🟢 [Add Kaito Project](https://github.com/InftyAI/Awesome-LLMOps/pull/124) - 2025-03-26<br>
+🟢 [feat: invalidate tdnf cache when patching](https://github.com/project-copacetic/copacetic/pull/973) - 2025-03-26<br>
 🟣 [Add Kaito](https://github.com/tensorchord/Awesome-LLMOps/pull/197) - 2025-03-25<br>
 🟣 [Add AKS installation guide](https://github.com/substratusai/kubeai/pull/471) - 2025-03-25<br>
 🟢 [fix: apt apk images fail tooling images missing](https://github.com/project-copacetic/copacetic/pull/985) - 2025-03-25<br>
-🟢 [feat: invalidate tdnf cache when patching](https://github.com/project-copacetic/copacetic/pull/973) - 2025-03-25<br>
 🟣 [chore: add cbl-mariner/base/core:1.0 to mirrored tooling images](https://github.com/project-copacetic/copacetic/pull/979) - 2025-03-24<br>
 🟢 [fix: rpm fails if mirror tooling image not present](https://github.com/project-copacetic/copacetic/pull/978) - 2025-03-24<br>
 🟣 [feat: add support for custom suffix tag](https://github.com/project-copacetic/copacetic/pull/961) - 2025-03-21<br>
 🟣 [Feat/multiple equivalent images SBOM](https://github.com/guacsec/guac/pull/2467) - 2025-03-20<br>
-🟢 [fix: oci media type should be respected](https://github.com/project-copacetic/copacetic/pull/949) - 2025-03-17<br>
 
-*Last updated: 2025-03-26 00:30 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2025-03-27 00:30 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2025-03-26 00:30 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2025-03-27 00:30 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 2025-03-26 (0 days ago)<br>
-⭐ [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - 2025-03-25 (0 days ago)<br>
-⭐ [InftyAI/Awesome-LLMOps](https://github.com/InftyAI/Awesome-LLMOps) - 2025-03-25 (0 days ago)<br>
-⭐ [kitops-ml/kitops](https://github.com/kitops-ml/kitops) - 2025-03-25 (0 days ago)<br>
-⭐ [mlflow/mlflow](https://github.com/mlflow/mlflow) - 2025-03-25 (0 days ago)<br>
-⭐ [substratusai/kubeai](https://github.com/substratusai/kubeai) - 2025-03-25 (0 days ago)<br>
-⭐ [tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) - 2025-03-25 (0 days ago)<br>
-⭐ [kubernetes-sigs/dra-example-driver](https://github.com/kubernetes-sigs/dra-example-driver) - 2025-03-24 (1 day ago)<br>
-⭐ [CloudNativeAI/model-spec](https://github.com/CloudNativeAI/model-spec) - 2025-03-23 (2 days ago)<br>
-⭐ [project-copacetic/scanner-plugin-template](https://github.com/project-copacetic/scanner-plugin-template) - 2025-03-21 (4 days ago)<br>
+⭐ [mlflow/mlflow](https://github.com/mlflow/mlflow) - 2025-03-27 (0 days ago)<br>
+⭐ [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 2025-03-27 (0 days ago)<br>
+⭐ [kserve/kserve](https://github.com/kserve/kserve) - 2025-03-26 (0 days ago)<br>
+⭐ [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - 2025-03-26 (0 days ago)<br>
+⭐ [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - 2025-03-26 (0 days ago)<br>
+⭐ [tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) - 2025-03-26 (0 days ago)<br>
+⭐ [InftyAI/Awesome-LLMOps](https://github.com/InftyAI/Awesome-LLMOps) - 2025-03-26 (0 days ago)<br>
+⭐ [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - 2025-03-26 (0 days ago)<br>
+⭐ [substratusai/kubeai](https://github.com/substratusai/kubeai) - 2025-03-26 (0 days ago)<br>
+⭐ [kubernetes-sigs/dra-example-driver](https://github.com/kubernetes-sigs/dra-example-driver) - 2025-03-24 (2 days ago)<br>
 
-*Last updated: 2025-03-26 00:30 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2025-03-27 00:30 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
