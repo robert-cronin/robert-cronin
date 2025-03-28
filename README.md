@@ -9,8 +9,9 @@
 
 🟢 Open | 🟣 Merged
 
+🟢 [fix: golangci-lint v1 is not supported by golangci-lint-action v7](https://github.com/project-copacetic/copacetic/pull/994) - 2025-03-28<br>
+🟣 [Add Kaito Project](https://github.com/InftyAI/Awesome-LLMOps/pull/124) - 2025-03-27<br>
 🟢 [feat: add copa install command](https://github.com/project-copacetic/copacetic/pull/987) - 2025-03-26<br>
-🟢 [Add Kaito Project](https://github.com/InftyAI/Awesome-LLMOps/pull/124) - 2025-03-26<br>
 🟢 [feat: invalidate tdnf cache when patching](https://github.com/project-copacetic/copacetic/pull/973) - 2025-03-26<br>
 🟣 [Add Kaito](https://github.com/tensorchord/Awesome-LLMOps/pull/197) - 2025-03-25<br>
 🟣 [Add AKS installation guide](https://github.com/substratusai/kubeai/pull/471) - 2025-03-25<br>
@@ -18,9 +19,8 @@
 🟣 [chore: add cbl-mariner/base/core:1.0 to mirrored tooling images](https://github.com/project-copacetic/copacetic/pull/979) - 2025-03-24<br>
 🟢 [fix: rpm fails if mirror tooling image not present](https://github.com/project-copacetic/copacetic/pull/978) - 2025-03-24<br>
 🟣 [feat: add support for custom suffix tag](https://github.com/project-copacetic/copacetic/pull/961) - 2025-03-21<br>
-🟣 [Feat/multiple equivalent images SBOM](https://github.com/guacsec/guac/pull/2467) - 2025-03-20<br>
 
-*Last updated: 2025-03-27 00:30 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2025-03-28 00:30 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2025-03-27 00:30 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2025-03-28 00:30 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [mlflow/mlflow](https://github.com/mlflow/mlflow) - 2025-03-27 (0 days ago)<br>
-⭐ [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 2025-03-27 (0 days ago)<br>
-⭐ [kserve/kserve](https://github.com/kserve/kserve) - 2025-03-26 (0 days ago)<br>
-⭐ [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - 2025-03-26 (0 days ago)<br>
-⭐ [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - 2025-03-26 (0 days ago)<br>
-⭐ [tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) - 2025-03-26 (0 days ago)<br>
-⭐ [InftyAI/Awesome-LLMOps](https://github.com/InftyAI/Awesome-LLMOps) - 2025-03-26 (0 days ago)<br>
-⭐ [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - 2025-03-26 (0 days ago)<br>
-⭐ [substratusai/kubeai](https://github.com/substratusai/kubeai) - 2025-03-26 (0 days ago)<br>
-⭐ [kubernetes-sigs/dra-example-driver](https://github.com/kubernetes-sigs/dra-example-driver) - 2025-03-24 (2 days ago)<br>
+⭐ [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 2025-03-28 (0 days ago)<br>
+⭐ [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - 2025-03-27 (0 days ago)<br>
+⭐ [isaiahbjork/orpheus-tts-local](https://github.com/isaiahbjork/orpheus-tts-local) - 2025-03-27 (0 days ago)<br>
+⭐ [spdx/spdx-3-model](https://github.com/spdx/spdx-3-model) - 2025-03-27 (0 days ago)<br>
+⭐ [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - 2025-03-27 (0 days ago)<br>
+⭐ [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - 2025-03-27 (0 days ago)<br>
+⭐ [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - 2025-03-27 (0 days ago)<br>
+⭐ [NVIDIA/nccl](https://github.com/NVIDIA/nccl) - 2025-03-27 (0 days ago)<br>
+⭐ [kelvins/awesome-mlops](https://github.com/kelvins/awesome-mlops) - 2025-03-27 (0 days ago)<br>
+⭐ [kserve/kserve](https://github.com/kserve/kserve) - 2025-03-27 (0 days ago)<br>
 
-*Last updated: 2025-03-27 00:30 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2025-03-28 00:30 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
