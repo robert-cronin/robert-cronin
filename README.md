@@ -9,6 +9,7 @@
 
 🟢 Open | 🟣 Merged
 
+🟢 [[feat] move rbac_test.py to scripts](https://github.com/ray-project/kuberay/pull/3256) - 2025-03-31<br>
 🟣 [fix: golangci-lint v1 is not supported by golangci-lint-action v7](https://github.com/project-copacetic/copacetic/pull/994) - 2025-03-28<br>
 🟣 [Add Kaito Project](https://github.com/InftyAI/Awesome-LLMOps/pull/124) - 2025-03-27<br>
 🟢 [feat: add copa install command](https://github.com/project-copacetic/copacetic/pull/987) - 2025-03-26<br>
@@ -18,9 +19,8 @@
 🟢 [fix: apt apk images fail tooling images missing](https://github.com/project-copacetic/copacetic/pull/985) - 2025-03-25<br>
 🟣 [chore: add cbl-mariner/base/core:1.0 to mirrored tooling images](https://github.com/project-copacetic/copacetic/pull/979) - 2025-03-24<br>
 🟢 [fix: rpm fails if mirror tooling image not present](https://github.com/project-copacetic/copacetic/pull/978) - 2025-03-24<br>
-🟢 [fix: oci media type should be respected](https://github.com/project-copacetic/copacetic/pull/949) - 2025-03-17<br>
 
-*Last updated: 2025-03-31 00:32 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2025-04-01 00:35 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2025-03-31 00:32 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2025-04-01 00:35 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 2025-03-31 (0 days ago)<br>
-⭐ [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - 2025-03-30 (0 days ago)<br>
-⭐ [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - 2025-03-30 (0 days ago)<br>
-⭐ [kelvins/awesome-mlops](https://github.com/kelvins/awesome-mlops) - 2025-03-30 (0 days ago)<br>
-⭐ [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - 2025-03-30 (0 days ago)<br>
-⭐ [isaiahbjork/orpheus-tts-local](https://github.com/isaiahbjork/orpheus-tts-local) - 2025-03-30 (0 days ago)<br>
-⭐ [NVIDIA/nccl](https://github.com/NVIDIA/nccl) - 2025-03-30 (0 days ago)<br>
-⭐ [kserve/kserve](https://github.com/kserve/kserve) - 2025-03-30 (1 day ago)<br>
-⭐ [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - 2025-03-28 (2 days ago)<br>
-⭐ [spdx/spdx-3-model](https://github.com/spdx/spdx-3-model) - 2025-03-27 (3 days ago)<br>
+⭐ [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 2025-04-01 (0 days ago)<br>
+⭐ [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - 2025-04-01 (0 days ago)<br>
+⭐ [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - 2025-03-31 (0 days ago)<br>
+⭐ [NVIDIA/nccl](https://github.com/NVIDIA/nccl) - 2025-03-31 (0 days ago)<br>
+⭐ [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - 2025-03-31 (0 days ago)<br>
+⭐ [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - 2025-03-31 (0 days ago)<br>
+⭐ [kelvins/awesome-mlops](https://github.com/kelvins/awesome-mlops) - 2025-03-31 (0 days ago)<br>
+⭐ [kserve/kserve](https://github.com/kserve/kserve) - 2025-03-31 (0 days ago)<br>
+⭐ [isaiahbjork/orpheus-tts-local](https://github.com/isaiahbjork/orpheus-tts-local) - 2025-03-31 (0 days ago)<br>
+⭐ [spdx/spdx-3-model](https://github.com/spdx/spdx-3-model) - 2025-03-27 (4 days ago)<br>
 
-*Last updated: 2025-03-31 00:32 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2025-04-01 00:35 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
