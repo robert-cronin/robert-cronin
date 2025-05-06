@@ -9,7 +9,7 @@
 
 🟢 Open | 🟣 Merged
 
-🟢 [feat: add multi arch command changes](https://github.com/project-copacetic/copacetic/pull/1009) - 2025-05-02<br>
+🟢 [feat: add multi arch command changes](https://github.com/project-copacetic/copacetic/pull/1009) - 2025-05-06<br>
 🟣 [fix: guard against error buildkit solve](https://github.com/project-copacetic/copacetic/pull/1037) - 2025-05-01<br>
 🟢 [Add datadog certifier](https://github.com/guacsec/guac/pull/2366) - 2025-05-01<br>
 🟢 [fix: oci media type should be respected](https://github.com/project-copacetic/copacetic/pull/949) - 2025-04-30<br>
@@ -20,7 +20,7 @@
 🟣 [feat: invalidate tdnf cache when patching](https://github.com/project-copacetic/copacetic/pull/973) - 2025-04-03<br>
 🟢 [Refactor to Golang](https://github.com/sozercan/guac-ai-mole/pull/12) - 2025-01-10<br>
 
-*Last updated: 2025-05-05 00:34 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2025-05-06 00:31 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2025-05-05 00:34 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2025-05-06 00:31 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [jlowin/fastmcp](https://github.com/jlowin/fastmcp) - 2025-05-05 (0 days ago)<br>
+⭐ [jlowin/fastmcp](https://github.com/jlowin/fastmcp) - 2025-05-06 (0 days ago)<br>
+⭐ [Flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) - 2025-05-06 (0 days ago)<br>
+⭐ [openai/codex](https://github.com/openai/codex) - 2025-05-06 (0 days ago)<br>
+⭐ [gradio-app/gradio](https://github.com/gradio-app/gradio) - 2025-05-05 (0 days ago)<br>
 ⭐ [cline/cline](https://github.com/cline/cline) - 2025-05-05 (0 days ago)<br>
-⭐ [Flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) - 2025-05-05 (0 days ago)<br>
-⭐ [openai/codex](https://github.com/openai/codex) - 2025-05-05 (0 days ago)<br>
-⭐ [neuralmagic/guidellm](https://github.com/neuralmagic/guidellm) - 2025-05-04 (0 days ago)<br>
-⭐ [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) - 2025-05-04 (0 days ago)<br>
-⭐ [gradio-app/gradio](https://github.com/gradio-app/gradio) - 2025-05-04 (0 days ago)<br>
-⭐ [azure-ai-foundry/mcp-foundry](https://github.com/azure-ai-foundry/mcp-foundry) - 2025-05-04 (0 days ago)<br>
-⭐ [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) - 2025-05-02 (2 days ago)<br>
-⭐ [project-codeflare/multi-cluster-app-dispatcher](https://github.com/project-codeflare/multi-cluster-app-dispatcher) - 2025-04-14 (20 days ago)<br>
+⭐ [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) - 2025-05-05 (0 days ago)<br>
+⭐ [neuralmagic/guidellm](https://github.com/neuralmagic/guidellm) - 2025-05-05 (0 days ago)<br>
+⭐ [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) - 2025-05-05 (0 days ago)<br>
+⭐ [azure-ai-foundry/mcp-foundry](https://github.com/azure-ai-foundry/mcp-foundry) - 2025-05-05 (0 days ago)<br>
+⭐ [project-codeflare/multi-cluster-app-dispatcher](https://github.com/project-codeflare/multi-cluster-app-dispatcher) - 2025-04-14 (21 days ago)<br>
 
-*Last updated: 2025-05-05 00:34 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2025-05-06 00:31 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
