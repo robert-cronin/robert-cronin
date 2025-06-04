@@ -10,6 +10,7 @@
 🟢 Open | 🟣 Merged
 
 🟢 [Expand trivy scanning to other images](https://github.com/kaito-project/kaito/pull/1161) - 2025-06-03<br>
+🟢 [WIP: add nodejs patching](https://github.com/project-copacetic/copacetic/pull/1090) - 2025-06-03<br>
 🟣 [feat: add multiarch patching workflow changes](https://github.com/project-copacetic/copacetic/pull/1067) - 2025-06-02<br>
 🟣 [feat: add multi arch command changes](https://github.com/project-copacetic/copacetic/pull/1009) - 2025-05-19<br>
 🟢 [fix: handle docker load generically](https://github.com/project-copacetic/copacetic/pull/1059) - 2025-05-19<br>
@@ -18,9 +19,8 @@
 🟣 [fix: upgrade golangci-lint to v2.1.0](https://github.com/project-copacetic/copacetic/pull/1045) - 2025-05-06<br>
 🟣 [fix: guard against error buildkit solve](https://github.com/project-copacetic/copacetic/pull/1037) - 2025-05-01<br>
 🟣 [fix: apt apk images fail tooling images missing](https://github.com/project-copacetic/copacetic/pull/985) - 2025-04-28<br>
-🟣 [fix: ignore shadow cves for integration test](https://github.com/project-copacetic/copacetic/pull/1027) - 2025-04-28<br>
 
-*Last updated: 2025-06-03 00:33 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2025-06-04 00:33 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2025-06-03 00:33 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2025-06-04 00:33 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [gradio-app/gradio](https://github.com/gradio-app/gradio) - 2025-06-03 (0 days ago)<br>
-⭐ [openai/codex](https://github.com/openai/codex) - 2025-06-03 (0 days ago)<br>
-⭐ [cline/cline](https://github.com/cline/cline) - 2025-06-02 (0 days ago)<br>
-⭐ [multiarch/qemu-user-static](https://github.com/multiarch/qemu-user-static) - 2025-06-02 (0 days ago)<br>
-⭐ [mvdan/sh](https://github.com/mvdan/sh) - 2025-06-02 (0 days ago)<br>
-⭐ [neuralmagic/guidellm](https://github.com/neuralmagic/guidellm) - 2025-06-02 (0 days ago)<br>
-⭐ [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) - 2025-06-02 (0 days ago)<br>
-⭐ [openai/codex-universal](https://github.com/openai/codex-universal) - 2025-06-02 (0 days ago)<br>
-⭐ [cpuguy83/go-docker](https://github.com/cpuguy83/go-docker) - 2025-05-14 (19 days ago)<br>
-⭐ [project-codeflare/multi-cluster-app-dispatcher](https://github.com/project-codeflare/multi-cluster-app-dispatcher) - 2025-04-14 (49 days ago)<br>
+⭐ [openai/codex](https://github.com/openai/codex) - 2025-06-04 (0 days ago)<br>
+⭐ [gradio-app/gradio](https://github.com/gradio-app/gradio) - 2025-06-04 (0 days ago)<br>
+⭐ [cline/cline](https://github.com/cline/cline) - 2025-06-04 (0 days ago)<br>
+⭐ [openai/codex-universal](https://github.com/openai/codex-universal) - 2025-06-04 (0 days ago)<br>
+⭐ [neuralmagic/guidellm](https://github.com/neuralmagic/guidellm) - 2025-06-03 (0 days ago)<br>
+⭐ [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) - 2025-06-03 (0 days ago)<br>
+⭐ [mvdan/sh](https://github.com/mvdan/sh) - 2025-06-03 (0 days ago)<br>
+⭐ [multiarch/qemu-user-static](https://github.com/multiarch/qemu-user-static) - 2025-06-02 (1 day ago)<br>
+⭐ [cpuguy83/go-docker](https://github.com/cpuguy83/go-docker) - 2025-05-14 (20 days ago)<br>
+⭐ [project-codeflare/multi-cluster-app-dispatcher](https://github.com/project-codeflare/multi-cluster-app-dispatcher) - 2025-04-14 (50 days ago)<br>
 
-*Last updated: 2025-06-03 00:33 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2025-06-04 00:33 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
