@@ -9,7 +9,7 @@
 
 🟢 Open | 🟣 Merged
 
-🟢 [fix: retain multiplatform manifest list annotations](https://github.com/project-copacetic/copacetic/pull/1120) - 2025-06-27<br>
+🟢 [fix: retain multiplatform manifest list annotations](https://github.com/project-copacetic/copacetic/pull/1120) - 2025-06-30<br>
 🟣 [fix: handle docker load generically](https://github.com/project-copacetic/copacetic/pull/1059) - 2025-06-27<br>
 🟣 [Fix nil pointer dereference in TCPTransport.DoRaw](https://github.com/cpuguy83/go-docker/pull/16) - 2025-06-26<br>
 🟣 [fix: ensure tooling image is tried with platform](https://github.com/project-copacetic/copacetic/pull/1134) - 2025-06-26<br>
@@ -20,7 +20,7 @@
 🟣 [feat: add multiarch patching workflow changes](https://github.com/project-copacetic/copacetic/pull/1067) - 2025-06-02<br>
 🟢 [Refactor to Golang](https://github.com/sozercan/guac-ai-mole/pull/12) - 2025-05-15<br>
 
-*Last updated: 2025-06-30 00:36 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2025-07-01 00:38 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2025-06-30 00:36 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2025-07-01 00:38 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
+⭐ [dagger/container-use](https://github.com/dagger/container-use) - 2025-07-01 (0 days ago)<br>
 ⭐ [containers/podman](https://github.com/containers/podman) - 2025-06-30 (0 days ago)<br>
-⭐ [containers/buildah](https://github.com/containers/buildah) - 2025-06-29 (0 days ago)<br>
-⭐ [dagger/container-use](https://github.com/dagger/container-use) - 2025-06-29 (0 days ago)<br>
-⭐ [mvdan/sh](https://github.com/mvdan/sh) - 2025-06-29 (0 days ago)<br>
-⭐ [anthropic-experimental/agentic-misalignment](https://github.com/anthropic-experimental/agentic-misalignment) - 2025-06-29 (0 days ago)<br>
-⭐ [multiarch/qemu-user-static](https://github.com/multiarch/qemu-user-static) - 2025-06-29 (0 days ago)<br>
-⭐ [openai/codex-universal](https://github.com/openai/codex-universal) - 2025-06-28 (1 day ago)<br>
-⭐ [neuralmagic/guidellm](https://github.com/neuralmagic/guidellm) - 2025-06-27 (2 days ago)<br>
-⭐ [cpuguy83/go-docker](https://github.com/cpuguy83/go-docker) - 2025-06-26 (3 days ago)<br>
-⭐ [aquasecurity/go-npm-version](https://github.com/aquasecurity/go-npm-version) - 2025-06-04 (25 days ago)<br>
+⭐ [openai/codex-universal](https://github.com/openai/codex-universal) - 2025-06-30 (0 days ago)<br>
+⭐ [anthropic-experimental/agentic-misalignment](https://github.com/anthropic-experimental/agentic-misalignment) - 2025-06-30 (0 days ago)<br>
+⭐ [containers/buildah](https://github.com/containers/buildah) - 2025-06-30 (0 days ago)<br>
+⭐ [mvdan/sh](https://github.com/mvdan/sh) - 2025-06-30 (0 days ago)<br>
+⭐ [multiarch/qemu-user-static](https://github.com/multiarch/qemu-user-static) - 2025-06-30 (0 days ago)<br>
+⭐ [neuralmagic/guidellm](https://github.com/neuralmagic/guidellm) - 2025-06-27 (3 days ago)<br>
+⭐ [cpuguy83/go-docker](https://github.com/cpuguy83/go-docker) - 2025-06-26 (4 days ago)<br>
+⭐ [aquasecurity/go-npm-version](https://github.com/aquasecurity/go-npm-version) - 2025-06-04 (26 days ago)<br>
 
-*Last updated: 2025-06-30 00:36 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2025-07-01 00:38 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
