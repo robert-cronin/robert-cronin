@@ -9,9 +9,9 @@
 
 🟢 Open | 🟣 Merged
 
-🟢 [feat: add generate command](https://github.com/project-copacetic/copacetic/pull/1212) - 2025-07-21<br>
+🟢 [ci: Expand trivy scanning to other images](https://github.com/kaito-project/kaito/pull/1161) - 2025-07-22<br>
+🟢 [feat: add generate command](https://github.com/project-copacetic/copacetic/pull/1212) - 2025-07-22<br>
 🟢 [Fix: set azurelinux base image tag](https://github.com/project-copacetic/copacetic/pull/1216) - 2025-07-21<br>
-🟢 [ci: Expand trivy scanning to other images](https://github.com/kaito-project/kaito/pull/1161) - 2025-07-18<br>
 🟣 [fix: retain multiplatform manifest list annotations](https://github.com/project-copacetic/copacetic/pull/1120) - 2025-07-01<br>
 🟣 [fix: handle docker load generically](https://github.com/project-copacetic/copacetic/pull/1059) - 2025-06-27<br>
 🟣 [Fix nil pointer dereference in TCPTransport.DoRaw](https://github.com/cpuguy83/go-docker/pull/16) - 2025-06-26<br>
@@ -20,7 +20,7 @@
 🟣 [docs: improve multiplatform docs](https://github.com/project-copacetic/copacetic/pull/1129) - 2025-06-25<br>
 🟢 [Refactor to Golang](https://github.com/sozercan/guac-ai-mole/pull/12) - 2025-05-15<br>
 
-*Last updated: 2025-07-22 00:35 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2025-07-23 00:35 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2025-07-22 00:35 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2025-07-23 00:35 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 2025-07-22 (0 days ago)<br>
-⭐ [dagger/container-use](https://github.com/dagger/container-use) - 2025-07-21 (0 days ago)<br>
-⭐ [containers/podman](https://github.com/containers/podman) - 2025-07-21 (0 days ago)<br>
-⭐ [llm-d/llm-d](https://github.com/llm-d/llm-d) - 2025-07-21 (0 days ago)<br>
-⭐ [actions/stale](https://github.com/actions/stale) - 2025-07-21 (0 days ago)<br>
-⭐ [multiarch/qemu-user-static](https://github.com/multiarch/qemu-user-static) - 2025-07-21 (0 days ago)<br>
-⭐ [containers/buildah](https://github.com/containers/buildah) - 2025-07-21 (0 days ago)<br>
-⭐ [anthropic-experimental/agentic-misalignment](https://github.com/anthropic-experimental/agentic-misalignment) - 2025-07-20 (1 day ago)<br>
-⭐ [jmdaly/llm-github-copilot](https://github.com/jmdaly/llm-github-copilot) - 2025-07-19 (2 days ago)<br>
-⭐ [aquasecurity/go-npm-version](https://github.com/aquasecurity/go-npm-version) - 2025-07-16 (5 days ago)<br>
+⭐ [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 2025-07-23 (0 days ago)<br>
+⭐ [containers/podman](https://github.com/containers/podman) - 2025-07-22 (0 days ago)<br>
+⭐ [dagger/container-use](https://github.com/dagger/container-use) - 2025-07-22 (0 days ago)<br>
+⭐ [llm-d/llm-d](https://github.com/llm-d/llm-d) - 2025-07-22 (0 days ago)<br>
+⭐ [anthropic-experimental/agentic-misalignment](https://github.com/anthropic-experimental/agentic-misalignment) - 2025-07-22 (0 days ago)<br>
+⭐ [containers/buildah](https://github.com/containers/buildah) - 2025-07-22 (0 days ago)<br>
+⭐ [actions/stale](https://github.com/actions/stale) - 2025-07-21 (1 day ago)<br>
+⭐ [multiarch/qemu-user-static](https://github.com/multiarch/qemu-user-static) - 2025-07-21 (1 day ago)<br>
+⭐ [jmdaly/llm-github-copilot](https://github.com/jmdaly/llm-github-copilot) - 2025-07-19 (3 days ago)<br>
+⭐ [aquasecurity/go-npm-version](https://github.com/aquasecurity/go-npm-version) - 2025-07-16 (6 days ago)<br>
 
-*Last updated: 2025-07-22 00:35 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2025-07-23 00:35 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
