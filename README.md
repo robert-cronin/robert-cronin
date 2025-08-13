@@ -9,7 +9,7 @@
 
 🟢 Open | 🟣 Merged
 
-🟢 [feat: add generate command](https://github.com/project-copacetic/copacetic/pull/1212) - 2025-08-05<br>
+🟢 [feat: add generate command](https://github.com/project-copacetic/copacetic/pull/1212) - 2025-08-13<br>
 🟢 [feat: add buildkit frontend](https://github.com/project-copacetic/copacetic/pull/1221) - 2025-08-04<br>
 🟣 [feat: modularize patching logic](https://github.com/project-copacetic/copacetic/pull/1228) - 2025-08-04<br>
 🟣 [ci: Expand trivy scanning to other images](https://github.com/kaito-project/kaito/pull/1161) - 2025-08-01<br>
@@ -20,7 +20,7 @@
 🟢 [WIP: add nodejs patching](https://github.com/project-copacetic/copacetic/pull/1090) - 2025-06-25<br>
 🟢 [Refactor to Golang](https://github.com/sozercan/guac-ai-mole/pull/12) - 2025-05-15<br>
 
-*Last updated: 2025-08-12 00:33 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2025-08-13 00:34 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2025-08-12 00:33 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2025-08-13 00:34 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 2025-08-12 (0 days ago)<br>
+⭐ [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 2025-08-13 (0 days ago)<br>
+⭐ [llm-d/llm-d](https://github.com/llm-d/llm-d) - 2025-08-12 (0 days ago)<br>
 ⭐ [containers/podman](https://github.com/containers/podman) - 2025-08-12 (0 days ago)<br>
-⭐ [llm-d/llm-d](https://github.com/llm-d/llm-d) - 2025-08-11 (0 days ago)<br>
-⭐ [anthropic-experimental/agentic-misalignment](https://github.com/anthropic-experimental/agentic-misalignment) - 2025-08-11 (0 days ago)<br>
-⭐ [dagger/container-use](https://github.com/dagger/container-use) - 2025-08-11 (0 days ago)<br>
-⭐ [containers/buildah](https://github.com/containers/buildah) - 2025-08-11 (0 days ago)<br>
-⭐ [paxtonhare/demo-magic](https://github.com/paxtonhare/demo-magic) - 2025-08-11 (0 days ago)<br>
-⭐ [actions/stale](https://github.com/actions/stale) - 2025-08-08 (3 days ago)<br>
-⭐ [vito/progrock](https://github.com/vito/progrock) - 2025-07-30 (12 days ago)<br>
-⭐ [jmdaly/llm-github-copilot](https://github.com/jmdaly/llm-github-copilot) - 2025-07-28 (14 days ago)<br>
+⭐ [anthropic-experimental/agentic-misalignment](https://github.com/anthropic-experimental/agentic-misalignment) - 2025-08-12 (0 days ago)<br>
+⭐ [dagger/container-use](https://github.com/dagger/container-use) - 2025-08-12 (0 days ago)<br>
+⭐ [containers/buildah](https://github.com/containers/buildah) - 2025-08-12 (0 days ago)<br>
+⭐ [paxtonhare/demo-magic](https://github.com/paxtonhare/demo-magic) - 2025-08-12 (0 days ago)<br>
+⭐ [actions/stale](https://github.com/actions/stale) - 2025-08-08 (4 days ago)<br>
+⭐ [vito/progrock](https://github.com/vito/progrock) - 2025-07-30 (13 days ago)<br>
+⭐ [jmdaly/llm-github-copilot](https://github.com/jmdaly/llm-github-copilot) - 2025-07-28 (15 days ago)<br>
 
-*Last updated: 2025-08-12 00:33 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2025-08-13 00:34 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
