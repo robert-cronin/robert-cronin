@@ -20,7 +20,7 @@
 🟣 [feat: modularize patching logic](https://github.com/project-copacetic/copacetic/pull/1228) - 2025-08-04<br>
 🟣 [ci: Expand trivy scanning to other images](https://github.com/kaito-project/kaito/pull/1161) - 2025-08-01<br>
 
-*Last updated: 2025-09-05 00:30 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2025-09-06 00:29 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2025-09-05 00:30 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2025-09-06 00:29 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 2025-09-05 (0 days ago)<br>
-⭐ [containers/podman](https://github.com/containers/podman) - 2025-09-04 (0 days ago)<br>
-⭐ [llm-d/llm-d](https://github.com/llm-d/llm-d) - 2025-09-04 (0 days ago)<br>
-⭐ [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) - 2025-09-04 (0 days ago)<br>
-⭐ [paxtonhare/demo-magic](https://github.com/paxtonhare/demo-magic) - 2025-09-04 (0 days ago)<br>
-⭐ [actions/stale](https://github.com/actions/stale) - 2025-09-04 (0 days ago)<br>
-⭐ [test-summary/action](https://github.com/test-summary/action) - 2025-09-04 (0 days ago)<br>
-⭐ [anthropic-experimental/agentic-misalignment](https://github.com/anthropic-experimental/agentic-misalignment) - 2025-09-02 (2 days ago)<br>
-⭐ [vito/progrock](https://github.com/vito/progrock) - 2025-08-26 (9 days ago)<br>
-⭐ [jmdaly/llm-github-copilot](https://github.com/jmdaly/llm-github-copilot) - 2025-07-28 (38 days ago)<br>
+⭐ [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 2025-09-06 (0 days ago)<br>
+⭐ [containers/podman](https://github.com/containers/podman) - 2025-09-05 (0 days ago)<br>
+⭐ [actions/stale](https://github.com/actions/stale) - 2025-09-05 (0 days ago)<br>
+⭐ [paxtonhare/demo-magic](https://github.com/paxtonhare/demo-magic) - 2025-09-05 (0 days ago)<br>
+⭐ [llm-d/llm-d](https://github.com/llm-d/llm-d) - 2025-09-05 (0 days ago)<br>
+⭐ [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) - 2025-09-05 (0 days ago)<br>
+⭐ [test-summary/action](https://github.com/test-summary/action) - 2025-09-04 (1 day ago)<br>
+⭐ [anthropic-experimental/agentic-misalignment](https://github.com/anthropic-experimental/agentic-misalignment) - 2025-09-02 (3 days ago)<br>
+⭐ [vito/progrock](https://github.com/vito/progrock) - 2025-08-26 (10 days ago)<br>
+⭐ [jmdaly/llm-github-copilot](https://github.com/jmdaly/llm-github-copilot) - 2025-07-28 (39 days ago)<br>
 
-*Last updated: 2025-09-05 00:30 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2025-09-06 00:29 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
