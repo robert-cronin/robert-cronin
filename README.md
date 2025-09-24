@@ -9,8 +9,8 @@
 
 🟢 Open | 🟣 Merged
 
+🟢 [feat: add generate command](https://github.com/project-copacetic/copacetic/pull/1212) - 2025-09-24<br>
 🟣 [chore: update openvex dependency to v0.2.6](https://github.com/project-copacetic/copacetic/pull/1308) - 2025-09-22<br>
-🟢 [feat: add generate command](https://github.com/project-copacetic/copacetic/pull/1212) - 2025-09-22<br>
 🟢 [fix: multiplatform emulation failure](https://github.com/project-copacetic/copacetic/pull/1279) - 2025-09-22<br>
 🟣 [fix: update ignoreErrors to true for Mariner images](https://github.com/project-copacetic/copacetic/pull/1304) - 2025-09-19<br>
 🟢 [feat: add buildkit frontend](https://github.com/project-copacetic/copacetic/pull/1221) - 2025-09-09<br>
@@ -20,7 +20,7 @@
 🟣 [fix: debian tooling image missing platforms](https://github.com/project-copacetic/copacetic/pull/1256) - 2025-08-15<br>
 🟢 [Fix/tooling img missing platform](https://github.com/robert-cronin/copacetic/pull/1) - 2025-08-15<br>
 
-*Last updated: 2025-09-23 00:30 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2025-09-24 00:31 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2025-09-23 00:30 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2025-09-24 00:31 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 2025-09-23 (0 days ago)<br>
+⭐ [containers/podman](https://github.com/containers/podman) - 2025-09-24 (0 days ago)<br>
+⭐ [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 2025-09-24 (0 days ago)<br>
+⭐ [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) - 2025-09-23 (0 days ago)<br>
 ⭐ [llm-d/llm-d](https://github.com/llm-d/llm-d) - 2025-09-23 (0 days ago)<br>
-⭐ [containers/podman](https://github.com/containers/podman) - 2025-09-22 (0 days ago)<br>
-⭐ [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) - 2025-09-22 (0 days ago)<br>
-⭐ [actions/stale](https://github.com/actions/stale) - 2025-09-22 (0 days ago)<br>
-⭐ [paxtonhare/demo-magic](https://github.com/paxtonhare/demo-magic) - 2025-09-21 (1 day ago)<br>
-⭐ [anthropic-experimental/agentic-misalignment](https://github.com/anthropic-experimental/agentic-misalignment) - 2025-09-20 (2 days ago)<br>
-⭐ [jmdaly/llm-github-copilot](https://github.com/jmdaly/llm-github-copilot) - 2025-09-19 (3 days ago)<br>
-⭐ [test-summary/action](https://github.com/test-summary/action) - 2025-09-15 (7 days ago)<br>
-⭐ [vito/progrock](https://github.com/vito/progrock) - 2025-08-26 (27 days ago)<br>
+⭐ [actions/stale](https://github.com/actions/stale) - 2025-09-23 (1 day ago)<br>
+⭐ [paxtonhare/demo-magic](https://github.com/paxtonhare/demo-magic) - 2025-09-21 (2 days ago)<br>
+⭐ [anthropic-experimental/agentic-misalignment](https://github.com/anthropic-experimental/agentic-misalignment) - 2025-09-20 (3 days ago)<br>
+⭐ [jmdaly/llm-github-copilot](https://github.com/jmdaly/llm-github-copilot) - 2025-09-19 (4 days ago)<br>
+⭐ [test-summary/action](https://github.com/test-summary/action) - 2025-09-15 (8 days ago)<br>
+⭐ [vito/progrock](https://github.com/vito/progrock) - 2025-08-26 (28 days ago)<br>
 
-*Last updated: 2025-09-23 00:30 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2025-09-24 00:31 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
