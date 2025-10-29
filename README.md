@@ -9,6 +9,7 @@
 
 🟢 Open | 🟣 Merged
 
+🟣 [fix: Trivy fails with "invalid tar header" when scanning Copa-patched images](https://github.com/project-copacetic/copacetic/pull/1359) - 2025-10-28<br>
 🟣 [fix: handle missing OS field in Trivy report](https://github.com/project-copacetic/copacetic/pull/1353) - 2025-10-24<br>
 🟣 [docs: enhance release process documentation](https://github.com/project-copacetic/copacetic/pull/1350) - 2025-10-23<br>
 🟢 [feat: add buildkit frontend](https://github.com/project-copacetic/copacetic/pull/1221) - 2025-10-22<br>
@@ -17,10 +18,9 @@
 🟣 [feat: add nodejs patching](https://github.com/project-copacetic/copacetic/pull/1090) - 2025-10-15<br>
 🟣 [fix: multiplatform emulation failure](https://github.com/project-copacetic/copacetic/pull/1279) - 2025-10-14<br>
 🟣 [feat: group dependabot upgrades](https://github.com/project-copacetic/copacetic/pull/1335) - 2025-10-13<br>
-🟣 [feat: add generate command](https://github.com/project-copacetic/copacetic/pull/1212) - 2025-10-07<br>
 🟢 [Refactor to Golang](https://github.com/sozercan/guac-ai-mole/pull/12) - 2025-05-15<br>
 
-*Last updated: 2025-10-28 00:31 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2025-10-29 00:33 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2025-10-28 00:31 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2025-10-29 00:33 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 2025-10-28 (0 days ago)<br>
+⭐ [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 2025-10-29 (0 days ago)<br>
+⭐ [llm-d/llm-d](https://github.com/llm-d/llm-d) - 2025-10-29 (0 days ago)<br>
+⭐ [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) - 2025-10-29 (0 days ago)<br>
 ⭐ [containers/podman](https://github.com/containers/podman) - 2025-10-28 (0 days ago)<br>
-⭐ [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) - 2025-10-27 (0 days ago)<br>
-⭐ [llm-d/llm-d](https://github.com/llm-d/llm-d) - 2025-10-27 (0 days ago)<br>
-⭐ [actions/stale](https://github.com/actions/stale) - 2025-10-26 (1 day ago)<br>
-⭐ [test-summary/action](https://github.com/test-summary/action) - 2025-10-26 (1 day ago)<br>
-⭐ [anthropic-experimental/agentic-misalignment](https://github.com/anthropic-experimental/agentic-misalignment) - 2025-10-26 (1 day ago)<br>
-⭐ [jmdaly/llm-github-copilot](https://github.com/jmdaly/llm-github-copilot) - 2025-10-23 (4 days ago)<br>
-⭐ [paxtonhare/demo-magic](https://github.com/paxtonhare/demo-magic) - 2025-10-21 (6 days ago)<br>
-⭐ [vito/progrock](https://github.com/vito/progrock) - 2025-10-04 (23 days ago)<br>
+⭐ [actions/stale](https://github.com/actions/stale) - 2025-10-26 (2 days ago)<br>
+⭐ [test-summary/action](https://github.com/test-summary/action) - 2025-10-26 (2 days ago)<br>
+⭐ [anthropic-experimental/agentic-misalignment](https://github.com/anthropic-experimental/agentic-misalignment) - 2025-10-26 (2 days ago)<br>
+⭐ [jmdaly/llm-github-copilot](https://github.com/jmdaly/llm-github-copilot) - 2025-10-23 (5 days ago)<br>
+⭐ [paxtonhare/demo-magic](https://github.com/paxtonhare/demo-magic) - 2025-10-21 (7 days ago)<br>
+⭐ [vito/progrock](https://github.com/vito/progrock) - 2025-10-04 (24 days ago)<br>
 
-*Last updated: 2025-10-28 00:31 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2025-10-29 00:33 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
