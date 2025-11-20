@@ -9,18 +9,18 @@
 
 🟢 Open | 🟣 Merged
 
+🟢 [feat: add golang patching](https://github.com/project-copacetic/copacetic/pull/1388) - 2025-11-19<br>
+🟢 [feat: add buildkit frontend](https://github.com/project-copacetic/copacetic/pull/1221) - 2025-11-19<br>
 🟣 [fix: Node.js patching introduces new vulnerabilities through transitive dependencies](https://github.com/project-copacetic/copacetic/pull/1379) - 2025-11-16<br>
 🟣 [Update localai to v3.7.0](https://github.com/kaito-project/aikit/pull/693) - 2025-11-12<br>
-🟢 [feat: add buildkit frontend](https://github.com/project-copacetic/copacetic/pull/1221) - 2025-11-05<br>
 🟢 [feat: add new flags and UI controls for v0.12.0 features](https://github.com/project-copacetic/copa-extension/pull/88) - 2025-11-05<br>
 🟣 [chore: cherry pick fixes for v0.12.0 and final release](https://github.com/project-copacetic/copacetic/pull/1366) - 2025-11-03<br>
 🟣 [fix: version validation scripts for release tagging](https://github.com/project-copacetic/copacetic/pull/1364) - 2025-11-03<br>
 🟣 [chore: cherry pick fixes for v0.12.0 rc3](https://github.com/project-copacetic/copacetic/pull/1360) - 2025-10-29<br>
 🟣 [fix: Trivy fails with "invalid tar header" when scanning Copa-patched images](https://github.com/project-copacetic/copacetic/pull/1359) - 2025-10-28<br>
-🟣 [fix: handle missing OS field in Trivy report](https://github.com/project-copacetic/copacetic/pull/1353) - 2025-10-24<br>
 🟢 [Refactor to Golang](https://github.com/sozercan/guac-ai-mole/pull/12) - 2025-05-15<br>
 
-*Last updated: 2025-11-19 00:33 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2025-11-20 00:32 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2025-11-19 00:33 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2025-11-20 00:32 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 2025-11-19 (0 days ago)<br>
-⭐ [llm-d/llm-d](https://github.com/llm-d/llm-d) - 2025-11-18 (0 days ago)<br>
-⭐ [actions/stale](https://github.com/actions/stale) - 2025-11-18 (0 days ago)<br>
-⭐ [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - 2025-11-18 (0 days ago)<br>
-⭐ [containers/podman](https://github.com/containers/podman) - 2025-11-18 (0 days ago)<br>
-⭐ [anthropic-experimental/agentic-misalignment](https://github.com/anthropic-experimental/agentic-misalignment) - 2025-11-17 (1 day ago)<br>
-⭐ [paxtonhare/demo-magic](https://github.com/paxtonhare/demo-magic) - 2025-11-16 (2 days ago)<br>
-⭐ [test-summary/action](https://github.com/test-summary/action) - 2025-10-26 (23 days ago)<br>
-⭐ [jmdaly/llm-github-copilot](https://github.com/jmdaly/llm-github-copilot) - 2025-10-23 (26 days ago)<br>
-⭐ [vito/progrock](https://github.com/vito/progrock) - 2025-10-04 (45 days ago)<br>
+⭐ [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 2025-11-20 (0 days ago)<br>
+⭐ [llm-d/llm-d](https://github.com/llm-d/llm-d) - 2025-11-19 (0 days ago)<br>
+⭐ [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - 2025-11-19 (0 days ago)<br>
+⭐ [containers/podman](https://github.com/containers/podman) - 2025-11-19 (0 days ago)<br>
+⭐ [paxtonhare/demo-magic](https://github.com/paxtonhare/demo-magic) - 2025-11-19 (0 days ago)<br>
+⭐ [actions/stale](https://github.com/actions/stale) - 2025-11-19 (0 days ago)<br>
+⭐ [anthropic-experimental/agentic-misalignment](https://github.com/anthropic-experimental/agentic-misalignment) - 2025-11-17 (2 days ago)<br>
+⭐ [test-summary/action](https://github.com/test-summary/action) - 2025-10-26 (24 days ago)<br>
+⭐ [jmdaly/llm-github-copilot](https://github.com/jmdaly/llm-github-copilot) - 2025-10-23 (27 days ago)<br>
+⭐ [vito/progrock](https://github.com/vito/progrock) - 2025-10-04 (46 days ago)<br>
 
-*Last updated: 2025-11-19 00:33 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2025-11-20 00:32 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
