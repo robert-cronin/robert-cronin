@@ -9,6 +9,7 @@
 
 🟢 Open | 🟣 Merged
 
+🟢 [fix: enable grammar-constrained function calling for Llama models](https://github.com/kaito-project/aikit/pull/711) - 2025-12-09<br>
 🟢 [feat: add golang patching](https://github.com/project-copacetic/copacetic/pull/1388) - 2025-12-03<br>
 🟢 [feat: add test environment utilities for BuildKit integration](https://github.com/project-copacetic/copacetic/pull/1399) - 2025-12-01<br>
 🟣 [feat: add buildkit frontend](https://github.com/project-copacetic/copacetic/pull/1221) - 2025-12-01<br>
@@ -17,10 +18,9 @@
 🟣 [Update localai to v3.7.0](https://github.com/kaito-project/aikit/pull/693) - 2025-11-12<br>
 🟢 [feat: add new flags and UI controls for v0.12.0 features](https://github.com/project-copacetic/copa-extension/pull/88) - 2025-11-05<br>
 🟣 [chore: cherry pick fixes for v0.12.0 and final release](https://github.com/project-copacetic/copacetic/pull/1366) - 2025-11-03<br>
-🟣 [fix: version validation scripts for release tagging](https://github.com/project-copacetic/copacetic/pull/1364) - 2025-11-03<br>
 🟢 [Refactor to Golang](https://github.com/sozercan/guac-ai-mole/pull/12) - 2025-05-15<br>
 
-*Last updated: 2025-12-09 00:34 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2025-12-10 00:34 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2025-12-09 00:34 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2025-12-10 00:34 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 2025-12-09 (0 days ago)<br>
-⭐ [llm-d/llm-d](https://github.com/llm-d/llm-d) - 2025-12-08 (0 days ago)<br>
-⭐ [containers/podman](https://github.com/containers/podman) - 2025-12-08 (0 days ago)<br>
-⭐ [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - 2025-12-08 (0 days ago)<br>
-⭐ [anthropic-experimental/agentic-misalignment](https://github.com/anthropic-experimental/agentic-misalignment) - 2025-12-07 (1 day ago)<br>
-⭐ [actions/stale](https://github.com/actions/stale) - 2025-12-06 (2 days ago)<br>
-⭐ [test-summary/action](https://github.com/test-summary/action) - 2025-12-05 (3 days ago)<br>
-⭐ [paxtonhare/demo-magic](https://github.com/paxtonhare/demo-magic) - 2025-12-04 (4 days ago)<br>
-⭐ [vito/progrock](https://github.com/vito/progrock) - 2025-11-26 (12 days ago)<br>
-⭐ [jmdaly/llm-github-copilot](https://github.com/jmdaly/llm-github-copilot) - 2025-10-23 (46 days ago)<br>
+⭐ [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 2025-12-10 (0 days ago)<br>
+⭐ [containers/podman](https://github.com/containers/podman) - 2025-12-09 (0 days ago)<br>
+⭐ [actions/stale](https://github.com/actions/stale) - 2025-12-09 (0 days ago)<br>
+⭐ [llm-d/llm-d](https://github.com/llm-d/llm-d) - 2025-12-09 (0 days ago)<br>
+⭐ [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - 2025-12-09 (0 days ago)<br>
+⭐ [anthropic-experimental/agentic-misalignment](https://github.com/anthropic-experimental/agentic-misalignment) - 2025-12-07 (2 days ago)<br>
+⭐ [test-summary/action](https://github.com/test-summary/action) - 2025-12-05 (4 days ago)<br>
+⭐ [paxtonhare/demo-magic](https://github.com/paxtonhare/demo-magic) - 2025-12-04 (5 days ago)<br>
+⭐ [vito/progrock](https://github.com/vito/progrock) - 2025-11-26 (13 days ago)<br>
+⭐ [jmdaly/llm-github-copilot](https://github.com/jmdaly/llm-github-copilot) - 2025-10-23 (47 days ago)<br>
 
-*Last updated: 2025-12-09 00:34 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2025-12-10 00:34 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
