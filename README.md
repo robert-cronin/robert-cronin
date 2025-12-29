@@ -20,7 +20,7 @@
 🟢 [feat: add new flags and UI controls for v0.12.0 features](https://github.com/project-copacetic/copa-extension/pull/88) - 2025-11-05<br>
 🟢 [Refactor to Golang](https://github.com/sozercan/guac-ai-mole/pull/12) - 2025-05-15<br>
 
-*Last updated: 2025-12-28 00:40 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2025-12-29 00:39 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2025-12-28 00:40 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2025-12-29 00:39 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - 2025-12-28 (0 days ago)<br>
-⭐ [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 2025-12-27 (0 days ago)<br>
-⭐ [llm-d/llm-d](https://github.com/llm-d/llm-d) - 2025-12-27 (0 days ago)<br>
-⭐ [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - 2025-12-27 (0 days ago)<br>
-⭐ [tmate-io/tmate](https://github.com/tmate-io/tmate) - 2025-12-27 (0 days ago)<br>
-⭐ [actions/stale](https://github.com/actions/stale) - 2025-12-26 (1 day ago)<br>
-⭐ [test-summary/action](https://github.com/test-summary/action) - 2025-12-24 (3 days ago)<br>
-⭐ [paxtonhare/demo-magic](https://github.com/paxtonhare/demo-magic) - 2025-12-19 (8 days ago)<br>
-⭐ [vito/progrock](https://github.com/vito/progrock) - 2025-11-26 (31 days ago)<br>
-⭐ [jmdaly/llm-github-copilot](https://github.com/jmdaly/llm-github-copilot) - 2025-10-23 (65 days ago)<br>
+⭐ [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - 2025-12-29 (0 days ago)<br>
+⭐ [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 2025-12-29 (0 days ago)<br>
+⭐ [llm-d/llm-d](https://github.com/llm-d/llm-d) - 2025-12-28 (0 days ago)<br>
+⭐ [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - 2025-12-28 (0 days ago)<br>
+⭐ [actions/stale](https://github.com/actions/stale) - 2025-12-28 (0 days ago)<br>
+⭐ [tmate-io/tmate](https://github.com/tmate-io/tmate) - 2025-12-27 (1 day ago)<br>
+⭐ [test-summary/action](https://github.com/test-summary/action) - 2025-12-24 (4 days ago)<br>
+⭐ [paxtonhare/demo-magic](https://github.com/paxtonhare/demo-magic) - 2025-12-19 (9 days ago)<br>
+⭐ [vito/progrock](https://github.com/vito/progrock) - 2025-11-26 (32 days ago)<br>
+⭐ [jmdaly/llm-github-copilot](https://github.com/jmdaly/llm-github-copilot) - 2025-10-23 (66 days ago)<br>
 
-*Last updated: 2025-12-28 00:40 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2025-12-29 00:39 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
