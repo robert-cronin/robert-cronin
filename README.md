@@ -51,10 +51,9 @@
 
 ## 🔭 Current Priorities
 
-- Starting a new journey @ Microsoft 🚀
-- Contributing to GUAC
-- Trying to upgrade my understanding of Supply Chain Security
-- Working towards some certifications, course completion rate: AZ-900 (10%) CKS (95%) & CKA (95%) & SAA-C03 (90% - on hold)
+- Maintaining [Copacetic](https://github.com/project-copacetic/copacetic) (CNCF) - container image patching for CVE remediation
+- Contributing to [GUAC](https://github.com/guacsec/guac) - software supply chain security
+- Contributing to [KAITO](https://github.com/kaito-project/kaito) and [AIKit](https://github.com/kaito-project/aikit) - LLM inference on Kubernetes
 
 ## 🚀 Hobby Projects
 
