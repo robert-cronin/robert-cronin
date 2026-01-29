@@ -9,18 +9,18 @@
 
 🟢 Open | 🟣 Merged
 
-🟢 [fix: enable grammar-constrained function calling for Llama models](https://github.com/kaito-project/aikit/pull/711) - 2026-01-27<br>
-🟢 [feat: add golang patching](https://github.com/project-copacetic/copacetic/pull/1388) - 2026-01-26<br>
-🟢 [feat: add test environment utilities for BuildKit integration](https://github.com/project-copacetic/copacetic/pull/1399) - 2026-01-22<br>
+🟢 [feat: add test environment utilities for BuildKit integration](https://github.com/project-copacetic/copacetic/pull/1399) - 2026-01-29<br>
+🟢 [fix: enable grammar-constrained function calling for Llama models](https://github.com/kaito-project/aikit/pull/711) - 2026-01-28<br>
+🟢 [feat: add golang patching](https://github.com/project-copacetic/copacetic/pull/1388) - 2026-01-28<br>
+🟢 [feat: add demo recordings and asciinema player to website](https://github.com/project-copacetic/copacetic/pull/1453) - 2026-01-28<br>
 🟣 [chore: bump github.com/moby/buildkit from 0.25.2 to 0.26.2](https://github.com/project-copacetic/copacetic/pull/1413) - 2025-12-12<br>
 🟣 [feat: add buildkit frontend](https://github.com/project-copacetic/copacetic/pull/1221) - 2025-12-01<br>
 🟣 [fix: update test images for CVE fixes](https://github.com/project-copacetic/copacetic/pull/1398) - 2025-11-26<br>
 🟣 [fix: Node.js patching introduces new vulnerabilities through transitive dependencies](https://github.com/project-copacetic/copacetic/pull/1379) - 2025-11-16<br>
 🟣 [Update localai to v3.7.0](https://github.com/kaito-project/aikit/pull/693) - 2025-11-12<br>
 🟢 [feat: add new flags and UI controls for v0.12.0 features](https://github.com/project-copacetic/copa-extension/pull/88) - 2025-11-05<br>
-🟢 [Refactor to Golang](https://github.com/sozercan/guac-ai-mole/pull/12) - 2025-05-15<br>
 
-*Last updated: 2026-01-28 00:36 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2026-01-29 00:41 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2026-01-28 00:36 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2026-01-29 00:41 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
+⭐ [anthropics/skills](https://github.com/anthropics/skills) - 2026-01-29 (0 days ago)<br>
+⭐ [github/copilot-cli](https://github.com/github/copilot-cli) - 2026-01-29 (0 days ago)<br>
 ⭐ [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - 2026-01-28 (0 days ago)<br>
-⭐ [anthropics/skills](https://github.com/anthropics/skills) - 2026-01-28 (0 days ago)<br>
+⭐ [wilsonzlin/fastrender](https://github.com/wilsonzlin/fastrender) - 2026-01-28 (0 days ago)<br>
 ⭐ [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - 2026-01-28 (0 days ago)<br>
-⭐ [github/copilot-cli](https://github.com/github/copilot-cli) - 2026-01-28 (0 days ago)<br>
-⭐ [sozercan/kube-foundry](https://github.com/sozercan/kube-foundry) - 2026-01-27 (0 days ago)<br>
-⭐ [wilsonzlin/fastrender](https://github.com/wilsonzlin/fastrender) - 2026-01-27 (0 days ago)<br>
-⭐ [tmate-io/tmate](https://github.com/tmate-io/tmate) - 2026-01-27 (0 days ago)<br>
-⭐ [paxtonhare/demo-magic](https://github.com/paxtonhare/demo-magic) - 2026-01-27 (0 days ago)<br>
-⭐ [test-summary/action](https://github.com/test-summary/action) - 2026-01-27 (0 days ago)<br>
-⭐ [vito/progrock](https://github.com/vito/progrock) - 2025-11-26 (62 days ago)<br>
+⭐ [dragonflyoss/nydus](https://github.com/dragonflyoss/nydus) - 2026-01-28 (0 days ago)<br>
+⭐ [sozercan/kube-foundry](https://github.com/sozercan/kube-foundry) - 2026-01-27 (1 day ago)<br>
+⭐ [tmate-io/tmate](https://github.com/tmate-io/tmate) - 2026-01-27 (1 day ago)<br>
+⭐ [test-summary/action](https://github.com/test-summary/action) - 2026-01-27 (1 day ago)<br>
+⭐ [vito/progrock](https://github.com/vito/progrock) - 2025-11-26 (63 days ago)<br>
 
-*Last updated: 2026-01-28 00:36 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2026-01-29 00:41 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
