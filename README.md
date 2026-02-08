@@ -20,7 +20,7 @@
 🟣 [fix: Node.js patching introduces new vulnerabilities through transitive dependencies](https://github.com/project-copacetic/copacetic/pull/1379) - 2025-11-16<br>
 🟢 [feat: add new flags and UI controls for v0.12.0 features](https://github.com/project-copacetic/copa-extension/pull/88) - 2025-11-05<br>
 
-*Last updated: 2026-02-07 00:41 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2026-02-08 00:55 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2026-02-07 00:41 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2026-02-08 00:55 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [anthropics/skills](https://github.com/anthropics/skills) - 2026-02-07 (0 days ago)<br>
-⭐ [microsoft/skills](https://github.com/microsoft/skills) - 2026-02-07 (0 days ago)<br>
-⭐ [ollama/ollama](https://github.com/ollama/ollama) - 2026-02-07 (0 days ago)<br>
-⭐ [github/copilot-cli](https://github.com/github/copilot-cli) - 2026-02-06 (0 days ago)<br>
-⭐ [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - 2026-02-06 (0 days ago)<br>
-⭐ [kaito-project/kubeairunway](https://github.com/kaito-project/kubeairunway) - 2026-02-06 (0 days ago)<br>
-⭐ [containerd/nerdctl](https://github.com/containerd/nerdctl) - 2026-02-06 (0 days ago)<br>
-⭐ [wilsonzlin/fastrender](https://github.com/wilsonzlin/fastrender) - 2026-02-06 (0 days ago)<br>
-⭐ [tmate-io/tmate](https://github.com/tmate-io/tmate) - 2026-02-06 (0 days ago)<br>
-⭐ [dragonflyoss/nydus](https://github.com/dragonflyoss/nydus) - 2026-02-06 (0 days ago)<br>
+⭐ [anthropics/skills](https://github.com/anthropics/skills) - 2026-02-08 (0 days ago)<br>
+⭐ [microsoft/skills](https://github.com/microsoft/skills) - 2026-02-08 (0 days ago)<br>
+⭐ [ollama/ollama](https://github.com/ollama/ollama) - 2026-02-08 (0 days ago)<br>
+⭐ [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - 2026-02-08 (0 days ago)<br>
+⭐ [github/copilot-cli](https://github.com/github/copilot-cli) - 2026-02-07 (0 days ago)<br>
+⭐ [wilsonzlin/fastrender](https://github.com/wilsonzlin/fastrender) - 2026-02-07 (0 days ago)<br>
+⭐ [containerd/nerdctl](https://github.com/containerd/nerdctl) - 2026-02-07 (0 days ago)<br>
+⭐ [kaito-project/kubeairunway](https://github.com/kaito-project/kubeairunway) - 2026-02-06 (1 day ago)<br>
+⭐ [tmate-io/tmate](https://github.com/tmate-io/tmate) - 2026-02-06 (1 day ago)<br>
+⭐ [dragonflyoss/nydus](https://github.com/dragonflyoss/nydus) - 2026-02-06 (1 day ago)<br>
 
-*Last updated: 2026-02-07 00:41 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2026-02-08 00:55 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
