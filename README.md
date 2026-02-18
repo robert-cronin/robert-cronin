@@ -9,7 +9,7 @@
 
 🟢 Open | 🟣 Merged
 
-🟢 [feat: integrate transformers OpenAI-compatible serve engine (#1384)](https://github.com/kaito-project/kaito/pull/1765) - 2026-02-13<br>
+🟢 [feat: integrate transformers OpenAI-compatible serve engine (#1384)](https://github.com/kaito-project/kaito/pull/1765) - 2026-02-17<br>
 🟢 [feat: add golang patching](https://github.com/project-copacetic/copacetic/pull/1388) - 2026-02-13<br>
 🟢 [feat: add demo recordings and asciinema player to website](https://github.com/project-copacetic/copacetic/pull/1453) - 2026-02-11<br>
 🟣 [feat: add test environment utilities for BuildKit integration](https://github.com/project-copacetic/copacetic/pull/1399) - 2026-02-11<br>
@@ -20,7 +20,7 @@
 🟣 [fix: update test images for CVE fixes](https://github.com/project-copacetic/copacetic/pull/1398) - 2025-11-26<br>
 🟢 [feat: add new flags and UI controls for v0.12.0 features](https://github.com/project-copacetic/copa-extension/pull/88) - 2025-11-05<br>
 
-*Last updated: 2026-02-17 00:44 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2026-02-18 00:44 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2026-02-17 00:44 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2026-02-18 00:44 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [anthropics/skills](https://github.com/anthropics/skills) - 2026-02-17 (0 days ago)<br>
-⭐ [ollama/ollama](https://github.com/ollama/ollama) - 2026-02-17 (0 days ago)<br>
-⭐ [github/copilot-cli](https://github.com/github/copilot-cli) - 2026-02-17 (0 days ago)<br>
-⭐ [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - 2026-02-16 (0 days ago)<br>
-⭐ [containerd/nerdctl](https://github.com/containerd/nerdctl) - 2026-02-16 (0 days ago)<br>
-⭐ [microsoft/skills](https://github.com/microsoft/skills) - 2026-02-16 (0 days ago)<br>
-⭐ [wilsonzlin/fastrender](https://github.com/wilsonzlin/fastrender) - 2026-02-16 (0 days ago)<br>
-⭐ [dragonflyoss/nydus](https://github.com/dragonflyoss/nydus) - 2026-02-16 (0 days ago)<br>
-⭐ [kaito-project/kubeairunway](https://github.com/kaito-project/kubeairunway) - 2026-02-15 (1 day ago)<br>
-⭐ [project-copacetic/mcp-server](https://github.com/project-copacetic/mcp-server) - 2026-02-11 (5 days ago)<br>
+⭐ [kaito-project/kubeairunway](https://github.com/kaito-project/kubeairunway) - 2026-02-18 (0 days ago)<br>
+⭐ [microsoft/skills](https://github.com/microsoft/skills) - 2026-02-18 (0 days ago)<br>
+⭐ [anthropics/skills](https://github.com/anthropics/skills) - 2026-02-18 (0 days ago)<br>
+⭐ [github/copilot-cli](https://github.com/github/copilot-cli) - 2026-02-18 (0 days ago)<br>
+⭐ [ollama/ollama](https://github.com/ollama/ollama) - 2026-02-18 (0 days ago)<br>
+⭐ [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - 2026-02-18 (0 days ago)<br>
+⭐ [containerd/nerdctl](https://github.com/containerd/nerdctl) - 2026-02-17 (0 days ago)<br>
+⭐ [wilsonzlin/fastrender](https://github.com/wilsonzlin/fastrender) - 2026-02-17 (0 days ago)<br>
+⭐ [dragonflyoss/nydus](https://github.com/dragonflyoss/nydus) - 2026-02-16 (1 day ago)<br>
+⭐ [project-copacetic/mcp-server](https://github.com/project-copacetic/mcp-server) - 2026-02-11 (6 days ago)<br>
 
-*Last updated: 2026-02-17 00:44 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2026-02-18 00:44 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
