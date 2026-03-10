@@ -20,7 +20,7 @@
 🟢 [feat: add new flags and UI controls for v0.12.0 features](https://github.com/project-copacetic/copa-extension/pull/88) - 2025-11-05<br>
 🟢 [Refactor to Golang](https://github.com/sozercan/guac-ai-mole/pull/12) - 2025-05-15<br>
 
-*Last updated: 2026-03-09 00:44 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2026-03-10 00:40 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2026-03-09 00:44 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2026-03-10 00:40 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [github/copilot-cli](https://github.com/github/copilot-cli) - 2026-03-09 (0 days ago)<br>
-⭐ [ollama/ollama](https://github.com/ollama/ollama) - 2026-03-09 (0 days ago)<br>
+⭐ [github/copilot-cli](https://github.com/github/copilot-cli) - 2026-03-10 (0 days ago)<br>
+⭐ [ollama/ollama](https://github.com/ollama/ollama) - 2026-03-10 (0 days ago)<br>
+⭐ [kaito-project/kubeairunway](https://github.com/kaito-project/kubeairunway) - 2026-03-09 (0 days ago)<br>
 ⭐ [microsoft/skills](https://github.com/microsoft/skills) - 2026-03-09 (0 days ago)<br>
-⭐ [TransformerLensOrg/TransformerLens](https://github.com/TransformerLensOrg/TransformerLens) - 2026-03-08 (0 days ago)<br>
-⭐ [dragonflyoss/nydus](https://github.com/dragonflyoss/nydus) - 2026-03-08 (0 days ago)<br>
-⭐ [containerd/nerdctl](https://github.com/containerd/nerdctl) - 2026-03-08 (0 days ago)<br>
-⭐ [decoderesearch/SAELens](https://github.com/decoderesearch/SAELens) - 2026-03-07 (1 day ago)<br>
-⭐ [wilsonzlin/fastrender](https://github.com/wilsonzlin/fastrender) - 2026-03-07 (1 day ago)<br>
-⭐ [kaito-project/kubeairunway](https://github.com/kaito-project/kubeairunway) - 2026-03-06 (2 days ago)<br>
-⭐ [project-copacetic/mcp-server](https://github.com/project-copacetic/mcp-server) - 2026-02-11 (25 days ago)<br>
+⭐ [TransformerLensOrg/TransformerLens](https://github.com/TransformerLensOrg/TransformerLens) - 2026-03-09 (0 days ago)<br>
+⭐ [dragonflyoss/nydus](https://github.com/dragonflyoss/nydus) - 2026-03-09 (0 days ago)<br>
+⭐ [wilsonzlin/fastrender](https://github.com/wilsonzlin/fastrender) - 2026-03-09 (0 days ago)<br>
+⭐ [containerd/nerdctl](https://github.com/containerd/nerdctl) - 2026-03-09 (0 days ago)<br>
+⭐ [decoderesearch/SAELens](https://github.com/decoderesearch/SAELens) - 2026-03-09 (0 days ago)<br>
+⭐ [project-copacetic/mcp-server](https://github.com/project-copacetic/mcp-server) - 2026-02-11 (26 days ago)<br>
 
-*Last updated: 2026-03-09 00:44 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2026-03-10 00:40 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
