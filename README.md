@@ -9,10 +9,10 @@
 
 🟢 Open | 🟣 Merged
 
+🟢 [Add Playwright e2e tests for frontend UI](https://github.com/kaito-project/airunway/pull/186) - 2026-04-14<br>
 🟢 [fix: migrate docker/docker to moby/moby/client](https://github.com/project-copacetic/copacetic/pull/1525) - 2026-04-12<br>
 🟢 [fix: go patching log levels](https://github.com/project-copacetic/copacetic/pull/1516) - 2026-04-09<br>
 🟢 [security: harden API, webhook, CI, and agent instructions](https://github.com/kaito-project/airunway/pull/206) - 2026-04-08<br>
-🟢 [Add Playwright e2e tests for frontend UI](https://github.com/kaito-project/airunway/pull/186) - 2026-04-06<br>
 🟣 [fix: upgrade to Buildkit 0.28.1](https://github.com/project-copacetic/copacetic/pull/1512) - 2026-04-01<br>
 🟢 [feat: add NVIDIA MIG support for BYO nodes (#1744)](https://github.com/kaito-project/kaito/pull/1823) - 2026-04-01<br>
 🟣 [fix: security hardening from codebase audit (project-copacetic#1506)](https://github.com/project-copacetic/copacetic/pull/1507) - 2026-03-25<br>
@@ -20,7 +20,7 @@
 🟣 [fix: replace npm install with direct tarball replacement](https://github.com/project-copacetic/copacetic/pull/1479) - 2026-03-06<br>
 🟣 [feat: add demo recordings and asciinema player to website](https://github.com/project-copacetic/copacetic/pull/1453) - 2026-02-26<br>
 
-*Last updated: 2026-04-14 00:54 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2026-04-15 00:55 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2026-04-14 00:54 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2026-04-15 00:55 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [openclaw/openclaw](https://github.com/openclaw/openclaw) - 2026-04-14 (0 days ago)<br>
-⭐ [ollama/ollama](https://github.com/ollama/ollama) - 2026-04-14 (0 days ago)<br>
-⭐ [github/copilot-cli](https://github.com/github/copilot-cli) - 2026-04-13 (0 days ago)<br>
-⭐ [containerd/nerdctl](https://github.com/containerd/nerdctl) - 2026-04-13 (0 days ago)<br>
-⭐ [TransformerLensOrg/TransformerLens](https://github.com/TransformerLensOrg/TransformerLens) - 2026-04-13 (0 days ago)<br>
-⭐ [microsoft/skills](https://github.com/microsoft/skills) - 2026-04-13 (0 days ago)<br>
-⭐ [decoderesearch/SAELens](https://github.com/decoderesearch/SAELens) - 2026-04-13 (0 days ago)<br>
-⭐ [dragonflyoss/nydus](https://github.com/dragonflyoss/nydus) - 2026-04-13 (0 days ago)<br>
-⭐ [swarnim-j/grove](https://github.com/swarnim-j/grove) - 2026-04-12 (1 day ago)<br>
-⭐ [project-copacetic/mcp-server](https://github.com/project-copacetic/mcp-server) - 2026-03-12 (32 days ago)<br>
+⭐ [openclaw/openclaw](https://github.com/openclaw/openclaw) - 2026-04-15 (0 days ago)<br>
+⭐ [ollama/ollama](https://github.com/ollama/ollama) - 2026-04-15 (0 days ago)<br>
+⭐ [TransformerLensOrg/TransformerLens](https://github.com/TransformerLensOrg/TransformerLens) - 2026-04-15 (0 days ago)<br>
+⭐ [microsoft/skills](https://github.com/microsoft/skills) - 2026-04-15 (0 days ago)<br>
+⭐ [containerd/nerdctl](https://github.com/containerd/nerdctl) - 2026-04-14 (0 days ago)<br>
+⭐ [github/copilot-cli](https://github.com/github/copilot-cli) - 2026-04-14 (0 days ago)<br>
+⭐ [swarnim-j/grove](https://github.com/swarnim-j/grove) - 2026-04-14 (0 days ago)<br>
+⭐ [decoderesearch/SAELens](https://github.com/decoderesearch/SAELens) - 2026-04-14 (0 days ago)<br>
+⭐ [dragonflyoss/nydus](https://github.com/dragonflyoss/nydus) - 2026-04-14 (0 days ago)<br>
+⭐ [project-copacetic/mcp-server](https://github.com/project-copacetic/mcp-server) - 2026-03-12 (33 days ago)<br>
 
-*Last updated: 2026-04-14 00:54 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2026-04-15 00:55 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
