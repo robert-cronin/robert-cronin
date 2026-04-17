@@ -9,7 +9,7 @@
 
 🟢 Open | 🟣 Merged
 
-🟢 [fix: go patching log levels](https://github.com/project-copacetic/copacetic/pull/1516) - 2026-04-15<br>
+🟢 [fix: go patching log levels](https://github.com/project-copacetic/copacetic/pull/1516) - 2026-04-16<br>
 🟢 [fix: filter existing PVCs by deployment namespace](https://github.com/kaito-project/airunway/pull/225) - 2026-04-15<br>
 🟢 [fix: prevent provider crash-loop when backend CRDs are not installed](https://github.com/kaito-project/airunway/pull/224) - 2026-04-15<br>
 🟢 [Add Playwright e2e tests for frontend UI](https://github.com/kaito-project/airunway/pull/186) - 2026-04-14<br>
@@ -20,7 +20,7 @@
 🟣 [fix: replace npm install with direct tarball replacement](https://github.com/project-copacetic/copacetic/pull/1479) - 2026-03-06<br>
 🟣 [feat: add demo recordings and asciinema player to website](https://github.com/project-copacetic/copacetic/pull/1453) - 2026-02-26<br>
 
-*Last updated: 2026-04-16 00:56 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2026-04-17 00:54 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2026-04-16 00:56 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2026-04-17 00:54 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [openclaw/openclaw](https://github.com/openclaw/openclaw) - 2026-04-16 (0 days ago)<br>
-⭐ [github/copilot-cli](https://github.com/github/copilot-cli) - 2026-04-16 (0 days ago)<br>
-⭐ [ollama/ollama](https://github.com/ollama/ollama) - 2026-04-16 (0 days ago)<br>
-⭐ [dragonflyoss/nydus](https://github.com/dragonflyoss/nydus) - 2026-04-15 (0 days ago)<br>
-⭐ [microsoft/skills](https://github.com/microsoft/skills) - 2026-04-15 (0 days ago)<br>
-⭐ [containerd/nerdctl](https://github.com/containerd/nerdctl) - 2026-04-15 (0 days ago)<br>
-⭐ [TransformerLensOrg/TransformerLens](https://github.com/TransformerLensOrg/TransformerLens) - 2026-04-15 (0 days ago)<br>
-⭐ [decoderesearch/SAELens](https://github.com/decoderesearch/SAELens) - 2026-04-15 (0 days ago)<br>
-⭐ [swarnim-j/grove](https://github.com/swarnim-j/grove) - 2026-04-14 (1 day ago)<br>
-⭐ [project-copacetic/mcp-server](https://github.com/project-copacetic/mcp-server) - 2026-03-12 (34 days ago)<br>
+⭐ [ollama/ollama](https://github.com/ollama/ollama) - 2026-04-17 (0 days ago)<br>
+⭐ [openclaw/openclaw](https://github.com/openclaw/openclaw) - 2026-04-17 (0 days ago)<br>
+⭐ [github/copilot-cli](https://github.com/github/copilot-cli) - 2026-04-17 (0 days ago)<br>
+⭐ [microsoft/skills](https://github.com/microsoft/skills) - 2026-04-16 (0 days ago)<br>
+⭐ [TransformerLensOrg/TransformerLens](https://github.com/TransformerLensOrg/TransformerLens) - 2026-04-16 (0 days ago)<br>
+⭐ [decoderesearch/SAELens](https://github.com/decoderesearch/SAELens) - 2026-04-16 (0 days ago)<br>
+⭐ [dragonflyoss/nydus](https://github.com/dragonflyoss/nydus) - 2026-04-16 (0 days ago)<br>
+⭐ [containerd/nerdctl](https://github.com/containerd/nerdctl) - 2026-04-16 (0 days ago)<br>
+⭐ [swarnim-j/grove](https://github.com/swarnim-j/grove) - 2026-04-14 (2 days ago)<br>
+⭐ [project-copacetic/mcp-server](https://github.com/project-copacetic/mcp-server) - 2026-03-12 (35 days ago)<br>
 
-*Last updated: 2026-04-16 00:56 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2026-04-17 00:54 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
