@@ -20,7 +20,7 @@
 🟢 [feat: add NVIDIA MIG support for BYO nodes (#1744)](https://github.com/kaito-project/kaito/pull/1823) - 2026-04-01<br>
 🟢 [docs: restore num_gpu as a valid Modelfile parameter](https://github.com/ollama/ollama/pull/14078) - 2026-02-19<br>
 
-*Last updated: 2026-04-26 00:58 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2026-04-27 00:58 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2026-04-26 00:58 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2026-04-27 00:58 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [openclaw/openclaw](https://github.com/openclaw/openclaw) - 2026-04-26 (0 days ago)<br>
-⭐ [ollama/ollama](https://github.com/ollama/ollama) - 2026-04-26 (0 days ago)<br>
+⭐ [openclaw/openclaw](https://github.com/openclaw/openclaw) - 2026-04-27 (0 days ago)<br>
+⭐ [github/copilot-cli](https://github.com/github/copilot-cli) - 2026-04-27 (0 days ago)<br>
+⭐ [ollama/ollama](https://github.com/ollama/ollama) - 2026-04-27 (0 days ago)<br>
 ⭐ [microsoft/skills](https://github.com/microsoft/skills) - 2026-04-26 (0 days ago)<br>
-⭐ [github/copilot-cli](https://github.com/github/copilot-cli) - 2026-04-25 (0 days ago)<br>
-⭐ [containerd/nerdctl](https://github.com/containerd/nerdctl) - 2026-04-25 (0 days ago)<br>
-⭐ [TransformerLensOrg/TransformerLens](https://github.com/TransformerLensOrg/TransformerLens) - 2026-04-25 (0 days ago)<br>
-⭐ [decoderesearch/SAELens](https://github.com/decoderesearch/SAELens) - 2026-04-25 (0 days ago)<br>
-⭐ [dragonflyoss/nydus](https://github.com/dragonflyoss/nydus) - 2026-04-24 (1 day ago)<br>
-⭐ [swarnim-j/grove](https://github.com/swarnim-j/grove) - 2026-04-14 (11 days ago)<br>
-⭐ [project-copacetic/mcp-server](https://github.com/project-copacetic/mcp-server) - 2026-03-12 (44 days ago)<br>
+⭐ [dragonflyoss/nydus](https://github.com/dragonflyoss/nydus) - 2026-04-26 (0 days ago)<br>
+⭐ [TransformerLensOrg/TransformerLens](https://github.com/TransformerLensOrg/TransformerLens) - 2026-04-26 (0 days ago)<br>
+⭐ [decoderesearch/SAELens](https://github.com/decoderesearch/SAELens) - 2026-04-26 (0 days ago)<br>
+⭐ [containerd/nerdctl](https://github.com/containerd/nerdctl) - 2026-04-26 (0 days ago)<br>
+⭐ [swarnim-j/grove](https://github.com/swarnim-j/grove) - 2026-04-14 (12 days ago)<br>
+⭐ [project-copacetic/mcp-server](https://github.com/project-copacetic/mcp-server) - 2026-03-12 (45 days ago)<br>
 
-*Last updated: 2026-04-26 00:58 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2026-04-27 00:58 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
