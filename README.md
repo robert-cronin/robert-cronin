@@ -9,9 +9,9 @@
 
 🟢 Open | 🟣 Merged
 
+🟢 [fix: filter existing PVCs by deployment namespace](https://github.com/kaito-project/airunway/pull/225) - 2026-05-10<br>
 🟣 [feat(ui): add gateway routing toggle to deployment form](https://github.com/kaito-project/airunway/pull/252) - 2026-05-08<br>
 🟣 [fix(kaito): finalize ModelDeployment when upstream CRD is missing](https://github.com/kaito-project/airunway/pull/267) - 2026-05-08<br>
-🟢 [fix: filter existing PVCs by deployment namespace](https://github.com/kaito-project/airunway/pull/225) - 2026-05-07<br>
 🟣 [docs: document private registry app patching limitation](https://github.com/project-copacetic/copacetic/pull/1595) - 2026-05-06<br>
 🟢 [security: harden API, webhook, CI, and agent instructions](https://github.com/kaito-project/airunway/pull/206) - 2026-05-06<br>
 🟣 [docs(adopters): add Verity to Copa CLI adopters](https://github.com/project-copacetic/copacetic/pull/1583) - 2026-05-04<br>
@@ -20,7 +20,7 @@
 🟢 [docs: restore num_gpu as a valid Modelfile parameter](https://github.com/ollama/ollama/pull/14078) - 2026-02-19<br>
 🟢 [feat: add new flags and UI controls for v0.12.0 features](https://github.com/project-copacetic/copa-extension/pull/88) - 2025-11-05<br>
 
-*Last updated: 2026-05-10 01:05 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2026-05-11 01:05 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2026-05-10 01:05 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2026-05-11 01:05 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [openclaw/openclaw](https://github.com/openclaw/openclaw) - 2026-05-10 (0 days ago)<br>
-⭐ [ollama/ollama](https://github.com/ollama/ollama) - 2026-05-10 (0 days ago)<br>
-⭐ [github/gh-aw](https://github.com/github/gh-aw) - 2026-05-10 (0 days ago)<br>
-⭐ [microsoft/skills](https://github.com/microsoft/skills) - 2026-05-09 (0 days ago)<br>
-⭐ [TransformerLensOrg/TransformerLens](https://github.com/TransformerLensOrg/TransformerLens) - 2026-05-09 (0 days ago)<br>
-⭐ [sozercan/vekil](https://github.com/sozercan/vekil) - 2026-05-09 (0 days ago)<br>
-⭐ [decoderesearch/SAELens](https://github.com/decoderesearch/SAELens) - 2026-05-08 (1 day ago)<br>
-⭐ [ai-dynamo/modelexpress](https://github.com/ai-dynamo/modelexpress) - 2026-05-07 (2 days ago)<br>
-⭐ [swarnim-j/grove](https://github.com/swarnim-j/grove) - 2026-05-02 (7 days ago)<br>
-⭐ [project-copacetic/mcp-server](https://github.com/project-copacetic/mcp-server) - 2026-03-12 (58 days ago)<br>
+⭐ [openclaw/openclaw](https://github.com/openclaw/openclaw) - 2026-05-11 (0 days ago)<br>
+⭐ [ollama/ollama](https://github.com/ollama/ollama) - 2026-05-11 (0 days ago)<br>
+⭐ [github/gh-aw](https://github.com/github/gh-aw) - 2026-05-11 (0 days ago)<br>
+⭐ [microsoft/skills](https://github.com/microsoft/skills) - 2026-05-10 (0 days ago)<br>
+⭐ [TransformerLensOrg/TransformerLens](https://github.com/TransformerLensOrg/TransformerLens) - 2026-05-10 (0 days ago)<br>
+⭐ [sozercan/vekil](https://github.com/sozercan/vekil) - 2026-05-09 (1 day ago)<br>
+⭐ [decoderesearch/SAELens](https://github.com/decoderesearch/SAELens) - 2026-05-08 (2 days ago)<br>
+⭐ [ai-dynamo/modelexpress](https://github.com/ai-dynamo/modelexpress) - 2026-05-07 (3 days ago)<br>
+⭐ [swarnim-j/grove](https://github.com/swarnim-j/grove) - 2026-05-02 (8 days ago)<br>
+⭐ [project-copacetic/mcp-server](https://github.com/project-copacetic/mcp-server) - 2026-03-12 (59 days ago)<br>
 
-*Last updated: 2026-05-10 01:05 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2026-05-11 01:05 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
