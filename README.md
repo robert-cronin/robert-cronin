@@ -9,18 +9,18 @@
 
 🟢 Open | 🟣 Merged
 
+🟢 [feat(api): add AgentDeployment and AgentProviderConfig CRDs (#200)](https://github.com/kaito-project/airunway/pull/287) - 2026-05-19<br>
 🟣 [security: harden API, webhook, CI, and agent instructions](https://github.com/kaito-project/airunway/pull/206) - 2026-05-16<br>
 🟣 [fix: cherry pick #1605](https://github.com/project-copacetic/copacetic/pull/1609) - 2026-05-15<br>
 🟣 [fix: cherry pick fixes for v0.14.1](https://github.com/project-copacetic/copacetic/pull/1607) - 2026-05-13<br>
 🟣 [fix(ui): prevent manifest copy from submitting deploy form](https://github.com/kaito-project/airunway/pull/277) - 2026-05-11<br>
 🟣 [fix: filter existing PVCs by deployment namespace](https://github.com/kaito-project/airunway/pull/225) - 2026-05-11<br>
-🟣 [feat(ui): add gateway routing toggle to deployment form](https://github.com/kaito-project/airunway/pull/252) - 2026-05-08<br>
 🟢 [feat: add NVIDIA MIG support for BYO nodes (#1744)](https://github.com/kaito-project/kaito/pull/1823) - 2026-04-01<br>
 🟢 [docs: restore num_gpu as a valid Modelfile parameter](https://github.com/ollama/ollama/pull/14078) - 2026-02-19<br>
 🟢 [feat: add new flags and UI controls for v0.12.0 features](https://github.com/project-copacetic/copa-extension/pull/88) - 2025-11-05<br>
 🟢 [Refactor to Golang](https://github.com/sozercan/guac-ai-mole/pull/12) - 2025-05-15<br>
 
-*Last updated: 2026-05-19 01:07 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2026-05-20 01:09 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2026-05-19 01:07 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2026-05-20 01:09 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [github/gh-aw](https://github.com/github/gh-aw) - 2026-05-19 (0 days ago)<br>
-⭐ [openclaw/openclaw](https://github.com/openclaw/openclaw) - 2026-05-19 (0 days ago)<br>
-⭐ [ollama/ollama](https://github.com/ollama/ollama) - 2026-05-19 (0 days ago)<br>
-⭐ [microsoft/skills](https://github.com/microsoft/skills) - 2026-05-19 (0 days ago)<br>
-⭐ [sozercan/vekil](https://github.com/sozercan/vekil) - 2026-05-18 (0 days ago)<br>
-⭐ [decoderesearch/SAELens](https://github.com/decoderesearch/SAELens) - 2026-05-18 (0 days ago)<br>
-⭐ [ai-dynamo/modelexpress](https://github.com/ai-dynamo/modelexpress) - 2026-05-18 (0 days ago)<br>
-⭐ [TransformerLensOrg/TransformerLens](https://github.com/TransformerLensOrg/TransformerLens) - 2026-05-18 (0 days ago)<br>
-⭐ [swarnim-j/grove](https://github.com/swarnim-j/grove) - 2026-05-02 (16 days ago)<br>
-⭐ [project-copacetic/mcp-server](https://github.com/project-copacetic/mcp-server) - 2026-03-12 (67 days ago)<br>
+⭐ [github/gh-aw](https://github.com/github/gh-aw) - 2026-05-20 (0 days ago)<br>
+⭐ [openclaw/openclaw](https://github.com/openclaw/openclaw) - 2026-05-20 (0 days ago)<br>
+⭐ [microsoft/skills](https://github.com/microsoft/skills) - 2026-05-20 (0 days ago)<br>
+⭐ [aramase/kontxt](https://github.com/aramase/kontxt) - 2026-05-19 (0 days ago)<br>
+⭐ [TransformerLensOrg/TransformerLens](https://github.com/TransformerLensOrg/TransformerLens) - 2026-05-19 (0 days ago)<br>
+⭐ [ai-dynamo/modelexpress](https://github.com/ai-dynamo/modelexpress) - 2026-05-19 (0 days ago)<br>
+⭐ [decoderesearch/SAELens](https://github.com/decoderesearch/SAELens) - 2026-05-19 (0 days ago)<br>
+⭐ [sozercan/vekil](https://github.com/sozercan/vekil) - 2026-05-18 (1 day ago)<br>
+⭐ [swarnim-j/grove](https://github.com/swarnim-j/grove) - 2026-05-02 (17 days ago)<br>
+⭐ [project-copacetic/mcp-server](https://github.com/project-copacetic/mcp-server) - 2026-03-12 (68 days ago)<br>
 
-*Last updated: 2026-05-19 01:07 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2026-05-20 01:09 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
