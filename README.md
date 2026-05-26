@@ -20,7 +20,7 @@
 🟢 [feat: add new flags and UI controls for v0.12.0 features](https://github.com/project-copacetic/copa-extension/pull/88) - 2025-11-05<br>
 🟢 [Refactor to Golang](https://github.com/sozercan/guac-ai-mole/pull/12) - 2025-05-15<br>
 
-*Last updated: 2026-05-25 01:11 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2026-05-26 01:06 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2026-05-25 01:11 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2026-05-26 01:06 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [openclaw/openclaw](https://github.com/openclaw/openclaw) - 2026-05-25 (0 days ago)<br>
-⭐ [github/gh-aw](https://github.com/github/gh-aw) - 2026-05-25 (0 days ago)<br>
-⭐ [TransformerLensOrg/TransformerLens](https://github.com/TransformerLensOrg/TransformerLens) - 2026-05-24 (0 days ago)<br>
-⭐ [decoderesearch/SAELens](https://github.com/decoderesearch/SAELens) - 2026-05-24 (0 days ago)<br>
-⭐ [ai-dynamo/modelexpress](https://github.com/ai-dynamo/modelexpress) - 2026-05-24 (0 days ago)<br>
-⭐ [sozercan/orka](https://github.com/sozercan/orka) - 2026-05-21 (3 days ago)<br>
-⭐ [sozercan/vekil](https://github.com/sozercan/vekil) - 2026-05-21 (3 days ago)<br>
-⭐ [aramase/kontxt](https://github.com/aramase/kontxt) - 2026-05-20 (4 days ago)<br>
-⭐ [swarnim-j/grove](https://github.com/swarnim-j/grove) - 2026-05-02 (22 days ago)<br>
-⭐ [project-copacetic/mcp-server](https://github.com/project-copacetic/mcp-server) - 2026-03-12 (73 days ago)<br>
+⭐ [openclaw/openclaw](https://github.com/openclaw/openclaw) - 2026-05-26 (0 days ago)<br>
+⭐ [github/gh-aw](https://github.com/github/gh-aw) - 2026-05-26 (0 days ago)<br>
+⭐ [TransformerLensOrg/TransformerLens](https://github.com/TransformerLensOrg/TransformerLens) - 2026-05-25 (0 days ago)<br>
+⭐ [decoderesearch/SAELens](https://github.com/decoderesearch/SAELens) - 2026-05-24 (1 day ago)<br>
+⭐ [ai-dynamo/modelexpress](https://github.com/ai-dynamo/modelexpress) - 2026-05-24 (1 day ago)<br>
+⭐ [sozercan/orka](https://github.com/sozercan/orka) - 2026-05-21 (4 days ago)<br>
+⭐ [sozercan/vekil](https://github.com/sozercan/vekil) - 2026-05-21 (4 days ago)<br>
+⭐ [aramase/kontxt](https://github.com/aramase/kontxt) - 2026-05-20 (5 days ago)<br>
+⭐ [swarnim-j/grove](https://github.com/swarnim-j/grove) - 2026-05-02 (23 days ago)<br>
+⭐ [project-copacetic/mcp-server](https://github.com/project-copacetic/mcp-server) - 2026-03-12 (74 days ago)<br>
 
-*Last updated: 2026-05-25 01:11 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2026-05-26 01:06 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
