@@ -9,7 +9,7 @@
 
 🟢 Open | 🟣 Merged
 
-🟢 [feat(api): add AgentDeployment and AgentProviderConfig CRDs (#200)](https://github.com/kaito-project/airunway/pull/287) - 2026-06-11<br>
+🟢 [feat(api): add AgentDeployment and AgentProviderConfig CRDs (#200)](https://github.com/kaito-project/airunway/pull/287) - 2026-06-12<br>
 🟢 [fix(ui): distinguish AI Runway integration from runtime install status](https://github.com/kaito-project/airunway/pull/294) - 2026-06-11<br>
 🟣 [fix(test/e2e): allowlist known transitive CVEs in nodejs patch verification](https://github.com/project-copacetic/copacetic/pull/1622) - 2026-06-10<br>
 🟣 [feat(website): docusaurus site published from /docs](https://github.com/kaito-project/airunway/pull/310) - 2026-06-05<br>
@@ -20,7 +20,7 @@
 🟢 [docs: restore num_gpu as a valid Modelfile parameter](https://github.com/ollama/ollama/pull/14078) - 2026-02-19<br>
 🟢 [feat: add new flags and UI controls for v0.12.0 features](https://github.com/project-copacetic/copa-extension/pull/88) - 2025-11-05<br>
 
-*Last updated: 2026-06-12 01:18 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2026-06-13 01:16 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2026-06-12 01:18 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2026-06-13 01:16 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [openclaw/openclaw](https://github.com/openclaw/openclaw) - 2026-06-12 (0 days ago)<br>
-⭐ [github/gh-aw](https://github.com/github/gh-aw) - 2026-06-12 (0 days ago)<br>
+⭐ [openclaw/openclaw](https://github.com/openclaw/openclaw) - 2026-06-13 (0 days ago)<br>
+⭐ [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - 2026-06-13 (0 days ago)<br>
+⭐ [github/gh-aw](https://github.com/github/gh-aw) - 2026-06-13 (0 days ago)<br>
 ⭐ [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) - 2026-06-12 (0 days ago)<br>
-⭐ [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - 2026-06-12 (0 days ago)<br>
-⭐ [aramase/kontxt](https://github.com/aramase/kontxt) - 2026-06-11 (0 days ago)<br>
-⭐ [ai-dynamo/modelexpress](https://github.com/ai-dynamo/modelexpress) - 2026-06-11 (0 days ago)<br>
-⭐ [sozercan/orka](https://github.com/sozercan/orka) - 2026-06-11 (0 days ago)<br>
-⭐ [decoderesearch/SAELens](https://github.com/decoderesearch/SAELens) - 2026-06-09 (2 days ago)<br>
-⭐ [sozercan/vekil](https://github.com/sozercan/vekil) - 2026-05-31 (11 days ago)<br>
-⭐ [swarnim-j/grove](https://github.com/swarnim-j/grove) - 2026-05-29 (13 days ago)<br>
+⭐ [decoderesearch/SAELens](https://github.com/decoderesearch/SAELens) - 2026-06-12 (0 days ago)<br>
+⭐ [ai-dynamo/modelexpress](https://github.com/ai-dynamo/modelexpress) - 2026-06-12 (0 days ago)<br>
+⭐ [sozercan/orka](https://github.com/sozercan/orka) - 2026-06-12 (0 days ago)<br>
+⭐ [aramase/kontxt](https://github.com/aramase/kontxt) - 2026-06-11 (1 day ago)<br>
+⭐ [sozercan/vekil](https://github.com/sozercan/vekil) - 2026-05-31 (12 days ago)<br>
+⭐ [swarnim-j/grove](https://github.com/swarnim-j/grove) - 2026-05-29 (14 days ago)<br>
 
-*Last updated: 2026-06-12 01:18 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2026-06-13 01:16 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
