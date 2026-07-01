@@ -9,6 +9,8 @@
 
 🟢 Open | 🟣 Merged
 
+🟢 [[Doc] add AI Runway to integrations](https://github.com/vllm-project/vllm/pull/47227) - 2026-07-01<br>
+🟢 [feat: add NVIDIA MIG support for BYO nodes (#1744)](https://github.com/kaito-project/kaito/pull/1823) - 2026-07-01<br>
 🟣 [fix(providers): refresh status message when ModelDeployment reaches Running](https://github.com/kaito-project/airunway/pull/326) - 2026-06-23<br>
 🟢 [feat(api): add AgentDeployment and AgentProviderConfig CRDs (#200)](https://github.com/kaito-project/airunway/pull/287) - 2026-06-19<br>
 🟢 [fix(ui): distinguish AI Runway integration from runtime install status](https://github.com/kaito-project/airunway/pull/294) - 2026-06-11<br>
@@ -16,11 +18,9 @@
 🟣 [feat(website): docusaurus site published from /docs](https://github.com/kaito-project/airunway/pull/310) - 2026-06-05<br>
 🟣 [fix(release): regressions in dockerfiles](https://github.com/kaito-project/airunway/pull/302) - 2026-05-29<br>
 🟣 [security: harden API, webhook, CI, and agent instructions](https://github.com/kaito-project/airunway/pull/206) - 2026-05-16<br>
-🟢 [feat: add NVIDIA MIG support for BYO nodes (#1744)](https://github.com/kaito-project/kaito/pull/1823) - 2026-04-01<br>
 🟢 [docs: restore num_gpu as a valid Modelfile parameter](https://github.com/ollama/ollama/pull/14078) - 2026-02-19<br>
-🟢 [feat: add new flags and UI controls for v0.12.0 features](https://github.com/project-copacetic/copa-extension/pull/88) - 2025-11-05<br>
 
-*Last updated: 2026-06-30 01:08 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2026-07-01 01:13 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2026-06-30 01:08 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2026-07-01 01:13 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [github/gh-aw](https://github.com/github/gh-aw) - 2026-06-30 (0 days ago)<br>
-⭐ [openclaw/openclaw](https://github.com/openclaw/openclaw) - 2026-06-30 (0 days ago)<br>
-⭐ [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) - 2026-06-29 (0 days ago)<br>
-⭐ [ai-dynamo/modelexpress](https://github.com/ai-dynamo/modelexpress) - 2026-06-29 (0 days ago)<br>
-⭐ [decoderesearch/SAELens](https://github.com/decoderesearch/SAELens) - 2026-06-29 (0 days ago)<br>
-⭐ [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - 2026-06-29 (0 days ago)<br>
-⭐ [sozercan/orka](https://github.com/sozercan/orka) - 2026-06-29 (0 days ago)<br>
-⭐ [sozercan/vekil](https://github.com/sozercan/vekil) - 2026-06-28 (1 day ago)<br>
-⭐ [swarnim-j/grove](https://github.com/swarnim-j/grove) - 2026-06-22 (7 days ago)<br>
-⭐ [aramase/kontxt](https://github.com/aramase/kontxt) - 2026-06-19 (10 days ago)<br>
+⭐ [openclaw/openclaw](https://github.com/openclaw/openclaw) - 2026-07-01 (0 days ago)<br>
+⭐ [github/gh-aw](https://github.com/github/gh-aw) - 2026-07-01 (0 days ago)<br>
+⭐ [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - 2026-07-01 (0 days ago)<br>
+⭐ [ai-dynamo/modelexpress](https://github.com/ai-dynamo/modelexpress) - 2026-06-30 (0 days ago)<br>
+⭐ [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) - 2026-06-30 (0 days ago)<br>
+⭐ [decoderesearch/SAELens](https://github.com/decoderesearch/SAELens) - 2026-06-30 (0 days ago)<br>
+⭐ [sozercan/vekil](https://github.com/sozercan/vekil) - 2026-06-30 (0 days ago)<br>
+⭐ [sozercan/orka](https://github.com/sozercan/orka) - 2026-06-29 (1 day ago)<br>
+⭐ [swarnim-j/grove](https://github.com/swarnim-j/grove) - 2026-06-22 (8 days ago)<br>
+⭐ [aramase/kontxt](https://github.com/aramase/kontxt) - 2026-06-19 (11 days ago)<br>
 
-*Last updated: 2026-06-30 01:08 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2026-07-01 01:13 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
