@@ -9,10 +9,10 @@
 
 🟢 Open | 🟣 Merged
 
+🟢 [fix(gateway): stop restarting shared BBR on each new ModelDeployment](https://github.com/ai-runway/airunway/pull/370) - 2026-08-05<br>
+🟢 [feat(agent-marketplace): v1alpha1 API and proof-of-concept controller (#200)](https://github.com/ai-runway/airunway/pull/287) - 2026-08-05<br>
 🟢 [fix(providers): reject unknown upstream fields instead of pruning them silently](https://github.com/ai-runway/airunway/pull/371) - 2026-08-05<br>
-🟢 [feat(agent-marketplace): v1alpha1 API and proof-of-concept controller (#200)](https://github.com/ai-runway/airunway/pull/287) - 2026-08-04<br>
 🟢 [fix(ui): distinguish AI Runway integration from runtime install status](https://github.com/ai-runway/airunway/pull/294) - 2026-08-03<br>
-🟢 [fix(gateway): stop restarting shared BBR on each new ModelDeployment](https://github.com/ai-runway/airunway/pull/370) - 2026-07-30<br>
 🟣 [ci: use ubuntu-latest for e2e jobs](https://github.com/ai-runway/airunway/pull/363) - 2026-07-22<br>
 🟢 [[Doc] add AI Runway to integrations](https://github.com/vllm-project/vllm/pull/47227) - 2026-07-01<br>
 🟣 [fix(providers): refresh status message when ModelDeployment reaches Running](https://github.com/ai-runway/airunway/pull/326) - 2026-06-23<br>
@@ -20,7 +20,7 @@
 🟣 [feat(website): docusaurus site published from /docs](https://github.com/ai-runway/airunway/pull/310) - 2026-06-05<br>
 🟣 [fix(release): regressions in dockerfiles](https://github.com/ai-runway/airunway/pull/302) - 2026-05-29<br>
 
-*Last updated: 2026-08-05 00:43 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2026-08-06 03:16 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2026-08-05 00:43 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2026-08-06 03:16 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [openclaw/openclaw](https://github.com/openclaw/openclaw) - 2026-08-05 (0 days ago)<br>
-⭐ [github/gh-aw](https://github.com/github/gh-aw) - 2026-08-05 (0 days ago)<br>
-⭐ [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - 2026-08-05 (0 days ago)<br>
-⭐ [ai-dynamo/modelexpress](https://github.com/ai-dynamo/modelexpress) - 2026-08-04 (0 days ago)<br>
-⭐ [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) - 2026-08-04 (0 days ago)<br>
-⭐ [decoderesearch/SAELens](https://github.com/decoderesearch/SAELens) - 2026-08-04 (0 days ago)<br>
-⭐ [orka-agents/orka](https://github.com/orka-agents/orka) - 2026-08-04 (0 days ago)<br>
-⭐ [sozercan/vekil](https://github.com/sozercan/vekil) - 2026-08-03 (1 day ago)<br>
-⭐ [aramase/kontxt](https://github.com/aramase/kontxt) - 2026-07-31 (4 days ago)<br>
-⭐ [swarnim-j/grove](https://github.com/swarnim-j/grove) - 2026-07-27 (8 days ago)<br>
+⭐ [openclaw/openclaw](https://github.com/openclaw/openclaw) - 2026-08-06 (0 days ago)<br>
+⭐ [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - 2026-08-06 (0 days ago)<br>
+⭐ [github/gh-aw](https://github.com/github/gh-aw) - 2026-08-06 (0 days ago)<br>
+⭐ [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) - 2026-08-06 (0 days ago)<br>
+⭐ [ai-dynamo/modelexpress](https://github.com/ai-dynamo/modelexpress) - 2026-08-05 (0 days ago)<br>
+⭐ [decoderesearch/SAELens](https://github.com/decoderesearch/SAELens) - 2026-08-05 (0 days ago)<br>
+⭐ [orka-agents/orka](https://github.com/orka-agents/orka) - 2026-08-04 (1 day ago)<br>
+⭐ [sozercan/vekil](https://github.com/sozercan/vekil) - 2026-08-03 (2 days ago)<br>
+⭐ [aramase/kontxt](https://github.com/aramase/kontxt) - 2026-07-31 (5 days ago)<br>
+⭐ [swarnim-j/grove](https://github.com/swarnim-j/grove) - 2026-07-27 (9 days ago)<br>
 
-*Last updated: 2026-08-05 00:43 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2026-08-06 03:16 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
