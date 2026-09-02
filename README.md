@@ -9,18 +9,18 @@
 
 🟢 Open | 🟣 Merged
 
-🟢 [erofs: enable fsview fallback for unsupported features](https://github.com/containerd/containerd/pull/14077) - 2026-09-01<br>
-🟢 [feat(agent-marketplace): add v1alpha1 API, controllers, and runtime images](https://github.com/ai-runway/airunway/pull/287) - 2026-08-31<br>
+🟢 [feat(storage): add first-class PVC support to ModelDeployment](https://github.com/ai-runway/airunway/pull/410) - 2026-09-02<br>
+🟣 [erofs: enable fsview fallback for unsupported features](https://github.com/containerd/containerd/pull/14077) - 2026-09-02<br>
+🟢 [test(ci): strengthen deterministic checks and coverage reporting](https://github.com/ai-runway/airunway/pull/386) - 2026-09-01<br>
+🟢 [fix(ui): distinguish AI Runway integration from runtime install status](https://github.com/ai-runway/airunway/pull/294) - 2026-09-01<br>
+🟣 [feat(agent-marketplace): add v1alpha1 API, controllers, and runtime images](https://github.com/ai-runway/airunway/pull/287) - 2026-09-01<br>
 🟢 [fix: prevent Buildx dial hang with Docker host override](https://github.com/project-copacetic/copacetic/pull/1686) - 2026-08-31<br>
 🟢 [feat: support OCI image layouts as patch input](https://github.com/project-copacetic/copacetic/pull/1688) - 2026-08-31<br>
-🟢 [test(ci): strengthen deterministic checks and coverage reporting](https://github.com/ai-runway/airunway/pull/386) - 2026-08-31<br>
 🟣 [fix(providers): reject unknown upstream fields instead of pruning them silently](https://github.com/ai-runway/airunway/pull/371) - 2026-08-07<br>
 🟣 [fix(gateway): stop restarting shared BBR on each new ModelDeployment](https://github.com/ai-runway/airunway/pull/370) - 2026-08-06<br>
 🟣 [ci: use ubuntu-latest for e2e jobs](https://github.com/ai-runway/airunway/pull/363) - 2026-07-22<br>
-🟣 [fix(providers): refresh status message when ModelDeployment reaches Running](https://github.com/ai-runway/airunway/pull/326) - 2026-06-23<br>
-🟣 [fix(test/e2e): allowlist known transitive CVEs in nodejs patch verification](https://github.com/project-copacetic/copacetic/pull/1622) - 2026-06-10<br>
 
-*Last updated: 2026-09-01 04:39 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2026-09-02 04:01 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2026-09-01 04:39 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2026-09-02 04:01 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [omacom/omarchy](https://github.com/omacom/omarchy) - 2026-09-01 (0 days ago)<br>
-⭐ [mattpocock/skills](https://github.com/mattpocock/skills) - 2026-09-01 (0 days ago)<br>
-⭐ [sgl-project/sglang](https://github.com/sgl-project/sglang) - 2026-09-01 (0 days ago)<br>
-⭐ [sozercan/kaset](https://github.com/sozercan/kaset) - 2026-09-01 (0 days ago)<br>
-⭐ [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) - 2026-09-01 (0 days ago)<br>
-⭐ [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) - 2026-09-01 (0 days ago)<br>
-⭐ [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - 2026-09-01 (0 days ago)<br>
-⭐ [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) - 2026-09-01 (0 days ago)<br>
-⭐ [erofs/erofs-image-spec](https://github.com/erofs/erofs-image-spec) - 2026-08-30 (1 day ago)<br>
-⭐ [eraser-dev/eraser](https://github.com/eraser-dev/eraser) - 2026-08-30 (1 day ago)<br>
+⭐ [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - 2026-09-02 (0 days ago)<br>
+⭐ [omacom/omarchy](https://github.com/omacom/omarchy) - 2026-09-02 (0 days ago)<br>
+⭐ [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) - 2026-09-02 (0 days ago)<br>
+⭐ [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) - 2026-09-02 (0 days ago)<br>
+⭐ [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - 2026-09-02 (0 days ago)<br>
+⭐ [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake) - 2026-09-02 (0 days ago)<br>
+⭐ [radixark/miles](https://github.com/radixark/miles) - 2026-09-02 (0 days ago)<br>
+⭐ [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) - 2026-09-02 (0 days ago)<br>
+⭐ [run-ai/runai-model-streamer](https://github.com/run-ai/runai-model-streamer) - 2026-09-01 (0 days ago)<br>
+⭐ [foundation-model-stack/fastsafetensors](https://github.com/foundation-model-stack/fastsafetensors) - 2026-09-01 (0 days ago)<br>
 
-*Last updated: 2026-09-01 04:39 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2026-09-02 04:01 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
