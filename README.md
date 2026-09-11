@@ -9,18 +9,18 @@
 
 🟢 Open | 🟣 Merged
 
+🟢 [fix: preserve package manager errors and restore CI coverage](https://github.com/project-copacetic/copacetic/pull/1712) - 2026-09-11<br>
 🟣 [fix(ui): distinguish AI Runway integration from runtime install status](https://github.com/ai-runway/airunway/pull/294) - 2026-09-09<br>
 🟢 [perf: reduce Go discovery and .NET metadata subprocesses](https://github.com/project-copacetic/copacetic/pull/1705) - 2026-09-09<br>
 🟣 [chore: include gRPC 1.83.1 in v0.15.0](https://github.com/project-copacetic/copacetic/pull/1697) - 2026-09-03<br>
 🟢 [Review fixture: expose full model identifier](https://github.com/robert-cronin/airunway/pull/5) - 2026-09-03<br>
 🟢 [test(ci): strengthen deterministic checks and coverage reporting](https://github.com/ai-runway/airunway/pull/386) - 2026-09-03<br>
 🟢 [test: validate private review workflow](https://github.com/robert-cronin/airunway/pull/4) - 2026-09-03<br>
-🟢 [feat: add OCI base image lineage](https://github.com/project-copacetic/copacetic/pull/1687) - 2026-09-02<br>
 🟣 [test: make LogPipe test deterministic](https://github.com/project-copacetic/copacetic/pull/1696) - 2026-09-02<br>
 🟣 [test: make LogPipe test deterministic](https://github.com/robert-cronin/copacetic/pull/5) - 2026-09-02<br>
 🟣 [erofs: enable fsview fallback for unsupported features](https://github.com/containerd/containerd/pull/14077) - 2026-09-02<br>
 
-*Last updated: 2026-09-10 04:11 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2026-09-11 04:11 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2026-09-10 04:11 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2026-09-11 04:11 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - 2026-09-10 (0 days ago)<br>
-⭐ [radixark/miles](https://github.com/radixark/miles) - 2026-09-10 (0 days ago)<br>
-⭐ [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake) - 2026-09-10 (0 days ago)<br>
-⭐ [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - 2026-09-10 (0 days ago)<br>
-⭐ [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - 2026-09-10 (0 days ago)<br>
-⭐ [NVIDIA-NeMo/Switchyard](https://github.com/NVIDIA-NeMo/Switchyard) - 2026-09-09 (0 days ago)<br>
-⭐ [qwen-code-dev-bot/oh-my-cli](https://github.com/qwen-code-dev-bot/oh-my-cli) - 2026-09-09 (0 days ago)<br>
-⭐ [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router) - 2026-09-09 (0 days ago)<br>
-⭐ [taco-project/FlexKV](https://github.com/taco-project/FlexKV) - 2026-09-09 (0 days ago)<br>
-⭐ [run-ai/runai-model-streamer](https://github.com/run-ai/runai-model-streamer) - 2026-09-08 (1 day ago)<br>
+⭐ [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - 2026-09-11 (0 days ago)<br>
+⭐ [radixark/miles](https://github.com/radixark/miles) - 2026-09-11 (0 days ago)<br>
+⭐ [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake) - 2026-09-11 (0 days ago)<br>
+⭐ [ace-step/ACE-Step-1.5](https://github.com/ace-step/ACE-Step-1.5) - 2026-09-11 (0 days ago)<br>
+⭐ [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - 2026-09-11 (0 days ago)<br>
+⭐ [NVIDIA-NeMo/Switchyard](https://github.com/NVIDIA-NeMo/Switchyard) - 2026-09-11 (0 days ago)<br>
+⭐ [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - 2026-09-11 (0 days ago)<br>
+⭐ [taco-project/FlexKV](https://github.com/taco-project/FlexKV) - 2026-09-11 (0 days ago)<br>
+⭐ [qwen-code-dev-bot/oh-my-cli](https://github.com/qwen-code-dev-bot/oh-my-cli) - 2026-09-10 (0 days ago)<br>
+⭐ [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router) - 2026-09-10 (0 days ago)<br>
 
-*Last updated: 2026-09-10 04:11 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2026-09-11 04:11 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
