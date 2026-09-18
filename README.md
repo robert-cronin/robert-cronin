@@ -9,18 +9,18 @@
 
 🟢 Open | 🟣 Merged
 
-🟢 [feat(api): serve stateless OpenAI Responses requests](https://github.com/orka-agents/orka/pull/602) - 2026-09-17<br>
-🟢 [docs: use image terminology in direct patching diagram](https://github.com/project-copacetic/copacetic/pull/1717) - 2026-09-17<br>
-🟢 [feat(proxy): persist exact provider-state ownership across restarts](https://github.com/sozercan/vekil/pull/382) - 2026-09-16<br>
-🟢 [Add TCP socket readiness probes for containers](https://github.com/agent-substrate/substrate/pull/1655) - 2026-09-16<br>
+🟢 [[Bugfix] Restore Aria missing-weight validation](https://github.com/vllm-project/vllm/pull/57468) - 2026-09-18<br>
+🟢 [feat(acp): add isolated native runtime feedback](https://github.com/orka-agents/orka/pull/640) - 2026-09-17<br>
+🟢 [Add TCP socket readiness probes for containers](https://github.com/agent-substrate/substrate/pull/1655) - 2026-09-17<br>
+🟢 [feat: record original image lineage](https://github.com/project-copacetic/copacetic/pull/1687) - 2026-09-17<br>
+🟢 [feat(gateway): support user-provided inference pools](https://github.com/ai-runway/airunway/pull/389) - 2026-09-17<br>
 🟣 [fix(proxy): distinguish unavailable Responses state from conflicts](https://github.com/sozercan/vekil/pull/381) - 2026-09-16<br>
-🟢 [fix(kaito): reconcile workspaces with server-side apply](https://github.com/ai-runway/airunway/pull/387) - 2026-09-16<br>
 🟣 [feat(acp): trace harness v2 execution and fix publication cleanup](https://github.com/orka-agents/orka/pull/595) - 2026-09-15<br>
 🟣 [erofs: enable fsview fallback for unsupported features](https://github.com/containerd/containerd/pull/14077) - 2026-09-14<br>
 🟣 [fix(ui): distinguish AI Runway integration from runtime install status](https://github.com/ai-runway/airunway/pull/294) - 2026-09-09<br>
 🟣 [chore: include gRPC 1.83.1 in v0.15.0](https://github.com/project-copacetic/copacetic/pull/1697) - 2026-09-03<br>
 
-*Last updated: 2026-09-17 04:30 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2026-09-18 04:15 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2026-09-17 04:30 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2026-09-18 04:15 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - 2026-09-17 (0 days ago)<br>
-⭐ [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch) - 2026-09-17 (0 days ago)<br>
-⭐ [ace-step/ACE-Step-1.5](https://github.com/ace-step/ACE-Step-1.5) - 2026-09-17 (0 days ago)<br>
-⭐ [NVIDIA-NeMo/Switchyard](https://github.com/NVIDIA-NeMo/Switchyard) - 2026-09-17 (0 days ago)<br>
-⭐ [radixark/miles](https://github.com/radixark/miles) - 2026-09-17 (0 days ago)<br>
-⭐ [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - 2026-09-17 (0 days ago)<br>
-⭐ [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - 2026-09-17 (0 days ago)<br>
+⭐ [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch) - 2026-09-18 (0 days ago)<br>
+⭐ [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - 2026-09-18 (0 days ago)<br>
+⭐ [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - 2026-09-18 (0 days ago)<br>
+⭐ [ace-step/ACE-Step-1.5](https://github.com/ace-step/ACE-Step-1.5) - 2026-09-18 (0 days ago)<br>
+⭐ [NVIDIA-NeMo/Switchyard](https://github.com/NVIDIA-NeMo/Switchyard) - 2026-09-18 (0 days ago)<br>
+⭐ [radixark/miles](https://github.com/radixark/miles) - 2026-09-18 (0 days ago)<br>
+⭐ [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - 2026-09-18 (0 days ago)<br>
 ⭐ [taco-project/FlexKV](https://github.com/taco-project/FlexKV) - 2026-09-17 (0 days ago)<br>
-⭐ [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router) - 2026-09-16 (0 days ago)<br>
-⭐ [qwen-code-dev-bot/oh-my-cli](https://github.com/qwen-code-dev-bot/oh-my-cli) - 2026-09-14 (2 days ago)<br>
+⭐ [qwen-code-dev-bot/oh-my-cli](https://github.com/qwen-code-dev-bot/oh-my-cli) - 2026-09-17 (0 days ago)<br>
+⭐ [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router) - 2026-09-17 (0 days ago)<br>
 
-*Last updated: 2026-09-17 04:30 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2026-09-18 04:15 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
