@@ -20,7 +20,7 @@
 🟣 [fix(proxy): distinguish unavailable Responses state from conflicts](https://github.com/sozercan/vekil/pull/381) - 2026-09-16<br>
 🟣 [feat(acp): trace harness v2 execution and fix publication cleanup](https://github.com/orka-agents/orka/pull/595) - 2026-09-15<br>
 
-*Last updated: 2026-10-01 05:22 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2026-10-02 05:10 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2026-10-01 05:22 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2026-10-02 05:10 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - 2026-10-01 (0 days ago)<br>
-⭐ [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch) - 2026-10-01 (0 days ago)<br>
-⭐ [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - 2026-10-01 (0 days ago)<br>
-⭐ [ace-step/ACE-Step-1.5](https://github.com/ace-step/ACE-Step-1.5) - 2026-10-01 (0 days ago)<br>
-⭐ [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - 2026-10-01 (0 days ago)<br>
-⭐ [NVIDIA-NeMo/Switchyard](https://github.com/NVIDIA-NeMo/Switchyard) - 2026-10-01 (0 days ago)<br>
-⭐ [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router) - 2026-10-01 (0 days ago)<br>
-⭐ [UKGovernmentBEIS/vllm-lens](https://github.com/UKGovernmentBEIS/vllm-lens) - 2026-09-30 (0 days ago)<br>
-⭐ [taco-project/FlexKV](https://github.com/taco-project/FlexKV) - 2026-09-30 (1 day ago)<br>
-⭐ [qwen-code-dev-bot/oh-my-cli](https://github.com/qwen-code-dev-bot/oh-my-cli) - 2026-09-27 (3 days ago)<br>
+⭐ [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - 2026-10-02 (0 days ago)<br>
+⭐ [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch) - 2026-10-02 (0 days ago)<br>
+⭐ [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - 2026-10-02 (0 days ago)<br>
+⭐ [ace-step/ACE-Step-1.5](https://github.com/ace-step/ACE-Step-1.5) - 2026-10-02 (0 days ago)<br>
+⭐ [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - 2026-10-02 (0 days ago)<br>
+⭐ [NVIDIA-NeMo/Switchyard](https://github.com/NVIDIA-NeMo/Switchyard) - 2026-10-02 (0 days ago)<br>
+⭐ [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router) - 2026-10-02 (0 days ago)<br>
+⭐ [UKGovernmentBEIS/vllm-lens](https://github.com/UKGovernmentBEIS/vllm-lens) - 2026-10-01 (0 days ago)<br>
+⭐ [taco-project/FlexKV](https://github.com/taco-project/FlexKV) - 2026-10-01 (0 days ago)<br>
+⭐ [qwen-code-dev-bot/oh-my-cli](https://github.com/qwen-code-dev-bot/oh-my-cli) - 2026-09-27 (4 days ago)<br>
 
-*Last updated: 2026-10-01 05:22 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2026-10-02 05:10 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
