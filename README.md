@@ -9,18 +9,18 @@
 
 🟢 Open | 🟣 Merged
 
-🟢 [feat: support OCI image layouts as patch input](https://github.com/project-copacetic/copacetic/pull/1688) - 2026-10-20<br>
-🟢 [docs: reference CNCF code of conduct and add LF website footer](https://github.com/ai-runway/airunway/pull/445) - 2026-10-20<br>
+🟢 [feat(store): seal execution snapshots and native sessions in the storage client](https://github.com/orka-agents/orka/pull/897) - 2026-10-21<br>
+🟢 [test: deflake request-write, native recovery, artifact route, usage and CLI tests](https://github.com/orka-agents/orka/pull/896) - 2026-10-21<br>
+🟢 [feat(store): apply Orka redaction and usage attribution above the storage client](https://github.com/orka-agents/orka/pull/895) - 2026-10-21<br>
 🟢 [feat(metrics): record approval decision duration](https://github.com/orka-agents/orka/pull/893) - 2026-10-20<br>
-🟢 [feat(store): add storage provider contract and client seam](https://github.com/orka-agents/orka/pull/887) - 2026-10-20<br>
-🟢 [feat(store): persist SQLite dataset bootstrap history](https://github.com/orka-agents/orka/pull/863) - 2026-10-20<br>
+🟢 [docs: reference CNCF code of conduct and add LF website footer](https://github.com/ai-runway/airunway/pull/445) - 2026-10-20<br>
 🟣 [feat(api): serve stateless OpenAI Responses requests](https://github.com/orka-agents/orka/pull/602) - 2026-09-29<br>
 🟣 [fix(controller): retry review publishing after authentication failures](https://github.com/orka-agents/orka/pull/649) - 2026-09-21<br>
 🟣 [feat(proxy): persist provider state on macOS and Linux](https://github.com/sozercan/vekil/pull/382) - 2026-09-20<br>
 🟣 [fix(proxy): distinguish unavailable Responses state from conflicts](https://github.com/sozercan/vekil/pull/381) - 2026-09-16<br>
 🟣 [feat(acp): trace harness v2 execution and fix publication cleanup](https://github.com/orka-agents/orka/pull/595) - 2026-09-15<br>
 
-*Last updated: 2026-10-20 04:25 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2026-10-21 04:16 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2026-10-20 04:25 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2026-10-21 04:16 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [openai/math](https://github.com/openai/math) - 2026-10-20 (0 days ago)<br>
-⭐ [UKGovernmentBEIS/vllm-lens](https://github.com/UKGovernmentBEIS/vllm-lens) - 2026-10-20 (0 days ago)<br>
-⭐ [ace-step/ACE-Step-1.5](https://github.com/ace-step/ACE-Step-1.5) - 2026-10-20 (0 days ago)<br>
-⭐ [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - 2026-10-20 (0 days ago)<br>
-⭐ [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch) - 2026-10-20 (0 days ago)<br>
-⭐ [kaimahi-agents/kaimahi](https://github.com/kaimahi-agents/kaimahi) - 2026-10-20 (0 days ago)<br>
-⭐ [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - 2026-10-20 (0 days ago)<br>
-⭐ [NVIDIA-NeMo/Switchyard](https://github.com/NVIDIA-NeMo/Switchyard) - 2026-10-20 (0 days ago)<br>
-⭐ [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - 2026-10-19 (0 days ago)<br>
-⭐ [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router) - 2026-10-19 (0 days ago)<br>
+⭐ [ace-step/ACE-Step-1.5](https://github.com/ace-step/ACE-Step-1.5) - 2026-10-21 (0 days ago)<br>
+⭐ [agent-primitives/sessions](https://github.com/agent-primitives/sessions) - 2026-10-21 (0 days ago)<br>
+⭐ [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - 2026-10-21 (0 days ago)<br>
+⭐ [openai/math](https://github.com/openai/math) - 2026-10-21 (0 days ago)<br>
+⭐ [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - 2026-10-21 (0 days ago)<br>
+⭐ [NVIDIA-NeMo/Switchyard](https://github.com/NVIDIA-NeMo/Switchyard) - 2026-10-21 (0 days ago)<br>
+⭐ [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch) - 2026-10-21 (0 days ago)<br>
+⭐ [kaimahi-agents/kaimahi](https://github.com/kaimahi-agents/kaimahi) - 2026-10-21 (0 days ago)<br>
+⭐ [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - 2026-10-21 (0 days ago)<br>
+⭐ [UKGovernmentBEIS/vllm-lens](https://github.com/UKGovernmentBEIS/vllm-lens) - 2026-10-20 (1 day ago)<br>
 
-*Last updated: 2026-10-20 04:25 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2026-10-21 04:16 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
