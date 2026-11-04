@@ -9,18 +9,18 @@
 
 🟢 Open | 🟣 Merged
 
+🟢 [feat(store): add storage provider contract and client seam](https://github.com/orka-agents/orka/pull/1008) - 2026-11-04<br>
+🟢 [feat(store): replace store callbacks with conditional commands](https://github.com/orka-agents/orka/pull/1017) - 2026-11-04<br>
+🟢 [feat(store): seal execution snapshots and native sessions in the storage client](https://github.com/orka-agents/orka/pull/1013) - 2026-11-04<br>
+🟢 [feat(store): apply Orka redaction and usage attribution above the storage client](https://github.com/orka-agents/orka/pull/1009) - 2026-11-04<br>
+🟢 [feat(store): seal connector custody in the storage client](https://github.com/orka-agents/orka/pull/1014) - 2026-11-04<br>
+🟣 [[rehearsal] feat(store): add storage provider contract and client seam](https://github.com/robert-cronin/orka/pull/1) - 2026-11-04<br>
 🟣 [fix(acp): run the MCP broker on a context its handler owns](https://github.com/orka-agents/orka/pull/1003) - 2026-11-02<br>
-🟢 [feat(store): load storage bindings from Helm values and a configuration file](https://github.com/orka-agents/orka/pull/971) - 2026-11-02<br>
 🟣 [docs: correct runtime Pod egress descriptions](https://github.com/orka-agents/orka/pull/1004) - 2026-11-02<br>
-🟢 [feat(store): make message reads retry-safe and decide leases on the request clock](https://github.com/orka-agents/orka/pull/945) - 2026-11-02<br>
-🟢 [feat(store): attach write envelopes and fence each dataset at takeover](https://github.com/orka-agents/orka/pull/944) - 2026-11-02<br>
-🟢 [feat(store): bind results and artifacts to the Task UID](https://github.com/orka-agents/orka/pull/947) - 2026-11-02<br>
-🟢 [feat(store): test the Kubernetes control protocols and hold a Task whose result receipt is lost](https://github.com/orka-agents/orka/pull/973) - 2026-11-02<br>
 🟣 [chore: set license metadata to Apache-2.0](https://github.com/ai-runway/airunway/pull/452) - 2026-10-28<br>
 🟣 [fix(acp): don't wedge a RuntimePool on Tasks that failed before boot](https://github.com/orka-agents/orka/pull/927) - 2026-10-27<br>
-🟣 [test: deflake controller, API, e2e and CLI tests](https://github.com/orka-agents/orka/pull/896) - 2026-10-27<br>
 
-*Last updated: 2026-11-03 06:12 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2026-11-04 05:49 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2026-11-03 06:12 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2026-11-04 05:49 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [ace-step/ACE-Step-1.5](https://github.com/ace-step/ACE-Step-1.5) - 2026-11-03 (0 days ago)<br>
-⭐ [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - 2026-11-03 (0 days ago)<br>
-⭐ [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - 2026-11-03 (0 days ago)<br>
-⭐ [NVIDIA-NeMo/Switchyard](https://github.com/NVIDIA-NeMo/Switchyard) - 2026-11-03 (0 days ago)<br>
-⭐ [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch) - 2026-11-03 (0 days ago)<br>
-⭐ [openai/math](https://github.com/openai/math) - 2026-11-03 (0 days ago)<br>
-⭐ [kaimahi-agents/kaimahi](https://github.com/kaimahi-agents/kaimahi) - 2026-11-03 (0 days ago)<br>
-⭐ [jarrodwatts/intermission](https://github.com/jarrodwatts/intermission) - 2026-11-03 (0 days ago)<br>
-⭐ [UKGovernmentBEIS/vllm-lens](https://github.com/UKGovernmentBEIS/vllm-lens) - 2026-11-02 (0 days ago)<br>
-⭐ [agent-primitives/sessions](https://github.com/agent-primitives/sessions) - 2026-10-29 (4 days ago)<br>
+⭐ [orka-agents/orka-bridge](https://github.com/orka-agents/orka-bridge) - 2026-11-04 (0 days ago)<br>
+⭐ [openai/math](https://github.com/openai/math) - 2026-11-04 (0 days ago)<br>
+⭐ [kaimahi-agents/kaimahi](https://github.com/kaimahi-agents/kaimahi) - 2026-11-04 (0 days ago)<br>
+⭐ [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - 2026-11-04 (0 days ago)<br>
+⭐ [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - 2026-11-04 (0 days ago)<br>
+⭐ [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch) - 2026-11-04 (0 days ago)<br>
+⭐ [omacom/omarchy-mac](https://github.com/omacom/omarchy-mac) - 2026-11-03 (0 days ago)<br>
+⭐ [jarrodwatts/intermission](https://github.com/jarrodwatts/intermission) - 2026-11-03 (1 day ago)<br>
+⭐ [UKGovernmentBEIS/vllm-lens](https://github.com/UKGovernmentBEIS/vllm-lens) - 2026-11-02 (1 day ago)<br>
+⭐ [agent-primitives/sessions](https://github.com/agent-primitives/sessions) - 2026-10-29 (5 days ago)<br>
 
-*Last updated: 2026-11-03 06:12 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2026-11-04 05:49 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
