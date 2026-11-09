@@ -9,18 +9,18 @@
 
 🟢 Open | 🟣 Merged
 
-🟢 [feat: add an example agent whose test only a real fetch can pass](https://github.com/orka-agents/orka-bridge/pull/62) - 2026-11-06<br>
-🟢 [fix(runtime): unlock installation ownership when the journal drops](https://github.com/orka-agents/orka-bridge/pull/64) - 2026-11-06<br>
-🟢 [fix(controller): retry transient connection errors at startup](https://github.com/orka-agents/orka/pull/1053) - 2026-11-06<br>
-🟢 [Wait for current Orka readiness before reusing an install](https://github.com/kaimahi-agents/kaimahi/pull/850) - 2026-11-06<br>
-🟢 [feat: support OCI image layouts as patch input](https://github.com/project-copacetic/copacetic/pull/1688) - 2026-11-06<br>
+🟢 [Keep the native smoke's OCR text with each capture and failure](https://github.com/orka-agents/orka-bridge/pull/103) - 2026-11-09<br>
+🟢 [Acknowledge guest shutdown before requesting poweroff](https://github.com/orka-agents/orka-bridge/pull/102) - 2026-11-09<br>
+🟢 [perf: reduce Go discovery and .NET metadata subprocesses](https://github.com/project-copacetic/copacetic/pull/1705) - 2026-11-09<br>
+🟢 [feat(store): order result and artifact replacement by write stamp and bound result size](https://github.com/orka-agents/orka/pull/1033) - 2026-11-09<br>
+🟢 [feat(store): record what storage acknowledged and hold the installation when it is lost](https://github.com/orka-agents/orka/pull/1046) - 2026-11-09<br>
 🟣 [fix(guest): wait for Orka to serve before reporting infrastructure-ready](https://github.com/orka-agents/orka-bridge/pull/43) - 2026-11-05<br>
 🟣 [fix(guest): install the endpoint's util-linux tools over initramfs applets](https://github.com/orka-agents/orka-bridge/pull/41) - 2026-11-05<br>
 🟣 [feat(store): attach write envelopes and fence each dataset at takeover](https://github.com/orka-agents/orka/pull/1023) - 2026-11-05<br>
 🟣 [feat(store): enforce write envelopes, operation receipts and epoch advances in SQLite](https://github.com/orka-agents/orka/pull/1021) - 2026-11-05<br>
 🟣 [feat(store): bind each storage dataset to one installation](https://github.com/orka-agents/orka/pull/1022) - 2026-11-05<br>
 
-*Last updated: 2026-11-08 05:37 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2026-11-09 05:46 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2026-11-08 05:37 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2026-11-09 05:46 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - 2026-11-08 (0 days ago)<br>
-⭐ [openai/math](https://github.com/openai/math) - 2026-11-08 (0 days ago)<br>
-⭐ [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - 2026-11-08 (0 days ago)<br>
-⭐ [orka-agents/orka-bridge](https://github.com/orka-agents/orka-bridge) - 2026-11-08 (0 days ago)<br>
-⭐ [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch) - 2026-11-08 (0 days ago)<br>
+⭐ [openai/math](https://github.com/openai/math) - 2026-11-09 (0 days ago)<br>
+⭐ [omacom/omarchy-mac](https://github.com/omacom/omarchy-mac) - 2026-11-09 (0 days ago)<br>
+⭐ [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - 2026-11-09 (0 days ago)<br>
+⭐ [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - 2026-11-09 (0 days ago)<br>
+⭐ [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch) - 2026-11-09 (0 days ago)<br>
+⭐ [orka-agents/orka-bridge](https://github.com/orka-agents/orka-bridge) - 2026-11-09 (0 days ago)<br>
+⭐ [agent-primitives/sessions](https://github.com/agent-primitives/sessions) - 2026-11-08 (0 days ago)<br>
 ⭐ [kaimahi-agents/kaimahi](https://github.com/kaimahi-agents/kaimahi) - 2026-11-08 (0 days ago)<br>
-⭐ [omacom/omarchy-mac](https://github.com/omacom/omarchy-mac) - 2026-11-08 (0 days ago)<br>
-⭐ [jarrodwatts/intermission](https://github.com/jarrodwatts/intermission) - 2026-11-07 (0 days ago)<br>
-⭐ [UKGovernmentBEIS/vllm-lens](https://github.com/UKGovernmentBEIS/vllm-lens) - 2026-11-07 (0 days ago)<br>
-⭐ [agent-primitives/sessions](https://github.com/agent-primitives/sessions) - 2026-11-05 (2 days ago)<br>
+⭐ [jarrodwatts/intermission](https://github.com/jarrodwatts/intermission) - 2026-11-07 (1 day ago)<br>
+⭐ [UKGovernmentBEIS/vllm-lens](https://github.com/UKGovernmentBEIS/vllm-lens) - 2026-11-07 (1 day ago)<br>
 
-*Last updated: 2026-11-08 05:37 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2026-11-09 05:46 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
