@@ -9,18 +9,18 @@
 
 🟢 Open | 🟣 Merged
 
-🟣 [fix(deploy): wait for the controller drain during make deploy](https://github.com/orka-agents/orka/pull/921) - 2026-11-14<br>
-🟣 [fix(api): match reserved request keys the way JSON decoding does](https://github.com/orka-agents/orka/pull/1016) - 2026-11-14<br>
-🟣 [fix(skills): hash Skill content without ambiguous concatenation](https://github.com/orka-agents/orka/pull/1048) - 2026-11-14<br>
-🟣 [fix(deps): bump brotli and compress to patched releases](https://github.com/orka-agents/orka/pull/1045) - 2026-11-14<br>
+🟣 [feat(cli): read the API token from ORKA_TOKEN or a file and default to the installation's namespace](https://github.com/orka-agents/orka/pull/1124) - 2026-11-16<br>
+🟢 [feat: add decisions passthrough endpoint](https://github.com/sozercan/vekil/pull/451) - 2026-11-16<br>
+🟣 [fix(controller): retry transient connection errors at startup](https://github.com/orka-agents/orka/pull/1053) - 2026-11-14<br>
+🟢 [docs: propose a policy discovery contract for agents](https://github.com/orka-agents/orka/pull/977) - 2026-11-14<br>
+🟢 [feat(store): record what storage acknowledged and hold the installation when it is lost](https://github.com/orka-agents/orka/pull/1046) - 2026-11-14<br>
+🟣 [feat(store): order result and artifact replacement by write stamp and bound result size](https://github.com/orka-agents/orka/pull/1033) - 2026-11-14<br>
+🟣 [feat(store): make message reads retry-safe and decide leases on the request clock](https://github.com/orka-agents/orka/pull/1026) - 2026-11-14<br>
+🟣 [fix(telemetry): stop sending raw error text to traces](https://github.com/orka-agents/orka/pull/918) - 2026-11-14<br>
+🟢 [feat(store): test the Kubernetes control protocols and hold a Task whose result receipt is lost](https://github.com/orka-agents/orka/pull/1075) - 2026-11-14<br>
 🟢 [fix: validate OCI layout output before publishing it and stop on unreadable layout annotations](https://github.com/project-copacetic/copacetic/pull/1786) - 2026-11-13<br>
-🟣 [Show kmx refusals in the guest infrastructure log](https://github.com/orka-agents/orka-bridge/pull/151) - 2026-11-13<br>
-🟢 [feat(store): test the Kubernetes control protocols and hold a Task whose result receipt is lost](https://github.com/orka-agents/orka/pull/1075) - 2026-11-13<br>
-🟢 [feat(store): record what storage acknowledged and hold the installation when it is lost](https://github.com/orka-agents/orka/pull/1046) - 2026-11-13<br>
-🟢 [test: cover buildx builder precedence and error text](https://github.com/project-copacetic/copacetic/pull/1785) - 2026-11-13<br>
-🟢 [feat(store): order result and artifact replacement by write stamp and bound result size](https://github.com/orka-agents/orka/pull/1033) - 2026-11-12<br>
 
-*Last updated: 2026-11-14 05:54 UTC*<!-- END_SECTION:prs -->
+*Last updated: 2026-11-16 05:55 UTC*<!-- END_SECTION:prs -->
 
 <!-- START_SECTION:gists -->
 ## 📜 Latest Gists
@@ -31,23 +31,23 @@
 📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
 📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
 
-*Last updated: 2026-11-14 05:54 UTC*<!-- END_SECTION:gists -->
+*Last updated: 2026-11-16 05:55 UTC*<!-- END_SECTION:gists -->
 
 <!-- START_SECTION:starred -->
 ## ✨ Recently Starred Repositories
 
-⭐ [openai/math](https://github.com/openai/math) - 2026-11-14 (0 days ago)<br>
-⭐ [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch) - 2026-11-14 (0 days ago)<br>
-⭐ [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - 2026-11-14 (0 days ago)<br>
-⭐ [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - 2026-11-13 (0 days ago)<br>
-⭐ [omacom/omarchy-mac](https://github.com/omacom/omarchy-mac) - 2026-11-13 (0 days ago)<br>
-⭐ [agent-primitives/sessions](https://github.com/agent-primitives/sessions) - 2026-11-12 (1 day ago)<br>
-⭐ [UKGovernmentBEIS/vllm-lens](https://github.com/UKGovernmentBEIS/vllm-lens) - 2026-11-12 (1 day ago)<br>
-⭐ [orka-agents/orka-bridge](https://github.com/orka-agents/orka-bridge) - 2026-11-12 (1 day ago)<br>
-⭐ [jarrodwatts/intermission](https://github.com/jarrodwatts/intermission) - 2026-11-10 (3 days ago)<br>
-⭐ [kaimahi-agents/kaimahi](https://github.com/kaimahi-agents/kaimahi) - 2026-11-10 (3 days ago)<br>
+⭐ [openai/math](https://github.com/openai/math) - 2026-11-16 (0 days ago)<br>
+⭐ [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch) - 2026-11-16 (0 days ago)<br>
+⭐ [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - 2026-11-16 (0 days ago)<br>
+⭐ [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - 2026-11-16 (0 days ago)<br>
+⭐ [omacom/omarchy-mac](https://github.com/omacom/omarchy-mac) - 2026-11-16 (0 days ago)<br>
+⭐ [UKGovernmentBEIS/vllm-lens](https://github.com/UKGovernmentBEIS/vllm-lens) - 2026-11-15 (0 days ago)<br>
+⭐ [jarrodwatts/intermission](https://github.com/jarrodwatts/intermission) - 2026-11-15 (0 days ago)<br>
+⭐ [agent-primitives/sessions](https://github.com/agent-primitives/sessions) - 2026-11-12 (3 days ago)<br>
+⭐ [orka-agents/orka-bridge](https://github.com/orka-agents/orka-bridge) - 2026-11-12 (3 days ago)<br>
+⭐ [kaimahi-agents/kaimahi](https://github.com/kaimahi-agents/kaimahi) - 2026-11-10 (5 days ago)<br>
 
-*Last updated: 2026-11-14 05:54 UTC*<!-- END_SECTION:starred -->
+*Last updated: 2026-11-16 05:55 UTC*<!-- END_SECTION:starred -->
 
 ## 🔭 Current Priorities
 
