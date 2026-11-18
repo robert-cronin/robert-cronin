@@ -12,53 +12,51 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-name: Update Latest PRs and Gists
+name: Update profile activity
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "17 3 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
+concurrency:
+  group: profile-readme
+  cancel-in-progress: false
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v7
 
-      - name: Set up Python
-        uses: actions/setup-python@v2
+      - uses: actions/setup-python@v7
         with:
-          python-version: "3.x"
+          python-version: "3.13"
 
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests
+      - name: Check updater
+        run: python -m unittest discover -s .github/scripts -p 'test_*.py'
 
-      - name: Update README with latest PRs and Gists
+      - name: Update public metrics
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          python .github/scripts/update_prs.py
+        run: python .github/scripts/update_metrics.py
 
-      - name: Check for changes
-        id: git-check
-        run: |
-          git diff --exit-code || echo "changes=true" >> $GITHUB_OUTPUT
-
-      - name: Commit and push if changed
-        if: steps.git-check.outputs.changes == 'true'
+      - name: Update recent contributions
         env:
-          GIT_NAME: "Robert Cronin"
-          GIT_EMAIL: "robert.cronin@uqconnect.edu.au"
-        run: |
-          git config --global user.name "$GIT_NAME"
-          git config --global user.email "$GIT_EMAIL"
-          git add README.md
-          git commit -m "Update latest PRs, Gists, and timestamp in README
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python .github/scripts/update_prs.py
 
-          Co-authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
+      - name: Commit changed contributions
+        run: |
+          if git diff --quiet -- README.md assets/metrics*.svg assets/metrics.json; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md assets/metrics*.svg assets/metrics.json
+          git commit -m "Update profile activity"
           git push

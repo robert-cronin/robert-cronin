@@ -12,176 +12,87 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+"""Refresh the compact public contribution list without touching curated content."""
+
+import html
+import json
 import os
 import re
-import requests
-from datetime import datetime, timezone, timedelta
+from datetime import datetime
+from pathlib import Path
+from urllib.parse import urlencode
+from urllib.request import Request, urlopen
+
+USERNAME = "robert-cronin"
+README = Path(__file__).resolve().parents[2] / "README.md"
+START = "<!-- START_SECTION:prs -->"
+END = "<!-- END_SECTION:prs -->"
+PR_URL = re.compile(r"https://github\.com/([\w.-]+/[\w.-]+)/pull/\d+")
 
 
-def get_latest_starred_repos(username):
-    headers = {
-        'Accept': 'application/vnd.github.v3+json',
-    }
-    url = f'https://api.github.com/users/{
-        username}/starred?sort=created&direction=desc&per_page=10'
-    response = requests.get(url, headers=headers)
-    response.raise_for_status()
-    return response.json()
-
-
-def format_starred_repo(repo):
-    starred_at = datetime.strptime(
-        repo['updated_at'], "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
-    formatted_date = starred_at.strftime("%Y-%m-%d")
-    days_ago = (datetime.now(timezone.utc) - starred_at).days
-    days_ago_str = f"{days_ago} day{'s' if days_ago != 1 else ''} ago"
-
-    return {
-        'formatted': f"⭐ [{repo['full_name']}]({repo['html_url']}) - {formatted_date} ({days_ago_str})<br>\n",
-        'starred_at': starred_at
-    }
-
-
-def format_pr(pr):
-    # Format the date
-    updated_at = datetime.strptime(
-        pr['updated_at'], "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
-    formatted_date = updated_at.strftime("%Y-%m-%d")
-
-    # Determine the status and corresponding emoji
-    if pr['state'] == 'open':
-        status_emoji = "🟢"
-    elif pr.get('pull_request', {}).get('merged_at'):
-        status_emoji = "🟣"  # Merged
-    else:
-        return None  # Skip closed but unmerged PRs
-
-    return {
-        'formatted': f"{status_emoji} [{pr['title']}]({pr['html_url']}) - {formatted_date}<br>",
-        'updated_at': updated_at,
-        'state': pr['state']
-    }
-
-
-def add_updated_timestamp():
-    now = datetime.now(timezone.utc)
-    return f"*Last updated: {now.strftime('%Y-%m-%d %H:%M')} UTC*"
-
-
-def update_readme(prs, gists, starred_repos):
-    # Update PRs section
-    pr_section = "## 🔄 Latest Pull Requests\n\n"
-    pr_section += "🟢 Open | 🟣 Merged\n\n"
-    for pr in prs:
-        pr_section += pr['formatted'] + "\n"
-
-    # Create gists section
-    gist_section = "## 📜 Latest Gists\n\n"
-    for gist in gists:
-        formatted_gist = format_gist(gist)
-        if formatted_gist:
-            gist_section += formatted_gist + "\n"
-
-    # Create starred repos section
-    starred_section = "## ✨ Recently Starred Repositories\n\n"
-    formatted_repos = [format_starred_repo(repo) for repo in starred_repos]
-    sorted_repos = sorted(
-        formatted_repos, key=lambda x: x['starred_at'], reverse=True)
-    for repo in sorted_repos:
-        starred_section += repo['formatted']
-
-    # Add updated timestamp
-    updated_timestamp = add_updated_timestamp()
-
-    with open('README.md', 'r') as file:
-        content = file.read()
-
-    # Update PRs
-    content = re.sub(
-        r'(<!-- START_SECTION:prs -->).*?(<!-- END_SECTION:prs -->)',
-        f'\\1\n{pr_section}\n{updated_timestamp}\\2',
-        content,
-        flags=re.DOTALL
-    )
-
-    # Update Gists
-    content = re.sub(
-        r'(<!-- START_SECTION:gists -->).*?(<!-- END_SECTION:gists -->)',
-        f'\\1\n{gist_section}\n{updated_timestamp}\\2',
-        content,
-        flags=re.DOTALL
-    )
-
-    # Update Starred Repos
-    content = re.sub(
-        r'(<!-- START_SECTION:starred -->).*?(<!-- END_SECTION:starred -->)',
-        f'\\1\n{starred_section}\n{updated_timestamp}\\2',
-        content,
-        flags=re.DOTALL
-    )
-
-    with open('README.md', 'w') as file:
-        file.write(content)
+def escape_markdown(text):
+    text = html.escape(" ".join(text.split()), quote=False)
+    return re.sub(r"([\\`*_\[\]])", lambda match: "\\" + match[0], text)
 
 
 def get_latest_prs(username):
-    headers = {
-        'Accept': 'application/vnd.github.v3+json',
-    }
-
-    # Get open PRs
-    open_url = f'https://api.github.com/search/issues?q=author:{
-        username}+is:pr+is:public+is:open+sort:updated-desc&per_page=5'
-    open_response = requests.get(open_url, headers=headers)
-    open_response.raise_for_status()
-    open_prs = open_response.json()['items']
-
-    # Get merged PRs
-    merged_url = f'https://api.github.com/search/issues?q=author:{
-        username}+is:pr+is:public+is:merged+sort:updated-desc&per_page=10'
-    merged_response = requests.get(merged_url, headers=headers)
-    merged_response.raise_for_status()
-    merged_prs = merged_response.json()['items']
-
-    # Combine, format, and sort PRs
-    all_prs = open_prs + merged_prs
-    formatted_prs = [format_pr(pr) for pr in all_prs if format_pr(pr)]
-    sorted_prs = sorted(
-        formatted_prs, key=lambda x: x['updated_at'], reverse=True)
-
-    # Ensure we have at most 5 open PRs and fill the rest with merged PRs
-    open_prs = [pr for pr in sorted_prs if pr['state'] == 'open'][:5]
-    merged_prs = [pr for pr in sorted_prs if pr['state'] != 'open']
-
-    final_prs = open_prs + merged_prs[:10-len(open_prs)]
-    return sorted(final_prs, key=lambda x: x['updated_at'], reverse=True)
+    query = urlencode({
+        "q": f"author:{username} is:pr is:merged is:public -repo:{username}/{username}",
+        "sort": "updated",
+        "order": "desc",
+        "per_page": 20,
+    })
+    headers = {"Accept": "application/vnd.github+json", "User-Agent": "profile-readme"}
+    if token := os.environ.get("GITHUB_TOKEN"):
+        headers["Authorization"] = f"Bearer {token}"
+    request = Request(f"https://api.github.com/search/issues?{query}", headers=headers)
+    with urlopen(request, timeout=30) as response:
+        data = json.load(response)
+    if data.get("incomplete_results"):
+        raise RuntimeError("GitHub returned incomplete results; keeping the existing README.")
+    return data["items"]
 
 
-def get_latest_gists(username):
-    headers = {
-        'Accept': 'application/vnd.github.v3+json',
-    }
-    url = f'https://api.github.com/users/{username}/gists'
-    response = requests.get(url, headers=headers)
-    response.raise_for_status()
-    return response.json()[:5]
+def render_prs(prs):
+    """Show up to three projects, ordered by their most recently updated merged PR."""
+    lines, seen = [], set()
+    for pr in sorted(prs, key=lambda item: item["updated_at"], reverse=True):
+        if not pr.get("pull_request", {}).get("merged_at"):
+            continue
+        match = PR_URL.fullmatch(pr["html_url"])
+        if not match:
+            raise ValueError("Expected a public GitHub pull request URL.")
+        repository = match[1]
+        if repository in seen:
+            continue
+        seen.add(repository)
+        date = datetime.fromisoformat(pr["updated_at"].replace("Z", "+00:00")).date()
+        title = escape_markdown(pr["title"])
+        lines.append(
+            f"- **{escape_markdown(repository)}** — [{title}]({pr['html_url']}) · Updated {date}"
+        )
+        if len(lines) == 3:
+            break
+    if not lines:
+        raise ValueError("No merged pull requests returned; keeping the existing README.")
+    return "\n".join(lines)
 
 
-def format_gist(gist):
-    created_at = datetime.strptime(
-        gist['created_at'], "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
-    formatted_date = created_at.strftime("%Y-%m-%d")
-
-    # Get the first file name as the gist title
-    first_file = next(iter(gist['files'].values()))
-    gist_title = first_file['filename']
-
-    return f"📜 [{gist_title}]({gist['html_url']}) - {formatted_date}<br>"
+def update_readme(prs, path=README):
+    content = path.read_text(encoding="utf-8")
+    if content.count(START) != 1 or content.count(END) != 1:
+        raise ValueError("README must contain exactly one contribution marker pair.")
+    start = content.index(START) + len(START)
+    end = content.index(END)
+    if end < start:
+        raise ValueError("Contribution markers are out of order.")
+    updated = content[:start] + "\n" + render_prs(prs) + "\n" + content[end:]
+    if updated == content:
+        return False
+    path.write_text(updated, encoding="utf-8")
+    return True
 
 
 if __name__ == "__main__":
-    username = 'robert-cronin'
-    latest_prs = get_latest_prs(username)
-    latest_gists = get_latest_gists(username)
-    latest_starred_repos = get_latest_starred_repos(username)
-    update_readme(latest_prs, latest_gists, latest_starred_repos)
+    changed = update_readme(get_latest_prs(USERNAME))
+    print("Updated recent contributions." if changed else "No contribution changes.")

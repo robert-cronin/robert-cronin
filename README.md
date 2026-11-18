@@ -1,119 +1,69 @@
-# Hi there, I'm Robbie (or 徐睿杰)! 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img src="assets/header-light.svg" alt="Robbie Cronin, software engineer. A ring habitat turns slowly around a star beside the name." width="100%">
+</picture>
 
-> "The greatest teacher, failure is." -_Yoda_
+**Senior Software Engineer at Microsoft · Melbourne, Australia**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robert-cronin&show_icons=true&theme=radical)
+I build developer tools and contribute to AI infrastructure and container security. My work spans terminal interfaces in Rust, Kubernetes platforms, and open-source container tooling.
+
+[Website](https://robertcronin.com) · [LinkedIn](https://www.linkedin.com/in/robbiecronin/) · [Email](mailto:robert.cronin@uqconnect.edu.au)
+
+## GitHub activity
+
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/metrics-dark-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/metrics-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/metrics-dark.svg">
+  <img src="assets/metrics-light.svg" alt="Public GitHub metrics: merged pull requests, pull requests reviewed, issues opened, stars earned, and monthly merge activity. Exact counts and definitions follow." width="100%">
+</picture>
+
+<details>
+<summary>Metric definitions and source data</summary>
+
+<!-- START_SECTION:metrics -->
+Snapshot: **2026-09-16 (UTC)**. Totals cover public activity indexed by GitHub.
+
+| Metric | All-time total |
+| :--- | ---: |
+| [Merged PRs](https://github.com/search?type=issues&q=is%3Apr%20is%3Amerged%20is%3Apublic%20author%3Arobert-cronin) | 173 |
+| [PRs reviewed](https://github.com/search?type=issues&q=is%3Apr%20is%3Apublic%20reviewed-by%3Arobert-cronin%20-author%3Arobert-cronin) | 201 |
+| [Issues opened](https://github.com/search?type=issues&q=is%3Aissue%20is%3Apublic%20author%3Arobert-cronin) | 265 |
+| Stars on my public, non-fork repositories | 107 |
+
+PRs reviewed counts distinct pull requests by other authors, not individual review submissions. Stars cover repositories I own, excluding forks; stars on upstream projects are not attributed to me. Monthly bars count my authored PRs by merge date; the current month is incomplete.
+
+[Source data](assets/metrics.json) · [Generator](.github/scripts/update_metrics.py)
+<!-- END_SECTION:metrics -->
+
+</details>
+
+## Projects
+
+| Project | Role | Focus |
+| :--- | :--- | :--- |
+| [**Copacetic**](https://github.com/project-copacetic/copacetic) | Maintainer | Container image patching and vulnerability remediation |
+| [**Flere**](https://github.com/robert-cronin/flere) | Maintainer | Terminal workbench for projects, shells, editors, and agents |
+| [**AI Runway**](https://github.com/ai-runway/airunway) | Contributor | AI inference infrastructure on Kubernetes |
+| [**Orka**](https://github.com/orka-agents/orka) | Contributor | Agent orchestration on Kubernetes |
+| [**GUAC**](https://github.com/guacsec/guac) | Contributor | Software supply chain security |
+| [**KAITO**](https://github.com/kaito-project/kaito) | Contributor | Model inference and tuning on Kubernetes |
+
+## Technical focus
+
+**Languages:** Go, Rust, TypeScript, Python<br>
+**Systems:** Kubernetes, Linux, containers, GitOps<br>
+**Areas:** Developer tooling, AI inference infrastructure, software supply chain security
+
+## Recent contributions
+
+Recently updated, merged pull requests across public projects.
 
 <!-- START_SECTION:prs -->
-## 🔄 Latest Pull Requests
+- **sozercan/vekil** — [fix(proxy): distinguish unavailable Responses state from conflicts](https://github.com/sozercan/vekil/pull/381) · Updated 2026-09-16
+- **orka-agents/orka** — [feat(acp): trace harness v2 execution and fix publication cleanup](https://github.com/orka-agents/orka/pull/595) · Updated 2026-09-15
+- **containerd/containerd** — [erofs: enable fsview fallback for unsupported features](https://github.com/containerd/containerd/pull/14077) · Updated 2026-09-14
+<!-- END_SECTION:prs -->
 
-🟢 Open | 🟣 Merged
-
-🟢 [feat(storage): cap message size and batch bytes](https://github.com/orka-agents/orka/pull/1186) - 2026-11-18<br>
-🟢 [List cluster Sessions and their conversations in Overview](https://github.com/orka-agents/orka-bridge/pull/253) - 2026-11-18<br>
-🟢 [Show recent runs from connected clusters in Overview](https://github.com/orka-agents/orka-bridge/pull/252) - 2026-11-18<br>
-🟢 [feat(guide): add an optional in-cluster Orka guide and orka ask](https://github.com/orka-agents/orka/pull/1097) - 2026-11-18<br>
-🟢 [feat(storage): add the orka.storage.v1 wire foundation](https://github.com/orka-agents/orka/pull/1165) - 2026-11-18<br>
-🟣 [feat: add decisions passthrough endpoint](https://github.com/sozercan/vekil/pull/451) - 2026-11-17<br>
-🟣 [feat(cli): read the API token from ORKA_TOKEN or a file and default to the installation's namespace](https://github.com/orka-agents/orka/pull/1124) - 2026-11-16<br>
-🟣 [fix(controller): retry transient connection errors at startup](https://github.com/orka-agents/orka/pull/1053) - 2026-11-14<br>
-🟣 [feat(store): order result and artifact replacement by write stamp and bound result size](https://github.com/orka-agents/orka/pull/1033) - 2026-11-14<br>
-🟣 [feat(store): make message reads retry-safe and decide leases on the request clock](https://github.com/orka-agents/orka/pull/1026) - 2026-11-14<br>
-
-*Last updated: 2026-11-18 06:55 UTC*<!-- END_SECTION:prs -->
-
-<!-- START_SECTION:gists -->
-## 📜 Latest Gists
-
-📜 [reflect_secret.sh](https://gist.github.com/robert-cronin/c4df6777ba61bacd45a4bd67b5ea5b34) - 2024-06-24<br>
-📜 [concatenate_repo.sh](https://gist.github.com/robert-cronin/02215e61893d6616fc0d269e829b50ed) - 2024-06-18<br>
-📜 [debug-pod.sh](https://gist.github.com/robert-cronin/0a76a112fe444bccd50cb7ac56e8b1b5) - 2024-06-12<br>
-📜 [k8s_module_coverage.sh](https://gist.github.com/robert-cronin/150e3044b916ebe597478b1294f97da8) - 2024-05-27<br>
-📜 [keybase.md](https://gist.github.com/robert-cronin/a8474252ac7483f7c1de43dd8a7308e3) - 2020-04-11<br>
-
-*Last updated: 2026-11-18 06:55 UTC*<!-- END_SECTION:gists -->
-
-<!-- START_SECTION:starred -->
-## ✨ Recently Starred Repositories
-
-⭐ [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - 2026-11-18 (0 days ago)<br>
-⭐ [openai/math](https://github.com/openai/math) - 2026-11-18 (0 days ago)<br>
-⭐ [orka-agents/orka-bridge](https://github.com/orka-agents/orka-bridge) - 2026-11-18 (0 days ago)<br>
-⭐ [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - 2026-11-18 (0 days ago)<br>
-⭐ [InsaneArts/atlas](https://github.com/InsaneArts/atlas) - 2026-11-18 (0 days ago)<br>
-⭐ [omacom/omarchy-mac](https://github.com/omacom/omarchy-mac) - 2026-11-17 (0 days ago)<br>
-⭐ [UKGovernmentBEIS/vllm-lens](https://github.com/UKGovernmentBEIS/vllm-lens) - 2026-11-15 (2 days ago)<br>
-⭐ [jarrodwatts/intermission](https://github.com/jarrodwatts/intermission) - 2026-11-15 (2 days ago)<br>
-⭐ [agent-primitives/sessions](https://github.com/agent-primitives/sessions) - 2026-11-12 (5 days ago)<br>
-⭐ [kaimahi-agents/kaimahi](https://github.com/kaimahi-agents/kaimahi) - 2026-11-10 (7 days ago)<br>
-
-*Last updated: 2026-11-18 06:55 UTC*<!-- END_SECTION:starred -->
-
-## 🔭 Current Priorities
-
-- Maintaining [Copacetic](https://github.com/project-copacetic/copacetic) (CNCF) - container image patching for CVE remediation
-- Contributing to [GUAC](https://github.com/guacsec/guac) - software supply chain security
-- Contributing to [KAITO](https://github.com/kaito-project/kaito) and [AIKit](https://github.com/kaito-project/aikit) - LLM inference on Kubernetes
-
-## 🚀 Hobby Projects
-
-- [**JueJu**](https://github.com/robert-cronin/jueju)
-  - An AI-powered Chinese poetry platform to explore new patterns and best practices in GenAI, Go and Kubernetes.
-- [**KubeMedic**](https://github.com/robert-cronin/kubemedic)
-  - An intelligent Kubernetes diagnostics tool leveraging OpenAI's API for advanced troubleshooting and best practices.
-- [**K8s Practice Assistant (kpa)**](https://github.com/robert-cronin/kpa)
-  - A simple tool that uses GPT4o mini and a local MiniKube cluster to help users sharpen their Kubernetes skills with mock scenarios and intelligent feedback.
-- [**KubeLiteDB**](https://github.com/robert-cronin/KubeLiteDB)
-  - Kubernetes CRD for managing SQLite instances.
-- [**MindScript-Go**](https://github.com/robert-cronin/mindscript-go)
-  - Building a compiler from scratch for a fictional programming language, written in Go.
-- [**Homelab**](https://github.com/robert-cronin/homelab)
-  - GitOps for my home Kubernetes cluster. Built on Rasberry Pi 4 nodes, it houses all my personal projects.
-- [**RustBox**](https://github.com/robert-cronin/rust-box)
-  - A rusty docker clone built in Rust to learn about Rust and low-level linux features like cgroups/namespaces
-
-## 🛠️ Technologies & Tools
-
-### Languages
-
-[![Languages Skills](https://skillicons.dev/icons?i=go,typescript,python,bash)](https://skillicons.dev)
-
-### Cloud
-
-[![Cloud Skills](https://skillicons.dev/icons?i=kubernetes,aws,linux,terraform,githubactions,jenkins)](https://skillicons.dev)
-
-### Frontend
-
-[![Frontend Skills](https://skillicons.dev/icons?i=mui,react,redux,figma,styledcomponents,nextjs,vite,css,html,ts)](https://skillicons.dev)
-
-### Backend
-
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,fastapi,express,postgres,python)](https://skillicons.dev)
-
-### Databases & Messaging
-
-[![Database Skills](https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,rabbitmq,kafka)](https://skillicons.dev)
-
-### Machine Learning
-
-[![ML Skills](https://skillicons.dev/icons?i=tensorflow,elasticsearch,pytorch,opencv)](https://skillicons.dev)
-
-### Other Tools
-
-[![Other Skills](https://skillicons.dev/icons?i=vscode,git,docker,jest,cypress,grafana,prometheus,bash)](https://skillicons.dev)
-
-## 📫 Get in Touch
-
-- [Email](mailto:robert.cronin@uqconnect.edu.au)
-
-## 📚 Books I've Read Recently
-
-- The Culture series by Iain M. Banks
-- Fire Upon the Deep by Vernor Vinge
-- Dune by Frank Herbert
-- 三体 by 刘慈欣
-
-## 🌟 Fun Facts
-
-- I can speak Mandarin Chinese and have professional experience using the language. 你好 👋
-- I ran the Ironman Triathlon in 2017 and have been hooked on endurance sports ever since!
+[More merged contributions](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Arobert-cronin+sort%3Aupdated-desc)
