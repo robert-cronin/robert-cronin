@@ -17,15 +17,16 @@ def pr(repo="org/project", number=1, date="2026-09-16", title="Improve runtime s
 
 
 class ContributionsTest(unittest.TestCase):
-    def test_only_merged_and_one_per_project_up_to_three(self):
+    def test_only_merged_and_one_per_project_up_to_the_limit(self):
         entries = [pr("org/a", 1), pr("org/a", 2, "2026-09-15"),
                    pr("org/b", 3, "2026-09-14"), pr("org/c", 4, "2026-09-13"),
-                   pr("org/d", 5, "2026-09-12"), pr("org/open", merged=False)]
+                   pr("org/d", 5, "2026-09-12"), pr("org/e", 6, "2026-09-11"),
+                   pr("org/f", 7, "2026-09-10"), pr("org/open", merged=False)]
         output = render_prs(list(reversed(entries)))
-        self.assertEqual(len(output.splitlines()), 3)
+        self.assertEqual(len(output.splitlines()), 5)
         self.assertIn("org/a/pull/1", output)
         self.assertNotIn("org/a/pull/2", output)
-        self.assertNotIn("org/d", output)
+        self.assertNotIn("org/f", output)
         self.assertNotIn("org/open", output)
 
     def test_titles_cannot_inject_markdown_or_html(self):

@@ -27,6 +27,7 @@ USERNAME = "robert-cronin"
 README = Path(__file__).resolve().parents[2] / "README.md"
 START = "<!-- START_SECTION:prs -->"
 END = "<!-- END_SECTION:prs -->"
+LIMIT = 5
 PR_URL = re.compile(r"https://github\.com/([\w.-]+/[\w.-]+)/pull/\d+")
 
 
@@ -54,7 +55,7 @@ def get_latest_prs(username):
 
 
 def render_prs(prs):
-    """Show up to three projects, ordered by their most recently updated merged PR."""
+    """Show up to LIMIT projects, ordered by their most recently updated merged PR."""
     lines, seen = [], set()
     for pr in sorted(prs, key=lambda item: item["updated_at"], reverse=True):
         if not pr.get("pull_request", {}).get("merged_at"):
@@ -68,10 +69,8 @@ def render_prs(prs):
         seen.add(repository)
         date = datetime.fromisoformat(pr["updated_at"].replace("Z", "+00:00")).date()
         title = escape_markdown(pr["title"])
-        lines.append(
-            f"- **{escape_markdown(repository)}** — [{title}]({pr['html_url']}) · Updated {date}"
-        )
-        if len(lines) == 3:
+        lines.append(f"- [{title}]({pr['html_url']})<br><sub>{escape_markdown(repository)} · {date.day} {date:%b %Y}</sub>")
+        if len(lines) == LIMIT:
             break
     if not lines:
         raise ValueError("No merged pull requests returned; keeping the existing README.")

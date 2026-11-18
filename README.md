@@ -1,69 +1,48 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img src="assets/header-light.svg" alt="Robbie Cronin, software engineer. A ring habitat turns slowly around a star beside the name." width="100%">
+  <img src="assets/header-light.svg" alt="Robbie Cronin, senior software engineer at Microsoft in Melbourne." width="100%">
 </picture>
 
-**Senior Software Engineer at Microsoft · Melbourne, Australia**
+I'm a senior software engineer at Microsoft in Melbourne. I'm a core maintainer of [Copacetic](https://github.com/project-copacetic/copacetic), which patches vulnerabilities in container images, and [AI Runway](https://github.com/ai-runway/airunway), which runs AI inference on Kubernetes. I also maintain [Flere](https://github.com/robert-cronin/flere), a terminal workbench for coding agents, and contribute to [Orka](https://github.com/orka-agents/orka), which orchestrates agents on Kubernetes.
 
-I build developer tools and contribute to AI infrastructure and container security. My work spans terminal interfaces in Rust, Kubernetes platforms, and open-source container tooling.
+I write about what I build at [robertcronin.com](https://robertcronin.com). You can also reach me on [LinkedIn](https://www.linkedin.com/in/robbiecronin/) or by [email](mailto:robert.cronin@uqconnect.edu.au).
 
-[Website](https://robertcronin.com) · [LinkedIn](https://www.linkedin.com/in/robbiecronin/) · [Email](mailto:robert.cronin@uqconnect.edu.au)
+<table><tr><td valign="top" width="50%">
 
-## GitHub activity
+### Recent work
 
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/metrics-dark-mobile.svg">
-  <source media="(max-width: 600px)" srcset="assets/metrics-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/metrics-dark.svg">
-  <img src="assets/metrics-light.svg" alt="Public GitHub metrics: merged pull requests, pull requests reviewed, issues opened, stars earned, and monthly merge activity. Exact counts and definitions follow." width="100%">
-</picture>
+<!-- START_SECTION:prs -->
+- [feat: add decisions passthrough endpoint](https://github.com/sozercan/vekil/pull/451)<br><sub>sozercan/vekil · 17 Nov 2026</sub>
+- [feat(cli): read the API token from ORKA\_TOKEN or a file and default to the installation's namespace](https://github.com/orka-agents/orka/pull/1124)<br><sub>orka-agents/orka · 16 Nov 2026</sub>
+- [Show kmx refusals in the guest infrastructure log](https://github.com/orka-agents/orka-bridge/pull/151)<br><sub>orka-agents/orka-bridge · 13 Nov 2026</sub>
+- [feat: support OCI image layouts as patch input](https://github.com/project-copacetic/copacetic/pull/1688)<br><sub>project-copacetic/copacetic · 13 Nov 2026</sub>
+- [Allow connected model Deployments in offline Orka reuse](https://github.com/kaimahi-agents/kaimahi/pull/871)<br><sub>kaimahi-agents/kaimahi · 13 Nov 2026</sub>
+<!-- END_SECTION:prs -->
 
-<details>
-<summary>Metric definitions and source data</summary>
+[All merged pull requests](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Arobert-cronin+sort%3Aupdated-desc)
 
-<!-- START_SECTION:metrics -->
-Snapshot: **2026-09-16 (UTC)**. Totals cover public activity indexed by GitHub.
+</td><td valign="top" width="50%">
 
-| Metric | All-time total |
-| :--- | ---: |
-| [Merged PRs](https://github.com/search?type=issues&q=is%3Apr%20is%3Amerged%20is%3Apublic%20author%3Arobert-cronin) | 173 |
-| [PRs reviewed](https://github.com/search?type=issues&q=is%3Apr%20is%3Apublic%20reviewed-by%3Arobert-cronin%20-author%3Arobert-cronin) | 201 |
-| [Issues opened](https://github.com/search?type=issues&q=is%3Aissue%20is%3Apublic%20author%3Arobert-cronin) | 265 |
-| Stars on my public, non-fork repositories | 107 |
+### Recent writing
 
-PRs reviewed counts distinct pull requests by other authors, not individual review submissions. Stars cover repositories I own, excluding forks; stars on upstream projects are not attributed to me. Monthly bars count my authored PRs by merge date; the current month is incomplete.
+<!-- START_SECTION:writing -->
+- [An inference engine experiment with Astra](https://robertcronin.com/blog/astra-inference-hill-climb)<br><sub>18 Sep 2026</sub>
+- [Building Flere, a terminal workbench for coding agents](https://robertcronin.com/blog/introducing-flere)<br><sub>17 Sep 2026</sub>
+- [Welcome to the AI Bugpocalypse](https://robertcronin.com/blog/the-fifty-dollar-bug)<br><sub>10 Apr 2026</sub>
+- [I Made an AI Think It's a Kubernetes Pod](https://robertcronin.com/blog/kubernetes-gemma)<br><sub>4 Mar 2026</sub>
+- [I Deleted 389 Lines and the Thing Finally Worked](https://robertcronin.com/blog/buildkit-frontend-copa)<br><sub>21 Jan 2026</sub>
+<!-- END_SECTION:writing -->
 
-[Source data](assets/metrics.json) · [Generator](.github/scripts/update_metrics.py)
-<!-- END_SECTION:metrics -->
+[All posts](https://robertcronin.com/blog)
 
-</details>
+</td></tr></table>
 
 ## Projects
 
-| Project | Role | Focus |
-| :--- | :--- | :--- |
-| [**Copacetic**](https://github.com/project-copacetic/copacetic) | Maintainer | Container image patching and vulnerability remediation |
-| [**Flere**](https://github.com/robert-cronin/flere) | Maintainer | Terminal workbench for projects, shells, editors, and agents |
-| [**AI Runway**](https://github.com/ai-runway/airunway) | Contributor | AI inference infrastructure on Kubernetes |
-| [**Orka**](https://github.com/orka-agents/orka) | Contributor | Agent orchestration on Kubernetes |
-| [**GUAC**](https://github.com/guacsec/guac) | Contributor | Software supply chain security |
-| [**KAITO**](https://github.com/kaito-project/kaito) | Contributor | Model inference and tuning on Kubernetes |
-
-## Technical focus
-
-**Languages:** Go, Rust, TypeScript, Python<br>
-**Systems:** Kubernetes, Linux, containers, GitOps<br>
-**Areas:** Developer tooling, AI inference infrastructure, software supply chain security
-
-## Recent contributions
-
-Recently updated, merged pull requests across public projects.
-
-<!-- START_SECTION:prs -->
-- **sozercan/vekil** — [fix(proxy): distinguish unavailable Responses state from conflicts](https://github.com/sozercan/vekil/pull/381) · Updated 2026-09-16
-- **orka-agents/orka** — [feat(acp): trace harness v2 execution and fix publication cleanup](https://github.com/orka-agents/orka/pull/595) · Updated 2026-09-15
-- **containerd/containerd** — [erofs: enable fsview fallback for unsupported features](https://github.com/containerd/containerd/pull/14077) · Updated 2026-09-14
-<!-- END_SECTION:prs -->
-
-[More merged contributions](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Arobert-cronin+sort%3Aupdated-desc)
+- [**Copacetic**](https://github.com/project-copacetic/copacetic), core maintainer. Container image patching and vulnerability remediation.
+- [**AI Runway**](https://github.com/ai-runway/airunway), core maintainer. AI inference infrastructure on Kubernetes.
+- [**Flere**](https://github.com/robert-cronin/flere), maintainer. A terminal workbench for projects, shells, editors and agents.
+- [**Orka**](https://github.com/orka-agents/orka), contributor. Agent orchestration on Kubernetes.
+- [**GUAC**](https://github.com/guacsec/guac), contributor. Software supply chain security.
+- [**KAITO**](https://github.com/kaito-project/kaito), contributor. Model inference and tuning on Kubernetes.

@@ -40,23 +40,21 @@ jobs:
       - name: Check updater
         run: python -m unittest discover -s .github/scripts -p 'test_*.py'
 
-      - name: Update public metrics
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python .github/scripts/update_metrics.py
-
       - name: Update recent contributions
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python .github/scripts/update_prs.py
 
-      - name: Commit changed contributions
+      - name: Update recent writing
+        run: python .github/scripts/update_writing.py
+
+      - name: Commit changed lists
         run: |
-          if git diff --quiet -- README.md assets/metrics*.svg assets/metrics.json; then
+          if git diff --quiet -- README.md; then
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md assets/metrics*.svg assets/metrics.json
+          git add README.md
           git commit -m "Update profile activity"
           git push
