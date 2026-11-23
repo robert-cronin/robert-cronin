@@ -13,7 +13,7 @@ I write about what I build at [robertcronin.com](https://robertcronin.com). You 
 ### Recent work
 
 <!-- START_SECTION:prs -->
-- [fix: validate OCI layout output before publishing it and stop on unreadable layout annotations](https://github.com/project-copacetic/copacetic/pull/1786)<br><sub>project-copacetic/copacetic · 19 Nov 2026</sub>
+- [ci: run arm64 Chisel tests natively and shard multiarch tests](https://github.com/project-copacetic/copacetic/pull/1808)<br><sub>project-copacetic/copacetic · 23 Nov 2026</sub>
 - [feat: add decisions passthrough endpoint](https://github.com/sozercan/vekil/pull/451)<br><sub>sozercan/vekil · 17 Nov 2026</sub>
 - [feat(cli): read the API token from ORKA\_TOKEN or a file and default to the installation's namespace](https://github.com/orka-agents/orka/pull/1124)<br><sub>orka-agents/orka · 16 Nov 2026</sub>
 - [Show kmx refusals in the guest infrastructure log](https://github.com/orka-agents/orka-bridge/pull/151)<br><sub>orka-agents/orka-bridge · 13 Nov 2026</sub>
