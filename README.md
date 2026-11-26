@@ -13,9 +13,9 @@ I write about what I build at [robertcronin.com](https://robertcronin.com). You 
 ### Recent work
 
 <!-- START_SECTION:prs -->
-- [feat(storage): add artifact and blob RPCs and the storage adapter kit](https://github.com/orka-agents/orka/pull/1227)<br><sub>orka-agents/orka · 25 Nov 2026</sub>
+- [test(wire): close the headers signal before GOAWAY in the evidence retry test](https://github.com/orka-agents/orka/pull/1408)<br><sub>orka-agents/orka · 26 Nov 2026</sub>
+- [docs: replace broken CNCF Slack invite link](https://github.com/project-copacetic/copacetic/pull/1832)<br><sub>project-copacetic/copacetic · 26 Nov 2026</sub>
 - [fix(proxy): accept Gemini functionResponse parts in model-role contents](https://github.com/sozercan/vekil/pull/477)<br><sub>sozercan/vekil · 24 Nov 2026</sub>
-- [ci: run arm64 Chisel tests natively and shard multiarch tests](https://github.com/project-copacetic/copacetic/pull/1808)<br><sub>project-copacetic/copacetic · 23 Nov 2026</sub>
 <!-- END_SECTION:prs -->
 
 [All merged pull requests](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Arobert-cronin+sort%3Aupdated-desc)
