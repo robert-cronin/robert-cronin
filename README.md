@@ -13,9 +13,8 @@ I write about what I build at [robertcronin.com](https://robertcronin.com). You 
 ### Recent work
 
 <!-- START_SECTION:prs -->
-- [test(wire): close the headers signal before GOAWAY in the evidence retry test](https://github.com/orka-agents/orka/pull/1408)<br><sub>orka-agents/orka · 26 Nov 2026</sub>
+- [feat(mcp): serve OAuth protected-resource metadata so MCP clients can sign in](https://github.com/orka-agents/orka/pull/1413)<br><sub>orka-agents/orka · 27 Nov 2026</sub>
 - [docs: replace broken CNCF Slack invite link](https://github.com/project-copacetic/copacetic/pull/1832)<br><sub>project-copacetic/copacetic · 26 Nov 2026</sub>
-- [fix(proxy): accept Gemini functionResponse parts in model-role contents](https://github.com/sozercan/vekil/pull/477)<br><sub>sozercan/vekil · 24 Nov 2026</sub>
 <!-- END_SECTION:prs -->
 
 [All merged pull requests](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Arobert-cronin+sort%3Aupdated-desc)
