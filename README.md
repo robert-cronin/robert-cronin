@@ -13,7 +13,7 @@ I write about what I build at [robertcronin.com](https://robertcronin.com). You 
 ### Recent work
 
 <!-- START_SECTION:prs -->
-- [feat(mcp): serve OAuth protected-resource metadata so MCP clients can sign in](https://github.com/orka-agents/orka/pull/1413)<br><sub>orka-agents/orka · 27 Nov 2026</sub>
+- [test(e2e): cover keyless Azure OpenAI Providers with a fake Entra and document them (#1219)](https://github.com/orka-agents/orka/pull/1229)<br><sub>orka-agents/orka · 27 Nov 2026</sub>
 - [docs: replace broken CNCF Slack invite link](https://github.com/project-copacetic/copacetic/pull/1832)<br><sub>project-copacetic/copacetic · 26 Nov 2026</sub>
 <!-- END_SECTION:prs -->
 
